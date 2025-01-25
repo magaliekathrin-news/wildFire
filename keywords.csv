@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.5606126593839375
 'wildfire area',en,Hazard,#4287f5,#315fa8,2,0.5510456351363636
-'wildfire residents',en,Impacts,#a89216,#87830f,2,0.5435812630386362
 'wildfire disaster',en,Impacts,#a89216,#87830f,2,0.5419887009909091
+'wildfire residents',en,Impacts,#a89216,#87830f,3,0.5344657240667117
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,2,0.5310456351363636
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.5054842685066477
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.5024409969997334
