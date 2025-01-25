@@ -1,18 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,2,0.5310456351363636
+'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
+'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.5606126593839375
 'wildfire area',en,Hazard,#4287f5,#315fa8,2,0.5510456351363636
+'wildfire residents',en,Impacts,#a89216,#87830f,2,0.5435812630386362
+'wildfire disaster',en,Impacts,#a89216,#87830f,2,0.5419887009909091
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,2,0.5310456351363636
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.5054842685066477
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.5024409969997334
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.4834639475671427
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.4705036238103895
 'wildfire death',en,Impacts,#a89216,#87830f,2,0.4519887009909091
-'wildfire disaster',en,Impacts,#a89216,#87830f,2,0.5419887009909091
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.4494164619991477
 'bushfire',en,Hazard,#4287f5,#022f78,1,0.4472406581615532
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.445158243819273
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.4447034870390907
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
-'wildfire residents',en,Impacts,#a89216,#87830f,2,0.5435812630386362
 'wildfire damage',en,Impacts,#a89216,#c4b03b,1,0.4349043766375
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
 'wildfire weather',en,Causes,#679e2c,#61d01c,2,0.4210118265178976
@@ -21,8 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire health',en,Impacts,#a89216,#bfba22,1,0.4122030830987498
 'wildfire military',en,Mitigation,#9e3215,#d64118,1,0.4115794274488067
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,1,0.3663604580987499
-'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
-'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
 'wildfire hot',en,Causes,#679e2c,#7db344,1,0.3654043749999999
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3433489289545455
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,1,0.3269983710712776
