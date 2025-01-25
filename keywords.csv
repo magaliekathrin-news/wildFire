@@ -1,18 +1,23 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.3579525847210543
-'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.2735304440364126
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2696606568300839
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2671341110826905
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2174188393246744
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.1860921396226171
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1681205193137882
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1654204800176136
-'Sommer',de,Sommer,#a89216,#a89216,3,0.1611324884043626
-'Laub',de,Herbst,#9e3215,#802d16,2,0.1298109168729461
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1105060179872716
-'Blüte',de,Frühling,#679e2c,#61b00c,2,0.0939489454857552
-'Pollen',de,Frühling,#679e2c,#61d01c,1,0.0807859734494652
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.033525111649270176
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0293231164151495
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0210220731061211
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0146873470433236
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,2,0.5310456351363636
+'wildfire climate change',en,Causes,#679e2c,#477515,3,0.5193288228420455
+'wildfire',en,Hazard,#4287f5,#638ed4,3,0.4946052648272727
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.4705036238103895
+'wildfire heat',en,Causes,#679e2c,#7db344,1,0.4693780383142856
+'wildfire death',en,Impacts,#a89216,#87830f,2,0.4519887009909091
+'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.4494164619991477
+'bushfire',en,Hazard,#4287f5,#022f78,1,0.4472406581615532
+'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.445158243819273
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.4447034870390907
+'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
+'wildfire damage',en,Impacts,#a89216,#c4b03b,1,0.4349043766375
+'wildfire house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
+'wildfire weather',en,Causes,#679e2c,#61d01c,2,0.4210118265178976
+'wildfire smoke',en,Impacts,#a89216,#bfba22,2,0.4208606708438636
+'wildfire brigade',en,Mitigation,#9e3215,#802d16,3,0.4185261369581249
+'wildfire health',en,Impacts,#a89216,#bfba22,1,0.4122030830987498
+'wildfire military',en,Mitigation,#9e3215,#d64118,1,0.4115794274488067
+'wildfire insurance',en,Mitigation,#9e3215,#802d16,1,0.3663604580987499
+'wildfire hot',en,Causes,#679e2c,#7db344,1,0.3654043749999999
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3433489289545455
+'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,1,0.3269983710712776
