@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire smoke',en,Impacts,#a89216,#bfba22,2,0.418798640217284
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,3,0.4185261369581249
 'wildfire health',en,Impacts,#a89216,#bfba22,1,0.4122030830987498
-'wildfire military',en,Mitigation,#9e3215,#d64118,1,0.4115794274488067
+'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.40479609833148567
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,1,0.3663604580987499
 'wildfire hot',en,Causes,#679e2c,#7db344,1,0.3654043749999999
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3433489289545455
