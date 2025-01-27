@@ -1,15 +1,113 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Donald Trump,Donald Trump,PERSON,0.11527777777777776,0.20308641975308644,en,9
-Heidi Montag,Heidi Montag,PERSON,-0.18194444444444446,0.19120370370370368,en,6
-Spencer Pratt,Spencer Pratt,PERSON,-0.16944444444444443,0.21203703703703702,en,3
+Donald Trump,Donald Trump,PERSON,-0.06182336182336182,0.20292022792022793,en,39
+Gavin Newsom,Gavin Newsom,PERSON,-0.16501736111111112,0.2532986111111111,en,16
+Karen Bass,Karen Bass,PERSON,-0.027579365079365103,0.4134589947089946,en,12
+Heidi Montag,Heidi Montag,PERSON,-0.10492424242424242,0.1667929292929293,en,11
+Spencer Pratt,Spencer Pratt,PERSON,-0.07135416666666666,0.16545138888888888,en,8
+Getty Images,Getty Images,PERSON,0.03148148148148148,0.22962962962962963,en,6
+Meghan Markle,Meghan Markle,PERSON,-0.05333333333333333,0.24,en,5
+Arnold Schwarzenegger,Arnold Schwarzenegger,PERSON,0.0625,0.08333333333333333,en,4
+Mike Johnson,Mike Johnson,PERSON,-0.09895833333333333,0.21354166666666666,en,4
+Stephanie Sy,Stephanie Sy,PERSON,-0.0625,0.35,en,4
+Chuck D,Chuck D,PERSON,0.0,0.048611111111111105,en,3
+Jon Stewart,Jon Stewart,PERSON,-0.16666666666666666,0.3333333333333333,en,3
+Emilia Pérez,Emilia Pérez,PERSON,-0.036111111111111115,0.09722222222222222,en,3
+Jason Oppenheim,Jason Oppenheim,PERSON,-0.2875,0.4833333333333334,en,3
+Lady Gaga,Lady Gaga,PERSON,-0.028282828282828288,0.35555555555555557,en,3
+Billie Eilish,Billie Eilish,PERSON,0.038383838383838374,0.25555555555555554,en,3
+Adam Schiff,Adam Schiff,PERSON,0.0957070707070707,0.5393939393939394,en,3
+Mark Duplass,Mark Duplass,PERSON,0.1111111111111111,0.1259259259259259,en,3
+John Hiatt,John Hiatt,PERSON,-0.05555555555555555,0.1111111111111111,en,3
+Deanne Criswell,Deanne Criswell,PERSON,0.3893939393939394,0.8090909090909091,en,3
+Marilyn Katzenberg,Marilyn Katzenberg,PERSON,0.0,0.0,en,3
+Mel Gibson,Mel Gibson,PERSON,0.14583333333333334,0.25,en,3
+Ben Affleck,Ben Affleck,PERSON,0.004734848484848481,0.3873106060606061,en,2
+Joe Rogan,Joe Rogan,PERSON,0.0,0.0,en,2
+Billy Crystal,Billy Crystal,PERSON,0.46875,0.875,en,2
+Greg Sargent,Greg Sargent,PERSON,0.03409090909090909,0.11363636363636363,en,2
+Elon Musk,Elon Musk,PERSON,0.0,0.55,en,2
 Spencer Pratt Sue City,Spencer Pratt Sue City,PERSON,-0.2916666666666667,0.25555555555555554,en,2
+Bill Burr,Bill Burr,PERSON,0.0,0.0,en,2
+Halle Berry donates,Halle Berry donates,PERSON,0.0,0.625,en,2
+Vin Diesel,Vin Diesel,PERSON,0.1,0.3,en,2
+Romeo Petit,Romeo Petit,PERSON,0.0,0.03333333333333333,en,2
+Tracy Droz Tragos,Tracy Droz Tragos,PERSON,0.0675,0.24,en,2
+Kelly Osbourne,Kelly Osbourne,PERSON,-0.25,0.25,en,2
+Jack Cohen,Jack Cohen,PERSON,0.0,0.0,en,2
+Ricardo Hernandez,Ricardo Hernandez,PERSON,0.025,0.1,en,2
+Trevor Noah,Trevor Noah,PERSON,0.0,0.0,en,2
+Brad Sherman,Brad Sherman,PERSON,0.0,0.0,en,2
+Steve Wolf,Steve Wolf,PERSON,-0.01331168831168831,0.24074675324675326,en,2
+Prince Harry,Prince Harry,PERSON,-0.06666666666666667,0.3,en,2
+Nick Carranza,Nick Carranza,PERSON,0.0,0.0,en,2
+Eaton Fires,Eaton Fires,PERSON,-0.12393939393939396,0.41333333333333333,en,2
+Avery Colvert,Avery Colvert,PERSON,-0.027777777777777776,0.011111111111111112,en,2
+J Lo,J Lo,PERSON,0.0018939393939393923,0.30492424242424243,en,2
+Brian van der Brug,Brian van der Brug,PERSON,0.08333333333333333,0.4666666666666666,en,2
+Justin Baldonis,Justin Baldonis,PERSON,0.2590909090909091,0.23863636363636365,en,1
+Young Kim,Young Kim,PERSON,0.1,0.4,en,1
+Frederic J,Frederic J,PERSON,0.0,0.0,en,1
+MARIA SHERMAN,MARIA SHERMAN,PERSON,0.174025974025974,0.3634199134199134,en,1
+Blake Lively,Blake Lively,PERSON,0.2590909090909091,0.23863636363636365,en,1
+Etienne Laurent,Etienne Laurent,PERSON,0.0,0.0,en,1
+Obama Bros Raise,Obama Bros Raise,PERSON,-0.15,0.4,en,1
 Spencer Pratt sue,Spencer Pratt sue,PERSON,0.0,0.0,en,1
-LA Wildfires,LA Wildfires,PERSON,0.0,0.1,en,1
-Benson Boone,Benson Boone,PERSON,0.0,0.0,en,1
-Billie Eilish,Billie Eilish,PERSON,0.0,0.0,en,1
-Chappell Roan,Chappell Roan,PERSON,0.0,0.0,en,1
-Charli xcx,Charli xcx,PERSON,0.0,0.0,en,1
-Sabrina Carpenter,Sabrina Carpenter,PERSON,0.0,0.0,en,1
-CHAPPELL ROAN,CHAPPELL ROAN,PERSON,0.0,0.0,en,1
-SABRINA CARPENTER,SABRINA CARPENTER,PERSON,0.0,0.0,en,1
+Ava Horton,Ava Horton,PERSON,-0.25,0.3125,en,1
+Creativ Studio Heinemann,Creativ Studio Heinemann,PERSON,-0.25,0.3125,en,1
+Tawang Chu,Tawang Chu,PERSON,0.0,0.0,en,1
+Willie James Inman,Willie James Inman,PERSON,0.25,0.25,en,1
+Jennifer Lopez Eyeing,Jennifer Lopez Eyeing,PERSON,0.2857142857142857,0.5357142857142857,en,1
+AmericanaFest Pre-Grammy Salute Pivots,AmericanaFest Pre-Grammy Salute Pivots,PERSON,-0.16666666666666666,0.3333333333333333,en,1
+GoFundMe Aid,GoFundMe Aid,PERSON,1.0,0.3,en,1
 Joe Biden,Joe Biden,PERSON,0.0625,0.08333333333333333,en,1
+SABRINA CARPENTER,SABRINA CARPENTER,PERSON,0.0,0.0,en,1
+CHAPPELL ROAN,CHAPPELL ROAN,PERSON,0.0,0.0,en,1
+Sabrina Carpenter,Sabrina Carpenter,PERSON,0.0,0.0,en,1
+Charli xcx,Charli xcx,PERSON,0.0,0.0,en,1
+Chappell Roan,Chappell Roan,PERSON,0.0,0.0,en,1
+Benson Boone,Benson Boone,PERSON,0.0,0.0,en,1
+LA Wildfires,LA Wildfires,PERSON,0.0,0.1,en,1
+Jon Soucy,Jon Soucy,PERSON,0.0,0.0,en,1
+Kelly Osbourne Slams Celebs,Kelly Osbourne Slams Celebs,PERSON,0.0,0.0,en,1
+Jacqueline Laurean Yates,Jacqueline Laurean Yates,PERSON,0.0,0.625,en,1
+Alex Padilla,Alex Padilla,PERSON,0.0,0.0,en,1
+Gabe Santos,Gabe Santos,PERSON,0.0,0.0,en,1
+Qian Weizhong,Qian Weizhong,PERSON,-0.2,0.0,en,1
+Daniel Swain,Daniel Swain,PERSON,-0.5,0.5,en,1
+Isaac Chotiner,Isaac Chotiner,PERSON,-0.5,0.5,en,1
+Shane Bromley,Shane Bromley,PERSON,0.0,0.0,en,1
+Matt Alba,Matt Alba,PERSON,0.19999999999999998,0.26666666666666666,en,1
+Alejandro Mayorkas,Alejandro Mayorkas,PERSON,0.0,0.0,en,1
+Jeff Gritchen,Jeff Gritchen,PERSON,0.0,0.0,en,1
+Nick Schuler,Nick Schuler,PERSON,0.0,0.0,en,1
+Halle Berry,Halle Berry,PERSON,-0.5,1.0,en,1
+Farmer Andy Lyall,Farmer Andy Lyall,PERSON,0.13636363636363635,0.5,en,1
+Tristin Perez,Tristin Perez,PERSON,-0.1,0.2,en,1
+STEVEN ZEITCHIK,STEVEN ZEITCHIK,PERSON,0.225,0.47500000000000003,en,1
+Hurricanes Milton,Hurricanes Milton,PERSON,0.16818181818181818,0.42727272727272725,en,1
+Justin Sullivan,Justin Sullivan,PERSON,0.0,0.0,en,1
+Ricardo Lara,Ricardo Lara,PERSON,0.0,0.0,en,1
+Richard Lara,Richard Lara,PERSON,0.2857142857142857,0.5357142857142857,en,1
+Patrick Brown,Patrick Brown,PERSON,-0.03888888888888889,0.1847222222222222,en,1
+Jim Steele,Jim Steele,PERSON,0.061111111111111116,0.3111111111111111,en,1
+George head,George head,PERSON,-0.07777777777777778,0.14444444444444446,en,1
+Belle Vitale,Belle Vitale,PERSON,1.0,0.3,en,1
+Tom Hals,Tom Hals,PERSON,0.19166666666666665,0.7333333333333334,en,1
+Abel Tesfaye,Abel Tesfaye,PERSON,0.2333333333333333,0.4000000000000001,en,1
+The Weeknd Donates,The Weeknd Donates,PERSON,0.0,0.0,en,1
+Kayna Whitworth,Kayna Whitworth,PERSON,0.0,0.0,en,1
+Matt Gutman,Matt Gutman,PERSON,0.0,0.0,en,1
+SoCal Strong,SoCal Strong,PERSON,0.21666666666666667,0.7416666666666667,en,1
+Ozzy Osbourne,Ozzy Osbourne,PERSON,-0.5,0.5,en,1
+Kelly Osbourne Slams,Kelly Osbourne Slams,PERSON,-0.5,0.5,en,1
+Chad Hanson,Chad Hanson,PERSON,-0.3333333333333333,0.3333333333333333,en,1
+Bill Threadgill,Bill Threadgill,PERSON,0.0,0.0,en,1
+Leighton Meester,Leighton Meester,PERSON,0.4375,0.75,en,1
+Adam Brody,Adam Brody,PERSON,0.4375,0.75,en,1
+Master Sergeant Whitney,Master Sergeant Whitney,PERSON,0.0,0.0,en,1
+Benjamin Netanyahu,Benjamin Netanyahu,PERSON,0.0,0.0,en,1
+Jason Salit,Jason Salit,PERSON,-0.07777777777777778,0.17777777777777778,en,1
+Chad Terhune,Chad Terhune,PERSON,-0.07777777777777778,0.17777777777777778,en,1
+Annie Barbour,Annie Barbour,PERSON,0.5,0.5,en,1
+Bill Burr Rips Critics,Bill Burr Rips Critics,PERSON,0.0,0.0,en,1
+Victor Nava,Victor Nava,PERSON,0.06785714285714284,0.5178571428571428,en,1
