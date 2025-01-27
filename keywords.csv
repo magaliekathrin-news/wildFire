@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,2,0.6629106889522451
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.6397155136100183
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,1,0.6269983710712776
-'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.6264657211765766
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.6222772254763468
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.6047960983314856
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,2,0.6009188093839374
+'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.57012807300009
 'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.5580658504886591
 'wildfire area',en,Hazard,#4287f5,#315fa8,2,0.5510456351363636
