@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire hot',en,Causes,#679e2c,#7db344,1,0.6654043749999999
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.6430608884206493
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.6397155136100183
-'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,1,0.6269983710712776
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.6222772254763468
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.6222634367957076
+'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.6092422576328083
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.6047960983314856
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,2,0.6009188093839374
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.57012807300009
