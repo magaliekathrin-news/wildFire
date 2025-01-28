@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.6665619155564184
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.6657385821031958
-'wildfire hot',en,Causes,#679e2c,#7db344,1,0.6654043749999999
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.6430608884206493
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.6397155136100183
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.6222772254763468
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.6149627296096848
+'wildfire hot',en,Causes,#679e2c,#7db344,2,0.6137989758467741
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.6092422576328083
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.6047960983314856
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,2,0.6009188093839374
