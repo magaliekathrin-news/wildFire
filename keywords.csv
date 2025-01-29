@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.6665619155564184
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.6657385821031958
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.6430608884206493
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.6397155136100183
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.6066195593821675
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.6047960983314856
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,2,0.6009188093839374
+'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.59756412250867
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.57012807300009
 'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,2,0.5658743856094084
