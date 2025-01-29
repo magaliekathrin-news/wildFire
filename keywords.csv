@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.59756412250867
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.57012807300009
 'wildfire relief',en,Mitigation,#9e3215,#802d16,1,0.5663604580987499
-'wildfire brigade',en,Mitigation,#9e3215,#802d16,2,0.5658743856094084
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.5580658504886591
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.5535804035817627
 'wildfire area',en,Hazard,#4287f5,#315fa8,2,0.5510456351363636
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.5147189387696687
+'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.4809935427679971
 'bushfire',en,Hazard,#4287f5,#022f78,1,0.4472406581615532
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.4447034870390907
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
