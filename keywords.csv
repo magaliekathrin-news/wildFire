@@ -23,6 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire health',en,Impacts,#a89216,#bfba22,2,0.4007891360884827
 'wildfire death',en,Impacts,#a89216,#87830f,2,0.3936951353877272
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3845025130263682
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.3836804713860227
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3482284396113637
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.32612840067811927
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2848467251770461
