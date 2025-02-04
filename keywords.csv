@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire smoke',en,Impacts,#a89216,#bfba22,2,0.418798640217284
 'wildfire health',en,Impacts,#a89216,#bfba22,2,0.4007891360884827
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3845025130263682
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.3683329181440842
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3482284396113637
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.32759301542247155
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.3180403334741067
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2848467251770461
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.27720914057640134
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.2772091405764013
