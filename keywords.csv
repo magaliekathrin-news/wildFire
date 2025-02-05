@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire dryness',en,Causes,#679e2c,#61b00c,2,0.471989273512514
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.4648545326936976
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.4470925590217221
-'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.44541342241346316
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.4447034870390907
+'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.4454134224134631
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.4446858420007834
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
 'wildfire smoke',en,Impacts,#a89216,#bfba22,2,0.418798640217284
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.40155952898322705
 'wildfire health',en,Impacts,#a89216,#bfba22,2,0.4007891360884827
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3845025130263682
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3482284396113637
