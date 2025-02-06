@@ -24,5 +24,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3482284396113637
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.3275930154224715
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2848467251770461
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.2772091405764013
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.2731846134529907
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.23562776948994107
