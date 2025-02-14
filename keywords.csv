@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.374574942821055
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3733958476842782
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.3278415302710266
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.31897464275557386
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3189746427555738
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.2867713515518265
 'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.2843674346350333
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2653616195823074
-'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.2106712433118909
+'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.19044435622687197
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.1447049039380099
