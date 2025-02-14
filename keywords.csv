@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.4860279492582932
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.4794041855720216
+'wildfire residents',en,Impacts,#a89216,#87830f,3,0.47866158652170393
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.4566724303425552
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.4494082698261365
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.4454134224134631
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.4446858420007834
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
-'wildfire residents',en,Impacts,#a89216,#87830f,3,0.436287153452644
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,3,0.4304025500357745
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.4295025134925649
