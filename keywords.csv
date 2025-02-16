@@ -2,10 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.4794041855720216
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.4786615865217039
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
-'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.43863331186954924
+'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.4386333118695492
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.4339267407911719
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
-'wildfire solidarity',en,Mitigation,#9e3215,#b55035,3,0.4304025500357745
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.4295025134925649
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.41855924225239
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.4145468259747699
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.3835544840514436
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3733958476842782
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.3692988855358278
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.3658427375304083
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.3278415302710266
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3189746427555738
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.2867713515518265
