@@ -1,288 +1,494 @@
 ,phrase,label,sentiment,subjectivity,language,count
-FireAid,FireAid,ORG,0.028260869565217388,0.24492753623188404,en,23
+FireAid,FireAid,ORG,0.024305555555555552,0.2486111111111111,en,24
+AP,AP,ORG,0.036446122219931744,0.34934306214068117,en,21
 Apple,Apple,ORG,-0.17407407407407408,0.2735449735449736,en,21
+State Farm,State Farm,ORG,-0.04465287798621132,0.19192720859387527,en,18
+Trump,Trump,ORG,0.08354497354497353,0.2625214947089947,en,16
 FEMA,FEMA,ORG,0.018002244668911316,0.2965095398428732,en,15
-AP,AP,ORG,0.0034134599967933295,0.35077473144139815,en,15
-Trump,Trump,ORG,0.09343915343915343,0.2331878306878307,en,14
-TMZ,TMZ,ORG,0.06617473435655255,0.48405647382920114,en,11
-Fox News,Fox News,ORG,0.03548280423280422,0.6066798941798941,en,10
+TMZ,TMZ,ORG,0.06510989010989013,0.44867216117216113,en,13
+Fox News,Fox News,ORG,0.06468805114638447,0.6025903880070547,en,12
+California Wildfire,California Wildfire,ORG,0.05495867768595041,0.27561983471074386,en,11
+NBA,NBA,ORG,0.02054292929292929,0.2657449494949495,en,10
 House,House,ORG,-0.06916666666666667,0.195,en,10
+Sony,Sony,ORG,-0.1,0.25416666666666665,en,10
+Consent Framework,Consent Framework,ORG,-0.09293560606060605,0.3521590909090909,en,10
+IAB Transparency &,IAB Transparency &,ORG,-0.09293560606060605,0.3521590909090909,en,10
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.20800000000000002,0.4241666666666667,en,10
 GOP,GOP,ORG,-0.11286008230452677,0.1640946502057613,en,9
-Kia Forum,Kia Forum,ORG,0.041666666666666664,0.3949074074074075,en,9
-California Wildfire,California Wildfire,ORG,0.052020202020202015,0.21111111111111114,en,9
 LAist.com,LAist.com,ORG,0.25,0.4000000000000001,en,9
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.2403703703703704,0.4564814814814815,en,9
-NBA,NBA,ORG,0.06098484848484848,0.23522727272727273,en,9
-Super Scooper,Super Scooper,ORG,0.06953124999999999,0.5513888888888888,en,8
-Consent Framework,Consent Framework,ORG,-0.08491950757575757,0.3464488636363636,en,8
-IAB Transparency &,IAB Transparency &,ORG,-0.08491950757575757,0.3464488636363636,en,8
+Kia Forum,Kia Forum,ORG,0.041666666666666664,0.3949074074074075,en,9
+LA Wildfires,LA Wildfires,ORG,-0.030555555555555558,0.24444444444444446,en,9
 Beyoncé,Beyoncé,ORG,-0.046875,0.196875,en,8
+CBS News,CBS News,ORG,0.15625,0.15625,en,8
+Super Scooper,Super Scooper,ORG,0.06953124999999999,0.5513888888888888,en,8
+Jasper,Jasper,ORG,-0.10223214285714285,0.3679811507936508,en,8
+Reuters,Reuters,ORG,0.11423611111111112,0.29565972222222225,en,8
+Paris Hilton,Paris Hilton,ORG,0.17812499999999998,0.48125,en,8
 Newsweek,Newsweek,ORG,-0.049999999999999996,0.13994708994708996,en,7
-Reuters,Reuters,ORG,0.13055555555555556,0.31111111111111117,en,7
-Sony,Sony,ORG,0.03571428571428571,0.11309523809523807,en,7
-Watch Duty,Watch Duty,ORG,-0.036111111111111115,0.31666666666666665,en,6
-ABC,ABC,ORG,0.22083333333333333,0.3833333333333333,en,6
-CBS News,CBS News,ORG,0.125,0.125,en,6
-KABC,KABC,ORG,0.22083333333333333,0.3833333333333333,en,6
-Jasper,Jasper,ORG,-0.08075396825396826,0.3165674603174603,en,6
-The Hughes Fire,The Hughes Fire,ORG,0.16111111111111112,0.2833333333333333,en,6
-LA Wildfires,LA Wildfires,ORG,-0.012500000000000002,0.31111111111111106,en,6
-Amazon,Amazon,ORG,0.02881944444444445,0.18923611111111108,en,6
+Alta,Alta,ORG,-0.17040816326530614,0.39285714285714285,en,7
+Associated Press,Associated Press,ORG,0.1412097162097162,0.25501443001443,en,6
 Grammys,Grammys,ORG,0.3177083333333333,0.1416666666666667,en,6
-LA Wildfire,LA Wildfire,ORG,0.25,0.12666666666666665,en,5
-LA Wildfire Relief Efforts,LA Wildfire Relief Efforts,ORG,0.09722222222222222,0.11111111111111112,en,5
-State Farm,State Farm,ORG,-0.056666666666666664,0.16666666666666669,en,5
+California Wildfire Live Updates,California Wildfire Live Updates,ORG,0.07281144781144781,0.4740740740740741,en,6
+Netflix,Netflix,ORG,0.21371212121212121,0.381540404040404,en,6
+KABC,KABC,ORG,0.22083333333333333,0.3833333333333333,en,6
+ABC,ABC,ORG,0.22083333333333333,0.3833333333333333,en,6
+Watch Duty,Watch Duty,ORG,-0.036111111111111115,0.31666666666666665,en,6
+LA Wildfire,LA Wildfire,ORG,0.235,0.19555555555555557,en,6
+The Hughes Fire,The Hughes Fire,ORG,0.16111111111111112,0.2833333333333333,en,6
+the White House,the White House,ORG,0.041666666666666664,0.027777777777777776,en,6
+Amazon,Amazon,ORG,0.02881944444444445,0.18923611111111108,en,6
+Spire Global Canada,Spire Global Canada,ORG,-0.02222222222222222,0.1,en,5
+NWS,NWS,ORG,0.0553030303030303,0.28934343434343435,en,5
+the California Community Foundation,the California Community Foundation,ORG,0.11666666666666665,0.21333333333333332,en,5
+Newsom,Newsom,ORG,0.04,0.04,en,5
+Instagram,Instagram,ORG,0.11833333333333333,0.6233333333333333,en,5
+California Insurance,California Insurance,ORG,0.061142857142857145,0.17866666666666667,en,5
 Skydance Interactive,Skydance Interactive,ORG,-0.09277777777777776,0.4216666666666667,en,5
 Paradise,Paradise,ORG,0.2,0.2,en,5
-Instagram,Instagram,ORG,0.11833333333333333,0.6233333333333333,en,5
-Alta,Alta,ORG,-0.17190476190476192,0.3411111111111111,en,5
-Netflix,Netflix,ORG,0.255,0.385,en,5
-the White House,the White House,ORG,0.05,0.03333333333333333,en,5
-Associated Press,Associated Press,ORG,0.08945165945165945,0.18601731601731603,en,5
+LA Wildfire Relief Efforts,LA Wildfire Relief Efforts,ORG,0.09722222222222222,0.11111111111111112,en,5
 Hughes,Hughes,ORG,0.06345454545454546,0.1772929292929293,en,5
+CBS Interactive Inc.,CBS Interactive Inc.,ORG,0.0,0.0,en,5
 NPR,NPR,ORG,0.03,0.16,en,5
-Intuit Dome,Intuit Dome,ORG,-0.05208333333333333,0.675,en,4
-the Los Angeles Wildfires,the Los Angeles Wildfires,ORG,0.0,0.0,en,4
-Nirvana,Nirvana,ORG,-0.025,0.0,en,4
-the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,0.0375,0.0,en,4
-Apple Card,Apple Card,ORG,0.07500000000000001,0.30000000000000004,en,4
-Inglewood,Inglewood,ORG,-0.08333333333333333,0.42500000000000004,en,4
-Habitat,Habitat,ORG,0.3125,0.25,en,4
 SpaceX,SpaceX,ORG,0.20833333333333331,0.22499999999999998,en,4
+MusiCares,MusiCares,ORG,-0.22916666666666666,0.2916666666666667,en,4
+Apple Card,Apple Card,ORG,0.07500000000000001,0.30000000000000004,en,4
+Intuit Dome,Intuit Dome,ORG,-0.05208333333333333,0.675,en,4
 RoGO Communications,RoGO Communications,ORG,0.2,0.3,en,4
-Newsom,Newsom,ORG,0.05,0.05,en,4
-Paris Hilton,Paris Hilton,ORG,0.056249999999999994,0.4375,en,4
-CBS Interactive Inc.,CBS Interactive Inc.,ORG,0.0,0.0,en,4
-SAG-AFTRA,SAG-AFTRA,ORG,0.015625,0.08854166666666666,en,4
-Los Angeles Dodgers,Los Angeles Dodgers,ORG,0.0,0.0,en,4
-Google,Google,ORG,0.3166666666666667,0.37222222222222223,en,4
-Dimboola,Dimboola,ORG,0.07500000000000001,0.31875,en,4
+SPX,SPX,ORG,0.08888888888888889,0.19999999999999998,en,4
+the Los Angeles Wildfires,the Los Angeles Wildfires,ORG,0.0,0.0,en,4
 IOC,IOC,ORG,-0.125,0.125,en,4
-NWS,NWS,ORG,0.014962121212121204,0.27001262626262623,en,4
 Sundance,Sundance,ORG,0.10416666666666667,0.20833333333333331,en,4
-DJI Mini 3,DJI Mini 3,ORG,0.10277777777777779,0.19999999999999998,en,3
-the California National Guard,the California National Guard,ORG,0.08141975308641976,0.2559876543209877,en,3
-the Palisades Fire,the Palisades Fire,ORG,-0.009722222222222235,0.39999999999999997,en,3
-Riot Games,Riot Games,ORG,-0.03402777777777778,0.2798611111111111,en,3
-INGLEWOOD,INGLEWOOD,ORG,0.0,0.3333333333333333,en,3
-Earth Lounge,Earth Lounge,ORG,-0.20454545454545459,0.48484848484848486,en,3
-UN,UN,ORG,-0.19523809523809524,0.16428571428571428,en,3
-ABC News,ABC News,ORG,0.0909090909090909,0.3333333333333333,en,3
-Grist,Grist,ORG,0.25,0.25,en,3
-California Insurance,California Insurance,ORG,0.09523809523809523,0.0,en,3
-Beyoncé’,Beyoncé’,ORG,-0.125,0.25,en,3
+Southern California Edison,Southern California Edison,ORG,-0.008333333333333331,0.16666666666666666,en,4
+Habitat,Habitat,ORG,0.3125,0.25,en,4
+Rosemary Farm,Rosemary Farm,ORG,0.1479166666666667,0.3388888888888889,en,4
+Inglewood,Inglewood,ORG,-0.08333333333333333,0.42500000000000004,en,4
+SAG-AFTRA,SAG-AFTRA,ORG,0.015625,0.08854166666666666,en,4
+Dimboola,Dimboola,ORG,0.07500000000000001,0.31875,en,4
+Los Angeles Dodgers,Los Angeles Dodgers,ORG,0.0,0.0,en,4
+the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,0.0375,0.0,en,4
+Google,Google,ORG,0.3166666666666667,0.37222222222222223,en,4
+CNN,CNN,ORG,-0.08333333333333333,0.0,en,4
+Nirvana,Nirvana,ORG,-0.025,0.0,en,4
+WSJ,WSJ,ORG,-0.2364583333333333,0.3784722222222222,en,4
+The Fine Print,The Fine Print,ORG,0.2230555555555556,0.21666666666666667,en,4
+NASA,NASA,ORG,0.0,0.0,en,4
 Leaving Records,Leaving Records,ORG,0.10269360269360268,0.2836700336700337,en,3
-OnlySky,OnlySky,ORG,0.13636363636363635,0.30303030303030304,en,3
-the Crooked Creek Fire,the Crooked Creek Fire,ORG,0.05000000000000001,0.12777777777777777,en,3
-The Recording Academy,The Recording Academy,ORG,0.03,0.0,en,3
-Hurricane Helene,Hurricane Helene,ORG,0.05000000000000001,0.12777777777777777,en,3
-Meta,Meta,ORG,0.15625,0.14583333333333334,en,3
-Mahabharat Community Forest,Mahabharat Community Forest,ORG,0.0625,0.14583333333333334,en,3
-Angeles National Forest,Angeles National Forest,ORG,-0.19999999999999998,0.3,en,3
-the National Weather Service,the National Weather Service,ORG,-0.07500000000000001,0.29444444444444445,en,3
-The Fine Print,The Fine Print,ORG,0.227962962962963,0.18888888888888888,en,3
-Apu Gomes/Getty Images,Apu Gomes/Getty Images,ORG,-0.13333333333333333,0.0,en,3
-Dungeons & Dragons,Dungeons & Dragons,ORG,0.10435185185185185,0.35787037037037034,en,3
-CNN,CNN,ORG,-0.1111111111111111,0.0,en,3
-Häagen-Dazs,Häagen-Dazs,ORG,0.5,0.3333333333333333,en,3
 Habitat LA,Habitat LA,ORG,0.356060606060606,0.2924242424242424,en,3
-American Red Cross,American Red Cross,ORG,0.0,0.0,en,3
-Disney,Disney,ORG,-0.010416666666666666,0.19027777777777777,en,3
-Critical Role,Critical Role,ORG,0.06458333333333334,0.40625,en,3
+the California Department of Forestry and Fire Protection,the California Department of Forestry and Fire Protection,ORG,4.625929269271485e-18,0.32916666666666666,en,3
+State,State,ORG,0.0,0.0,en,3
 Trump Lands,Trump Lands,ORG,0.05833333333333333,0.08888888888888889,en,3
-SCOR,SCOR,ORG,0.3,0.225,en,2
-the Tule River Tribe,the Tule River Tribe,ORG,0.25,0.125,en,2
-CBS,CBS,ORG,0.045,0.0,en,2
-Mother Jones Daily,Mother Jones Daily,ORG,0.04000000000000001,0.305,en,2
-Getty Images,Getty Images,ORG,0.05,0.2,en,2
-the L.A. Arts Community Fire Relief Fund,the L.A. Arts Community Fire Relief Fund,ORG,0.1875,0.0,en,2
-Share Their LA Wildfire Stories,Share Their LA Wildfire Stories,ORG,0.1875,0.20833333333333331,en,2
-AFP,AFP,ORG,0.021428571428571422,0.2589285714285714,en,2
-Blizzard Entertainment Donates,Blizzard Entertainment Donates,ORG,0.08214285714285714,0.24642857142857144,en,2
-Walmart,Walmart,ORG,0.159375,0.109375,en,2
-Sierra Nevada,Sierra Nevada,ORG,0.25,0.125,en,2
-LA Downtown News,LA Downtown News,ORG,0.0,0.0,en,2
+The Recording Academy,The Recording Academy,ORG,0.03,0.0,en,3
+Mahabharat Community Forest,Mahabharat Community Forest,ORG,0.0625,0.14583333333333334,en,3
+Winds,Winds,ORG,0.08333333333333333,0.08333333333333333,en,3
+Earth Lounge,Earth Lounge,ORG,-0.20454545454545459,0.48484848484848486,en,3
+Häagen-Dazs,Häagen-Dazs,ORG,0.5,0.3333333333333333,en,3
+INGLEWOOD,INGLEWOOD,ORG,0.0,0.3333333333333333,en,3
+UCLA,UCLA,ORG,0.05333333333333334,0.18000000000000002,en,3
+The National Weather Service,The National Weather Service,ORG,-0.011111111111111118,0.25,en,3
+the California National Guard,the California National Guard,ORG,0.08141975308641976,0.2559876543209877,en,3
+Beyoncé’,Beyoncé’,ORG,-0.125,0.25,en,3
+Riot Games,Riot Games,ORG,-0.03402777777777778,0.2798611111111111,en,3
+Disney,Disney,ORG,-0.010416666666666666,0.19027777777777777,en,3
+Meta,Meta,ORG,0.15625,0.14583333333333334,en,3
+Allstate,Allstate,ORG,-0.008333333333333333,0.049999999999999996,en,3
+the Palisades Fire,the Palisades Fire,ORG,-0.009722222222222235,0.39999999999999997,en,3
+National Weather Service,National Weather Service,ORG,0.16944444444444443,0.21481481481481482,en,3
+DJI Mini 3,DJI Mini 3,ORG,0.10277777777777779,0.19999999999999998,en,3
+UN,UN,ORG,-0.19523809523809524,0.16428571428571428,en,3
+The Palisades Fire,The Palisades Fire,ORG,0.012962962962962963,0.17777777777777778,en,3
+the National Weather Service,the National Weather Service,ORG,-0.07500000000000001,0.29444444444444445,en,3
+the Wall Street Journal,the Wall Street Journal,ORG,-0.10277777777777775,0.34907407407407404,en,3
+Grist,Grist,ORG,0.25,0.25,en,3
+Hawaii Supreme Court,Hawaii Supreme Court,ORG,0.0,0.0,en,3
+the Los Angeles Lakers,the Los Angeles Lakers,ORG,-0.255050505050505,0.36464646464646466,en,3
+Hurricane Helene,Hurricane Helene,ORG,0.05000000000000001,0.12777777777777777,en,3
+Hurst,Hurst,ORG,0.047619047619047616,0.2892857142857143,en,3
+Angeles National Forest,Angeles National Forest,ORG,-0.19999999999999998,0.3,en,3
+Dungeons & Dragons,Dungeons & Dragons,ORG,0.10435185185185185,0.35787037037037034,en,3
+ABC News,ABC News,ORG,0.0909090909090909,0.3333333333333333,en,3
+The Pokemon Company,The Pokemon Company,ORG,0.0,0.0,en,3
+American Red Cross,American Red Cross,ORG,0.0,0.0,en,3
+Apu Gomes/Getty Images,Apu Gomes/Getty Images,ORG,-0.13333333333333333,0.0,en,3
+OnlySky,OnlySky,ORG,0.13636363636363635,0.30303030303030304,en,3
+Critical Role,Critical Role,ORG,0.06458333333333334,0.40625,en,3
+the Crooked Creek Fire,the Crooked Creek Fire,ORG,0.05000000000000001,0.12777777777777777,en,3
+Bandcamp,Bandcamp,ORG,-0.3333333333333333,0.3333333333333333,en,3
+Amirhossein Montazeri/Boise State University,Amirhossein Montazeri/Boise State University,ORG,0.0,0.0,en,2
+Congress,Congress,ORG,-0.24907407407407411,0.2050925925925926,en,2
 the Producers Guild of America,the Producers Guild of America,ORG,0.0,0.0,en,2
-LA Dodgers,LA Dodgers,ORG,0.125,0.16666666666666666,en,2
-Oval Office,Oval Office,ORG,0.25,0.16666666666666666,en,2
-the Crypto.com Arena,the Crypto.com Arena,ORG,0.4,0.5,en,2
-Pretty Woman,Pretty Woman,ORG,0.29583333333333334,0.43333333333333335,en,2
-the Los Angeles Dodgers,the Los Angeles Dodgers,ORG,0.0,0.0,en,2
-CLIMATEWIRE,CLIMATEWIRE,ORG,0.07407407407407407,0.1425925925925926,en,2
-the International Olympic Committee,the International Olympic Committee,ORG,-0.5,0.25,en,2
-Department of Water and Power,Department of Water and Power,ORG,-0.041666666666666664,0.10555555555555556,en,2
-LADWP,LADWP,ORG,0.0,0.0,en,2
-Wildfire Recovery Efforts,Wildfire Recovery Efforts,ORG,0.125,0.16666666666666666,en,2
-the Los Angeles Lakers,the Los Angeles Lakers,ORG,-0.41666666666666663,0.18333333333333335,en,2
-the Climate Movement,the Climate Movement,ORG,0.016666666666666666,0.2833333333333334,en,2
-the Los Angeles Fire,the Los Angeles Fire,ORG,-0.43124999999999997,0.325,en,2
-Olympics,Olympics,ORG,0.3181818181818182,0.36363636363636365,en,2
-the California Department of Forestry and Fire Protection,the California Department of Forestry and Fire Protection,ORG,0.025,0.21875,en,2
-Alexandria Real Estate Equities,Alexandria Real Estate Equities,ORG,0.275,0.2,en,2
-DEI,DEI,ORG,-0.125,0.0,en,2
-the Los Angeles Fire Relief Fund,the Los Angeles Fire Relief Fund,ORG,0.0,0.0,en,2
-Country Fire Authority,Country Fire Authority,ORG,0.5,0.5,en,2
+Huffington Post,Huffington Post,ORG,0.025,0.1,en,2
 the Entertainment Community Fund,the Entertainment Community Fund,ORG,0.0,0.0,en,2
+The Directors Guild Foundation,The Directors Guild Foundation,ORG,0.0,0.0,en,2
 LA Fires,LA Fires,ORG,0.0,0.0,en,2
-Clean Power Alliance,Clean Power Alliance,ORG,0.32222222222222224,0.375,en,2
-U.S. Army Sgt,U.S. Army Sgt,ORG,0.0,0.0,en,2
+CC,CC,ORG,0.0,0.0,en,2
+the Motion Picture Television Fund,the Motion Picture Television Fund,ORG,0.0,0.0,en,2
+DGA,DGA,ORG,0.0,0.0,en,2
+Fiction/Non/Fiction,Fiction/Non/Fiction,ORG,0.025,0.1,en,2
+iPad,iPad,ORG,0.0,0.0,en,2
+Bond Companies,Bond Companies,ORG,0.4,0.225,en,2
+Burr,Burr,ORG,0.07828282828282827,0.0,en,2
+The New York Times,The New York Times,ORG,0.13515151515151513,0.22727272727272727,en,2
 XO Humanitarian Fund,XO Humanitarian Fund,ORG,0.11666666666666665,0.0,en,2
+Jelly Roll,Jelly Roll,ORG,-0.01060606060606061,0.0,en,2
 the World Food Program USA,the World Food Program USA,ORG,0.11666666666666665,0.0,en,2
+ActBlue,ActBlue,ORG,0.23333333333333334,0.14166666666666666,en,2
+Live Nation,Live Nation,ORG,0.057575757575757565,0.25,en,2
+California Bans Insurance,California Bans Insurance,ORG,0.0,0.26666666666666666,en,2
+The Insurance Industry Prepares For Record-Breaking Losses,The Insurance Industry Prepares For Record-Breaking Losses,ORG,0.0,0.0,en,2
+Soboroff,Soboroff,ORG,-0.01874999999999999,0.5,en,2
+Vox,Vox,ORG,0.0,0.15,en,2
+National Guard,National Guard,ORG,-0.0625,0.3,en,2
+Google.org,Google.org,ORG,0.6,0.4,en,2
+Sikh Communities,Sikh Communities,ORG,-0.225,0.275,en,2
+the California Army National Guard,the California Army National Guard,ORG,0.0,0.0,en,2
+Hamas,Hamas,ORG,0.0,0.0,en,2
+U.S. Army Sgt,U.S. Army Sgt,ORG,0.0,0.0,en,2
+The Kemper Foundation Donates,The Kemper Foundation Donates,ORG,0.0,0.0,en,2
+NYSE,NYSE,ORG,-0.008333333333333333,0.2125,en,2
+United Way of,United Way of,ORG,0.4,0.225,en,2
+Google/YouTube,Google/YouTube,ORG,-0.015625,0.0,en,2
+The Preserve L.A.,The Preserve L.A.,ORG,0.15,0.0,en,2
+Hughes Fire,Hughes Fire,ORG,0.15454545454545454,0.23750000000000002,en,2
+Wildfire Oils,Wildfire Oils,ORG,0.4,0.45,en,2
+Clean Power Alliance,Clean Power Alliance,ORG,0.32222222222222224,0.375,en,2
+Senate Targets Oil Companies,Senate Targets Oil Companies,ORG,-0.0875,0.0875,en,2
+The U.S. Army Corps of Engineers,The U.S. Army Corps of Engineers,ORG,0.5,0.45,en,2
+Akemann,Akemann,ORG,0.0,0.0,en,2
+Call Of Duty's,Call Of Duty's,ORG,-0.20416666666666666,0.27499999999999997,en,2
+State Farm Seeks an Urgent Increase,State Farm Seeks an Urgent Increase,ORG,0.16035353535353536,0.17575757575757578,en,2
+FAIR Plan,FAIR Plan,ORG,0.17083333333333334,0.25083333333333335,en,2
+State Farm General,State Farm General,ORG,-0.05624999999999999,0.125,en,2
+PCH,PCH,ORG,-0.1125,0.1875,en,2
+SCE,SCE,ORG,0.0625,0.3125,en,2
+Beckenham,Beckenham,ORG,0.0,0.0,en,2
+parametrics,parametrics,ORG,0.20833333333333331,0.21875,en,2
+Parks Canada,Parks Canada,ORG,0.0,0.0,en,2
+CRC,CRC,ORG,-0.016666666666666666,0.2125,en,2
+California Resources Corporation,California Resources Corporation,ORG,-0.008333333333333333,0.2125,en,2
+Not Insurers,Not Insurers,ORG,0.0,0.0,en,2
+DropBlock 2.0,DropBlock 2.0,ORG,0.2,0.3,en,2
+Project Angel Food,Project Angel Food,ORG,0.041666666666666664,0.4,en,2
+Pasadena Unified School District,Pasadena Unified School District,ORG,0.5,0.45,en,2
+LA Wildfire Fundraiser,LA Wildfire Fundraiser,ORG,-0.5,0.5,en,2
+Walmart,Walmart,ORG,0.159375,0.109375,en,2
+French Southern and Antarctic Lands,French Southern and Antarctic Lands,ORG,-0.07,0.04583333333333334,en,2
+the California Wildfire Relief Fund,the California Wildfire Relief Fund,ORG,0.0,0.0,en,2
+Mercury Insurance Group,Mercury Insurance Group,ORG,-0.03222222222222222,0.25,en,2
+the Long Rebuild for Hollywood Workers Begins,the Long Rebuild for Hollywood Workers Begins,ORG,-0.008333333333333338,0.18888888888888888,en,2
+Federal Home Loan Bank of San Francisco,Federal Home Loan Bank of San Francisco,ORG,-0.08333333333333333,0.06666666666666667,en,2
+The Travelers Companies Inc.,The Travelers Companies Inc.,ORG,0.015625,0.0,en,2
+Hawaiis Supreme Court,Hawaiis Supreme Court,ORG,0.4166666666666667,0.3,en,2
+Supreme Court,Supreme Court,ORG,0.4166666666666667,0.2833333333333333,en,2
+the Mount Carmel Fire,the Mount Carmel Fire,ORG,0.15,0.125,en,2
+EPA,EPA,ORG,0.125,0.375,en,2
+The Los Angeles Times,The Los Angeles Times,ORG,0.25,0.16666666666666666,en,2
+Chame Rural,Chame Rural,ORG,0.0,0.0,en,2
+The Producers Guild of America Awards,The Producers Guild of America Awards,ORG,0.35375,0.32,en,2
+Best Picture,Best Picture,ORG,0.35375,0.32,en,2
+OroraTech,OroraTech,ORG,-0.06666666666666667,0.15,en,2
+Spire,Spire,ORG,-0.06666666666666667,0.15,en,2
+Edison International’s,Edison International’s,ORG,0.20833333333333331,0.08333333333333333,en,2
+the Devastating Los Angeles Wildfires,the Devastating Los Angeles Wildfires,ORG,-0.4583333333333333,0.30833333333333335,en,2
+Autlook,Autlook,ORG,0.06,0.22749999999999998,en,2
+Gildan®,Gildan®,ORG,0.26666666666666666,0.18333333333333335,en,2
+Palisad,Palisad,ORG,0.0,0.0,en,2
 Cavalry FC,Cavalry FC,ORG,-0.16562500000000002,0.228125,en,2
 Tour Wildfire Sites,Tour Wildfire Sites,ORG,0.0875,0.13333333333333333,en,2
-ActBlue,ActBlue,ORG,0.23333333333333334,0.14166666666666666,en,2
 Melania Trump,Melania Trump,ORG,0.25,0.16666666666666666,en,2
 POTUS,POTUS,ORG,-0.2638888888888889,0.17222222222222222,en,2
 Drudge,Drudge,ORG,0.07007575757575757,0.0,en,2
 Senate,Senate,ORG,0.0,0.0,en,2
-National Guard,National Guard,ORG,-0.0625,0.3,en,2
-Congress,Congress,ORG,-0.24907407407407411,0.2050925925925926,en,2
-CHITA,CHITA,ORG,0.28409090909090906,0.25,en,2
-Fiction/Non/Fiction,Fiction/Non/Fiction,ORG,0.025,0.1,en,2
-The Kemper Foundation Donates,The Kemper Foundation Donates,ORG,0.0,0.0,en,2
-NYSE,NYSE,ORG,-0.008333333333333333,0.2125,en,2
 the Americana Music Association,the Americana Music Association,ORG,0.0,0.0,en,2
-Bond Companies,Bond Companies,ORG,0.4,0.225,en,2
-Huffington Post,Huffington Post,ORG,0.025,0.1,en,2
-United Way of,United Way of,ORG,0.4,0.225,en,2
-The Preserve L.A.,The Preserve L.A.,ORG,0.15,0.0,en,2
-Palisad,Palisad,ORG,0.0,0.0,en,2
-UCLA,UCLA,ORG,0.0,0.0,en,2
-Arunachal Pradesh,Arunachal Pradesh,ORG,0.16666666666666666,0.25,en,2
 Truth Social,Truth Social,ORG,0.011666666666666659,0.24666666666666667,en,2
+American Apparel®,American Apparel®,ORG,0.26666666666666666,0.18333333333333335,en,2
+SCOR,SCOR,ORG,0.3,0.225,en,2
+Mother Jones Daily,Mother Jones Daily,ORG,0.04000000000000001,0.305,en,2
+RAYE,RAYE,ORG,0.0,0.0,en,2
+Oval Office,Oval Office,ORG,0.25,0.16666666666666666,en,2
+Blizzard Entertainment Donates,Blizzard Entertainment Donates,ORG,0.08214285714285714,0.24642857142857144,en,2
+LADWP,LADWP,ORG,0.0,0.0,en,2
+Department of Water and Power,Department of Water and Power,ORG,-0.041666666666666664,0.10555555555555556,en,2
+Arunachal Pradesh,Arunachal Pradesh,ORG,0.16666666666666666,0.25,en,2
 Sagkyur,Sagkyur,ORG,0.0,0.0,en,2
-Amirhossein Montazeri/Boise State University,Amirhossein Montazeri/Boise State University,ORG,0.0,0.0,en,2
-The Directors Guild Foundation,The Directors Guild Foundation,ORG,0.0,0.0,en,2
-the Motion Picture Television Fund,the Motion Picture Television Fund,ORG,0.0,0.0,en,2
-DGA,DGA,ORG,0.0,0.0,en,2
-iPad,iPad,ORG,0.0,0.0,en,2
-NASA,NASA,ORG,0.0,0.0,en,2
-Burr,Burr,ORG,0.07828282828282827,0.0,en,2
-Google.org,Google.org,ORG,0.6,0.4,en,2
-Google/YouTube,Google/YouTube,ORG,-0.015625,0.0,en,2
-National Weather Service,National Weather Service,ORG,0.14583333333333331,0.1388888888888889,en,2
-CAL,CAL,ORG,0.03583333333333333,0.16111111111111112,en,2
-Hamas,Hamas,ORG,0.0,0.0,en,2
-The National Weather Service,The National Weather Service,ORG,-0.1,0.25,en,2
-the California Army National Guard,the California Army National Guard,ORG,0.0,0.0,en,2
-Sikh Communities,Sikh Communities,ORG,-0.225,0.275,en,2
+the Los Angeles Fire Relief Fund,the Los Angeles Fire Relief Fund,ORG,0.0,0.0,en,2
 Khao Chom Hae,Khao Chom Hae,ORG,0.5,0.25,en,2
-Vox,Vox,ORG,0.0,0.15,en,2
-Hughes Fire,Hughes Fire,ORG,0.15454545454545454,0.23750000000000002,en,2
-Wildfire Briefing “I’m Going To Give You Everything You Want,Wildfire Briefing “I’m Going To Give You Everything You Want,ORG,0.03125,0.17708333333333331,en,2
-Live Nation,Live Nation,ORG,0.057575757575757565,0.25,en,2
-Jelly Roll,Jelly Roll,ORG,-0.01060606060606061,0.0,en,2
-CC,CC,ORG,0.0,0.0,en,2
-Wildfire Oils,Wildfire Oils,ORG,0.4,0.45,en,2
+Gildan,Gildan,ORG,0.26666666666666666,0.18333333333333335,en,2
+Sierra Nevada,Sierra Nevada,ORG,0.25,0.125,en,2
+the Tule River Tribe,the Tule River Tribe,ORG,0.25,0.125,en,2
+Olympics,Olympics,ORG,0.3181818181818182,0.36363636363636365,en,2
+the Los Angeles Dodgers,the Los Angeles Dodgers,ORG,0.0,0.0,en,2
+Wildfire Recovery Efforts,Wildfire Recovery Efforts,ORG,0.125,0.16666666666666666,en,2
+LA Dodgers,LA Dodgers,ORG,0.125,0.16666666666666666,en,2
+Alexandria Real Estate Equities,Alexandria Real Estate Equities,ORG,0.275,0.2,en,2
 Benefit for LA Wildfire,Benefit for LA Wildfire,ORG,0.25,0.25,en,2
-Wildfire Relief Efforts,Wildfire Relief Efforts,ORG,0.0,0.0,en,2
-DropBlock 2.0,DropBlock 2.0,ORG,0.2,0.3,en,2
-Parks Canada,Parks Canada,ORG,0.0,0.0,en,2
-Comcast,Comcast,ORG,0.0,0.0,en,2
-C-130,C-130,ORG,0.06428571428571428,0.0,en,2
-Pentagon,Pentagon,ORG,0.0,0.0,en,2
-MAFFS,MAFFS,ORG,0.0,0.0,en,2
-Freddie Freeman,Freddie Freeman,ORG,0.0,0.0,en,2
-ESPN,ESPN,ORG,0.0,0.0,en,2
-Red Cross,Red Cross,ORG,0.04166666666666667,0.08333333333333333,en,2
-American Airlines,American Airlines,ORG,0.13999999999999999,0.12,en,2
-CRC,CRC,ORG,-0.016666666666666666,0.2125,en,2
-California Resources Corporation,California Resources Corporation,ORG,-0.008333333333333333,0.2125,en,2
-Not Insurers,Not Insurers,ORG,0.0,0.0,en,2
-solidarity,solidarity,ORG,0.0,0.15,en,2
-the Ohio State Buckeyes,the Ohio State Buckeyes,ORG,0.0,0.15,en,2
-Texas Longhorns,Texas Longhorns,ORG,0.0,0.15,en,2
-Cotton Bowl,Cotton Bowl,ORG,0.0,0.15,en,2
-Crypto.com Arena,Crypto.com Arena,ORG,-0.09375,0.1875,en,2
-Charlotte Hornets-LA Clippers,Charlotte Hornets-LA Clippers,ORG,-0.09375,0.1875,en,2
-CalMatters,CalMatters,ORG,0.5333333333333333,0.375,en,2
-SAG-AFTRA Foundation,SAG-AFTRA Foundation,ORG,0.03125,0.0,en,2
-LA Fires Renew Debate Over Prescribed Burns,LA Fires Renew Debate Over Prescribed Burns,ORG,0.5,0.15,en,2
-Los Angeles Fire,Los Angeles Fire,ORG,0.1,0.5,en,2
-Starlink,Starlink,ORG,0.325,0.4,en,2
-parametrics,parametrics,ORG,0.20833333333333331,0.21875,en,2
-Chargers,Chargers,ORG,0.0,0.0,en,2
-OroraTech,OroraTech,ORG,-0.06666666666666667,0.15,en,2
-Spire,Spire,ORG,-0.06666666666666667,0.15,en,2
-Spire Global Canada,Spire Global Canada,ORG,-0.03333333333333333,0.15,en,2
-Angeles National Fores,Angeles National Fores,ORG,0.0,0.0,en,2
-Hurst,Hurst,ORG,0.17142857142857143,0.23392857142857143,en,2
-The Palisades Fire,The Palisades Fire,ORG,0.125,0.0,en,2
-Akemann,Akemann,ORG,0.0,0.0,en,2
-the Los Angeles Department of Water and Power,the Los Angeles Department of Water and Power,ORG,0.03125,0.15625,en,2
-Call Of Duty's,Call Of Duty's,ORG,-0.20416666666666666,0.27499999999999997,en,2
-the Annenberg Foundation,the Annenberg Foundation,ORG,0.0,0.0,en,2
-SCE,SCE,ORG,0.0625,0.3125,en,2
-Wasserman Foundation,Wasserman Foundation,ORG,0.0,0.0,en,2
-the LA Fire Department Foundation,the LA Fire Department Foundation,ORG,0.0,0.0,en,2
-PCH,PCH,ORG,-0.1125,0.1875,en,2
-Senate Targets Oil Companies,Senate Targets Oil Companies,ORG,-0.0875,0.0875,en,2
-Palisades Charter High School,Palisades Charter High School,ORG,0.12,0.27,en,2
-the University of Freiburg and,the University of Freiburg and,ORG,0.07777777777777778,0.044444444444444446,en,2
+the Climate Movement,the Climate Movement,ORG,0.016666666666666666,0.2833333333333334,en,2
+Country Fire Authority,Country Fire Authority,ORG,0.5,0.5,en,2
+the L.A. Arts Community Fire Relief Fund,the L.A. Arts Community Fire Relief Fund,ORG,0.1875,0.0,en,2
+Share Their LA Wildfire Stories,Share Their LA Wildfire Stories,ORG,0.1875,0.20833333333333331,en,2
+LA Downtown News,LA Downtown News,ORG,0.0,0.0,en,2
+CHITA,CHITA,ORG,0.28409090909090906,0.25,en,2
+Wildfire Briefing “I’m Going To Give You Everything You Want,Wildfire Briefing “I’m Going To Give You Everything You Want,ORG,0.03125,0.17708333333333331,en,2
+CAL,CAL,ORG,0.03583333333333333,0.16111111111111112,en,2
+CBS,CBS,ORG,0.045,0.0,en,2
+the International Olympic Committee,the International Olympic Committee,ORG,-0.5,0.25,en,2
+Malibu Home,Malibu Home,ORG,-0.22499999999999998,0.125,en,2
+PACIFIC PALISADES,PACIFIC PALISADES,ORG,0.08,0.0,en,2
 Stanford University,Stanford University,ORG,0.07777777777777778,0.044444444444444446,en,2
 New York Times,New York Times,ORG,0.05303030303030302,0.1590909090909091,en,2
-Meghan Markle,Meghan Markle,ORG,0.1875,0.375,en,2
-Fire Preparedness,Fire Preparedness,ORG,0.5,0.15,en,2
+Pentagon,Pentagon,ORG,0.0,0.0,en,2
+C-130,C-130,ORG,0.06428571428571428,0.0,en,2
+the Annenberg Foundation,the Annenberg Foundation,ORG,0.0,0.0,en,2
+CLIMATEWIRE,CLIMATEWIRE,ORG,0.07407407407407407,0.1425925925925926,en,2
+CalMatters,CalMatters,ORG,0.5333333333333333,0.375,en,2
+Wildfire Relief Efforts,Wildfire Relief Efforts,ORG,0.0,0.0,en,2
+Comcast,Comcast,ORG,0.0,0.0,en,2
+Pretty Woman,Pretty Woman,ORG,0.29583333333333334,0.43333333333333335,en,2
+solidarity,solidarity,ORG,0.0,0.15,en,2
+the Ohio State Buckeyes,the Ohio State Buckeyes,ORG,0.0,0.15,en,2
+Charlotte Hornets-LA Clippers,Charlotte Hornets-LA Clippers,ORG,-0.09375,0.1875,en,2
 House Destroyed,House Destroyed,ORG,0.0,0.0,en,2
-RAYE,RAYE,ORG,0.0,0.0,en,2
-Project Angel Food,Project Angel Food,ORG,0.041666666666666664,0.4,en,2
-Winds,Winds,ORG,0.125,0.125,en,2
-Gildan®,Gildan®,ORG,0.26666666666666666,0.18333333333333335,en,2
-American Apparel®,American Apparel®,ORG,0.26666666666666666,0.18333333333333335,en,2
-Gildan,Gildan,ORG,0.26666666666666666,0.18333333333333335,en,2
-Malibu Home,Malibu Home,ORG,-0.22499999999999998,0.125,en,2
-MusiCares,MusiCares,ORG,0.04166666666666667,0.08333333333333333,en,2
-Autlook,Autlook,ORG,0.06,0.22749999999999998,en,2
-SPX,SPX,ORG,0.2,0.3,en,2
-the Devastating Los Angeles Wildfires,the Devastating Los Angeles Wildfires,ORG,-0.4583333333333333,0.30833333333333335,en,2
-State,State,ORG,0.0,0.0,en,2
+Wasserman Foundation,Wasserman Foundation,ORG,0.0,0.0,en,2
+Texas Longhorns,Texas Longhorns,ORG,0.0,0.15,en,2
+Cotton Bowl,Cotton Bowl,ORG,0.0,0.15,en,2
+the Los Angeles Fire,the Los Angeles Fire,ORG,-0.43124999999999997,0.325,en,2
+the LA Fire Department Foundation,the LA Fire Department Foundation,ORG,0.0,0.0,en,2
+AFP,AFP,ORG,0.021428571428571422,0.2589285714285714,en,2
+Meghan Markle,Meghan Markle,ORG,0.1875,0.375,en,2
+Getty Images,Getty Images,ORG,0.05,0.2,en,2
+Los Angeles Fire,Los Angeles Fire,ORG,0.1,0.5,en,2
+Crypto.com Arena,Crypto.com Arena,ORG,-0.09375,0.1875,en,2
+the Los Angeles Department of Water and Power,the Los Angeles Department of Water and Power,ORG,0.03125,0.15625,en,2
+DEI,DEI,ORG,-0.125,0.0,en,2
 International Olympic Committee,International Olympic Committee,ORG,0.0,0.0,en,2
-AIA,AIA,ORG,0.0,0.0,en,1
-Become MusiCares Fire Relief Benefit,Become MusiCares Fire Relief Benefit,ORG,-0.16666666666666666,0.0,en,1
-Hughes Fire Reaches,Hughes Fire Reaches,ORG,-0.1,0.0,en,1
-Help Cineverse & Bloody Disgusting Support,Help Cineverse & Bloody Disgusting Support,ORG,-0.9,0.0,en,1
-"Seniors, Community and Social Serv","Seniors, Community and Social Serv",ORG,0.015476190476190478,0.0,en,1
-LA Wildfire Disaster Response Task Force,LA Wildfire Disaster Response Task Force,ORG,0.0,0.0,en,1
+ESPN,ESPN,ORG,0.0,0.0,en,2
+Angeles National Fores,Angeles National Fores,ORG,0.0,0.0,en,2
+Starlink,Starlink,ORG,0.325,0.4,en,2
+MAFFS,MAFFS,ORG,0.0,0.0,en,2
+Red Cross,Red Cross,ORG,0.04166666666666667,0.08333333333333333,en,2
+Chargers,Chargers,ORG,0.0,0.0,en,2
+SAG-AFTRA Foundation,SAG-AFTRA Foundation,ORG,0.03125,0.0,en,2
+Palisades Charter High School,Palisades Charter High School,ORG,0.12,0.27,en,2
+LA Fires Renew Debate Over Prescribed Burns,LA Fires Renew Debate Over Prescribed Burns,ORG,0.5,0.15,en,2
+American Airlines,American Airlines,ORG,0.13999999999999999,0.12,en,2
+Freddie Freeman,Freddie Freeman,ORG,0.0,0.0,en,2
+the University of Freiburg and,the University of Freiburg and,ORG,0.07777777777777778,0.044444444444444446,en,2
+the Crypto.com Arena,the Crypto.com Arena,ORG,0.4,0.5,en,2
+Fire Preparedness,Fire Preparedness,ORG,0.5,0.15,en,2
+New Fire Ignites,New Fire Ignites,ORG,0.13636363636363635,0.0,en,1
+the California Department of Fish and Wildlife,the California Department of Fish and Wildlife,ORG,0.0,0.0,en,1
+The Coalition to end Domestic and Sexual Violence,The Coalition to end Domestic and Sexual Violence,ORG,0.2125,0.0,en,1
+Bonhams,Bonhams,ORG,0.0,0.0,en,1
 Autlook Ahead,Autlook Ahead,ORG,0.0,0.0,en,1
-The Pacific Coast Highway,The Pacific Coast Highway,ORG,-0.225,0.0,en,1
-Dawes,Dawes,ORG,-0.5,0.0,en,1
-California Homeowners Hit With Sudden,California Homeowners Hit With Sudden,ORG,0.0,0.0,en,1
-Realtor.com®,Realtor.com®,ORG,0.20727272727272728,0.0,en,1
-Trump to Los Angeles,Trump to Los Angeles,ORG,0.0,0.0,en,1
-marketwatch.com,marketwatch.com,ORG,-0.1,0.0,en,1
-Global,Global,ORG,-0.1,0.0,en,1
-S&P Global,S&P Global,ORG,-0.1,0.0,en,1
-Newsom-Trump war of words,Newsom-Trump war of words,ORG,0.0,0.0,en,1
-Caucus,Caucus,ORG,0.0,0.0,en,1
-The California Senate,The California Senate,ORG,0.0,0.0,en,1
-Trump Administration Releases,Trump Administration Releases,ORG,0.0,0.0,en,1
-DCNF,DCNF,ORG,0.0,0.0,en,1
+Apple CardApple Card,Apple CardApple Card,ORG,0.1,0.0,en,1
 Smelt,Smelt,ORG,0.0,0.0,en,1
-Chromebooks,Chromebooks,ORG,0.16666666666666666,0.0,en,1
-Fire Recovery Czar Privately,Fire Recovery Czar Privately,ORG,0.1,0.0,en,1
-the Daily Caller News Foundation,the Daily Caller News Foundation,ORG,0.0,0.0,en,1
-Promising City Investments,Promising City Investments,ORG,0.1,0.0,en,1
-CST,CST,ORG,-0.1,0.0,en,1
-California National Guard,California National Guard,ORG,-0.5,0.0,en,1
-Michael Nyuis Foundation,Michael Nyuis Foundation,ORG,0.05,0.0,en,1
-the Los Angeles International Airport,the Los Angeles International Airport,ORG,0.0,0.0,en,1
-Ver esta publicación en Instagram   Una publicación,Ver esta publicación en Instagram   Una publicación,ORG,0.05,0.0,en,1
-Capital and Main,Capital and Main,ORG,0.08333333333333333,0.0,en,1
-UPDATED,UPDATED,ORG,0.06818181818181818,0.0,en,1
-Trump Wants California To Enact Voter ID Law Before Granting Fire Aid,Trump Wants California To Enact Voter ID Law Before Granting Fire Aid,ORG,0.2,0.0,en,1
-Fire,Fire,ORG,0.0,0.0,en,1
+the Entertainment Industry Foundation,the Entertainment Industry Foundation,ORG,0.0,0.0,en,1
+Tesla Cybertrucks,Tesla Cybertrucks,ORG,-0.1088888888888889,0.0,en,1
+Apple AirPods,Apple AirPods,ORG,-0.1088888888888889,0.0,en,1
+the Tubbs Fire,the Tubbs Fire,ORG,0.0,0.0,en,1
+BeyGOOD foundation,BeyGOOD foundation,ORG,0.0,0.0,en,1
+the University of California,the University of California,ORG,0.0,0.0,en,1
+Insurers Are Abandoning Homeowners Over Wildfire Risk,Insurers Are Abandoning Homeowners Over Wildfire Risk,ORG,0.0,0.0,en,1
+DSR,DSR,ORG,0.06818181818181818,0.0,en,1
+Hitmakers Brunch,Hitmakers Brunch,ORG,0.0,0.0,en,1
+Variety,Variety,ORG,0.0,0.0,en,1
+WCK,WCK,ORG,0.08333333333333334,0.0,en,1
+Business Insider,Business Insider,ORG,0.39999999999999997,0.0,en,1
+Insurance Payouts,Insurance Payouts,ORG,0.0,0.0,en,1
+Top Military,Top Military,ORG,0.2722222222222222,0.0,en,1
+Calif. - Inglewood's,Calif. - Inglewood's,ORG,0.0,0.0,en,1
+the Los Angeles Fire Department Foundation,the Los Angeles Fire Department Foundation,ORG,-0.016666666666666666,0.0,en,1
+"Standing Dead Trees Are a Wildfire Disaster Waiting to Happen, Scientists Warn","Standing Dead Trees Are a Wildfire Disaster Waiting to Happen, Scientists Warn",ORG,-0.2,0.0,en,1
+Drone Footage Captures the Devastating Aftermath of LA Wildfires,Drone Footage Captures the Devastating Aftermath of LA Wildfires,ORG,-1.0,0.0,en,1
+The Andalou Agency,The Andalou Agency,ORG,0.0,0.0,en,1
+Rolling Stone,Rolling Stone,ORG,0.125,0.0,en,1
+Benefit Concert Online,Benefit Concert Online,ORG,0.0,0.0,en,1
+The Roanoke Times,The Roanoke Times,ORG,0.3,0.0,en,1
+WLOS,WLOS,ORG,-0.25,0.0,en,1
+Wades Gap,Wades Gap,ORG,0.3,0.0,en,1
+Forecasting Models,Forecasting Models,ORG,0.4,0.0,en,1
+Advanced Camera Systems,Advanced Camera Systems,ORG,0.4,0.0,en,1
+Ring,Ring,ORG,0.03333333333333333,0.0,en,1
+AccuWeather,AccuWeather,ORG,0.0,0.0,en,1
+AFP/Getty Images,AFP/Getty Images,ORG,-0.06666666666666667,0.0,en,1
+the Ground During L.A.’s,the Ground During L.A.’s,ORG,0.0,0.0,en,1
+the MusiCares Person of the Year,the MusiCares Person of the Year,ORG,0.0,0.0,en,1
+Readiness,Readiness,ORG,0.0,0.0,en,1
+Selling Sunset's,Selling Sunset's,ORG,0.16111111111111112,0.0,en,1
+Tasteless,Tasteless,ORG,-0.3,0.0,en,1
+Selling Sunset' Star Suddenly Deletes,Selling Sunset' Star Suddenly Deletes,ORG,-0.3,0.0,en,1
+Google News,Google News,ORG,0.16999999999999998,0.0,en,1
+wildfireWLOS View Full Coverage on,wildfireWLOS View Full Coverage on,ORG,0.16999999999999998,0.0,en,1
+Los Angele,Los Angele,ORG,0.0,0.0,en,1
 Wartook,Wartook,ORG,0.0,0.0,en,1
+FireAid Concert Benefitting,FireAid Concert Benefitting,ORG,0.3,0.0,en,1
+Gildan Donates,Gildan Donates,ORG,0.3,0.0,en,1
+CFA,CFA,ORG,0.0,0.0,en,1
+Palisades,Palisades,ORG,0.0,0.0,en,1
+Palisades Entrepreneurs Take Stock,Palisades Entrepreneurs Take Stock,ORG,0.0,0.0,en,1
+Cleon,Cleon,ORG,-0.26785714285714285,0.0,en,1
+beco,beco,ORG,0.0,0.0,en,1
+Wangary,Wangary,ORG,-0.12222222222222223,0.0,en,1
+L.A. Critical Role,L.A. Critical Role,ORG,0.12337662337662338,0.0,en,1
+D&D,D&D,ORG,0.12337662337662338,0.0,en,1
+Wildfire Disaster Response Ad Hoc Task Force,Wildfire Disaster Response Ad Hoc Task Force,ORG,0.0,0.0,en,1
+Dan Brunn Architecture,Dan Brunn Architecture,ORG,0.0,0.0,en,1
+LA Wildfire Victims,LA Wildfire Victims,ORG,0.0,0.0,en,1
+Chic,Chic,ORG,0.5,0.0,en,1
+the Greater Los Angeles,the Greater Los Angeles,ORG,0.5,0.0,en,1
+Modular Airborne Fire Fighting Systems,Modular Airborne Fire Fighting Systems,ORG,0.0,0.0,en,1
+Support Families,Support Families,ORG,0.5,0.0,en,1
+CHITA Joins Forces with Habitat For Humanity of Greater Los Angeles,CHITA Joins Forces with Habitat For Humanity of Greater Los Angeles,ORG,0.5,0.0,en,1
+The Rose Bowl,The Rose Bowl,ORG,0.6,0.0,en,1
+U.S.-Mexico,U.S.-Mexico,ORG,-0.175,0.0,en,1
+NASA Images Reveal Massive Fires,NASA Images Reveal Massive Fires,ORG,0.0,0.0,en,1
+Claires Place Foundation,Claires Place Foundation,ORG,0.16666666666666666,0.0,en,1
+Place Foundation LA Fire Emergency Fund,Place Foundation LA Fire Emergency Fund,ORG,0.0,0.0,en,1
+Rose Bowl,Rose Bowl,ORG,0.26666666666666666,0.0,en,1
+Western Power,Western Power,ORG,0.1,0.0,en,1
+Great Southern,Great Southern,ORG,0.1,0.0,en,1
+Wikipedia under Public Domain License,Wikipedia under Public Domain License,ORG,0.19999999999999998,0.0,en,1
+Chase Bank,Chase Bank,ORG,0.25,0.0,en,1
+the Recent Los Angeles Fires,the Recent Los Angeles Fires,ORG,0.0,0.0,en,1
+KLOS-FM 95.5,KLOS-FM 95.5,ORG,0.1,0.0,en,1
+Hollywood Palladium,Hollywood Palladium,ORG,0.5,0.0,en,1
+Bells Hells,Bells Hells,ORG,0.10497835497835499,0.0,en,1
+FAA,FAA,ORG,0.175,0.0,en,1
+Trump Funding Freeze,Trump Funding Freeze,ORG,0.0,0.0,en,1
+Downslope,Downslope,ORG,0.2888888888888889,0.0,en,1
+Super Scooper',Super Scooper',ORG,0.2222222222222222,0.0,en,1
+Time,Time,ORG,0.0,0.0,en,1
+aer,aer,ORG,0.0,0.0,en,1
+What Fire Survivors and Experts Say Is Key,What Fire Survivors and Experts Say Is Key,ORG,0.0,0.0,en,1
+Lemon_tm/Getty,Lemon_tm/Getty,ORG,0.11666666666666667,0.0,en,1
+World Weather Attribution,World Weather Attribution,ORG,0.022727272727272724,0.0,en,1
+LA FireAid,LA FireAid,ORG,0.0,0.0,en,1
+Crucial Firefighting Plane Grounded,Crucial Firefighting Plane Grounded,ORG,-0.4,0.0,en,1
+"Museums, Galleries and Collectors Consider","Museums, Galleries and Collectors Consider",ORG,0.0,0.0,en,1
+the Los Angeles Wildfire Disaster,the Los Angeles Wildfire Disaster,ORG,0.0,0.0,en,1
+NJ,NJ,ORG,0.175,0.0,en,1
+Californiaâs,Californiaâs,ORG,-0.5,0.0,en,1
+RFK,RFK,ORG,0.175,0.0,en,1
+SETH BORENSTEIN,SETH BORENSTEIN,ORG,0.061111111111111116,0.0,en,1
+the LA Aqueduct,the LA Aqueduct,ORG,-0.04,0.0,en,1
+US Defense,US Defense,ORG,0.27314814814814814,0.0,en,1
+Critical Role Foundation,Critical Role Foundation,ORG,0.06875,0.0,en,1
+Office,Office,ORG,0.195,0.0,en,1
+the Senate Appropriations Committee,the Senate Appropriations Committee,ORG,0.195,0.0,en,1
+Wharton,Wharton,ORG,0.25,0.0,en,1
+UAF,UAF,ORG,0.1,0.0,en,1
+Emergency Powers,Emergency Powers,ORG,0.2066666666666667,0.0,en,1
+ABC7,ABC7,ORG,0.1,0.0,en,1
+the Recording Academy,the Recording Academy,ORG,0.8,0.0,en,1
+Yoshitomo Nara,Yoshitomo Nara,ORG,0.0,0.0,en,1
+the Burning of Los Angeles,the Burning of Los Angeles,ORG,0.0,0.0,en,1
+Charter Communications,Charter Communications,ORG,-0.0625,0.0,en,1
+rebuildThe Washington Post State Farm,rebuildThe Washington Post State Farm,ORG,0.22916666666666669,0.0,en,1
+Laker,Laker,ORG,0.0,0.0,en,1
+Residents Evacuate,Residents Evacuate,ORG,-0.2,0.0,en,1
+Altadena Communities Unite,Altadena Communities Unite,ORG,0.0,0.0,en,1
+Hollywood Composers Unite for Their Own LA Wildfire Relief Benefit Concert,Hollywood Composers Unite for Their Own LA Wildfire Relief Benefit Concert,ORG,0.2833333333333333,0.0,en,1
+Hollywood Composers Unite,Hollywood Composers Unite,ORG,0.6,0.0,en,1
+Palisades Wildfire Blazes Out Of Control,Palisades Wildfire Blazes Out Of Control,ORG,0.0,0.0,en,1
+Sundance 2025 Review,Sundance 2025 Review,ORG,-0.8,0.0,en,1
+Bear,Bear,ORG,0.0,0.0,en,1
+Next for Independent Agents,Next for Independent Agents,ORG,0.2333333333333333,0.0,en,1
+LAist,LAist,ORG,0.0,0.0,en,1
+USAID,USAID,ORG,0.0,0.0,en,1
+the National Oceanic and Atmospheric Administration's,the National Oceanic and Atmospheric Administration's,ORG,-0.06666666666666667,0.0,en,1
+Legislature,Legislature,ORG,0.35,0.0,en,1
+Newso,Newso,ORG,0.35,0.0,en,1
+contentsLos Angeles Times,contentsLos Angeles Times,ORG,0.22916666666666669,0.0,en,1
+Face Edison Rate Hike For,Face Edison Rate Hike For,ORG,0.6,0.0,en,1
+Los Angeles Times,Los Angeles Times,ORG,0.0,0.0,en,1
+The District Administration Office,The District Administration Office,ORG,0.0,0.0,en,1
+NOAA,NOAA,ORG,-0.06666666666666667,0.0,en,1
+Southern Californi… Insurance,Southern Californi… Insurance,ORG,0.0,0.0,en,1
+Maule,Maule,ORG,-0.1125,0.0,en,1
+Nuble,Nuble,ORG,-0.1125,0.0,en,1
+SANTIAGO,SANTIAGO,ORG,-0.1125,0.0,en,1
+PGA,PGA,ORG,0.37,0.0,en,1
+Airbnb Offers Free Housing,Airbnb Offers Free Housing,ORG,0.25,0.0,en,1
+Airbnb,Airbnb,ORG,0.13333333333333333,0.0,en,1
+Wildfire Relief Effort & Those Missing Names From The Best Picture Nominations,Wildfire Relief Effort & Those Missing Names From The Best Picture Nominations,ORG,0.4,0.0,en,1
+Leaders Discuss Health Benefits,Leaders Discuss Health Benefits,ORG,0.4,0.0,en,1
+Dotts,Dotts,ORG,0.1,0.0,en,1
+Map Shows,Map Shows,ORG,0.43333333333333335,0.0,en,1
+Pacific Palisades Neighborhood Destroying Homes,Pacific Palisades Neighborhood Destroying Homes,ORG,-0.2,0.0,en,1
+Supercharged,Supercharged,ORG,0.0,0.0,en,1
+Buffalo Trace Distillery/Sazerac,Buffalo Trace Distillery/Sazerac,ORG,0.0,0.0,en,1
+Catastrophe Losses,Catastrophe Losses,ORG,0.0,0.0,en,1
+The Genesis Invitational,The Genesis Invitational,ORG,0.0,0.0,en,1
+Riviera Country Club,Riviera Country Club,ORG,-0.04365079365079364,0.0,en,1
+Genesis Invitational Helps Wildfire,Genesis Invitational Helps Wildfire,ORG,0.0,0.0,en,1
+the California Wildfir,the California Wildfir,ORG,0.0,0.0,en,1
+Business Strategy,Business Strategy,ORG,-0.35,0.0,en,1
+Explosive Palisades Fire Fueled,Explosive Palisades Fire Fueled,ORG,0.0,0.0,en,1
+Wind-Whipped Flames Spread,Wind-Whipped Flames Spread,ORG,0.1,0.0,en,1
+Mercury,Mercury,ORG,0.0,0.0,en,1
+the Motion Picture &,the Motion Picture &,ORG,0.0,0.0,en,1
+Wildfires Contained,Wildfires Contained,ORG,-0.05,0.0,en,1
+the Altadena Seed Library,the Altadena Seed Library,ORG,0.0857142857142857,0.0,en,1
+Baby Reindeer,Baby Reindeer,ORG,0.0,0.0,en,1
+The Environmental Protection Agency,The Environmental Protection Agency,ORG,0.2333333333333333,0.0,en,1
+Augustine Wine Bar,Augustine Wine Bar,ORG,0.0,0.0,en,1
+SBA,SBA,ORG,-0.08333333333333333,0.0,en,1
+Hanmi Bank,Hanmi Bank,ORG,-0.08333333333333333,0.0,en,1
+Hanmi Financial Corporation,Hanmi Financial Corporation,ORG,-0.08333333333333333,0.0,en,1
+the YMCA of Los Ang,the YMCA of Los Ang,ORG,-0.08333333333333333,0.0,en,1
+the Korean American Federation of Los Angeles Hanmi,the Korean American Federation of Los Angeles Hanmi,ORG,-0.08333333333333333,0.0,en,1
+the YMCA of Los Angeles,the YMCA of Los Angeles,ORG,-0.08333333333333333,0.0,en,1
+The Associated Press,The Associated Press,ORG,0.0,0.0,en,1
+Hanmi Bank Sponsors Southern California Wildfire,Hanmi Bank Sponsors Southern California Wildfire,ORG,0.0,0.0,en,1
+Extreme Weather Survivors,Extreme Weather Survivors,ORG,-0.0625,0.0,en,1
+the LA Blazes,the LA Blazes,ORG,0.125,0.0,en,1
+Global Canada,Global Canada,ORG,-0.044444444444444446,0.0,en,1
+the Government of Canada,the Government of Canada,ORG,0.0,0.0,en,1
+Federal Court,Federal Court,ORG,0.0,0.0,en,1
+The Weather Channel,The Weather Channel,ORG,0.0,0.0,en,1
+Video,Video,ORG,0.0,0.0,en,1
+The Hawaii Supreme Court,The Hawaii Supreme Court,ORG,0.0,0.0,en,1
+California Asks Insurers,California Asks Insurers,ORG,0.0,0.0,en,1
+Ea,Ea,ORG,0.0,0.0,en,1
+The Walking Dead: Saints &,The Walking Dead: Saints &,ORG,-0.2333333333333333,0.0,en,1
+Nature,Nature,ORG,0.5,0.0,en,1
+FiresThe New York Times,FiresThe New York Times,ORG,0.18434343434343434,0.0,en,1
+LA Fire Dept,LA Fire Dept,ORG,0.5,0.0,en,1
+Homes Destroyed,Homes Destroyed,ORG,0.0,0.0,en,1
 CoreLogic,CoreLogic,ORG,0.0,0.0,en,1
-Disrupt Los Angeles Wildfire Aid,Disrupt Los Angeles Wildfire Aid,ORG,0.0,0.0,en,1
-Differentiable Cellular Automata A,Differentiable Cellular Automata A,ORG,0.0,0.0,en,1
-LA Fires Could,LA Fires Could,ORG,0.05,0.0,en,1
-Campsite,Campsite,ORG,0.0,0.0,en,1
-Sisters Lesly,Sisters Lesly,ORG,0.6,0.0,en,1
-Epic Jet Engine-Mounted Truck Built to Fight L.A. Wildfires,Epic Jet Engine-Mounted Truck Built to Fight L.A. Wildfires,ORG,0.05,0.0,en,1
-LA Neighbors See Much Different Post-Wildfire Rebuilding Options Due to Insurance Crisis,LA Neighbors See Much Different Post-Wildfire Rebuilding Options Due to Insurance Crisis,ORG,-0.0625,0.0,en,1
-Hughes Blazes Rage,Hughes Blazes Rage,ORG,0.0,0.0,en,1
-LOS ANGELES Evacuation,LOS ANGELES Evacuation,ORG,-0.05000000000000002,0.0,en,1
-Bremer Bay,Bremer Bay,ORG,0.0,0.0,en,1
+Billy Crystal,Billy Crystal,ORG,0.25,0.0,en,1
+the Golden State,the Golden State,ORG,0.4,0.0,en,1
+California Homeowners Hit With Sudden,California Homeowners Hit With Sudden,ORG,0.0,0.0,en,1
+The Pacific Coast Highway,The Pacific Coast Highway,ORG,-0.225,0.0,en,1
+The Los Angeles Wildfires,The Los Angeles Wildfires,ORG,0.1431818181818182,0.0,en,1
+LA Wildfire Disaster Response Task Force,LA Wildfire Disaster Response Task Force,ORG,0.0,0.0,en,1
+AIA,AIA,ORG,0.0,0.0,en,1
+Dawes,Dawes,ORG,-0.5,0.0,en,1
+Trump Administration Releases,Trump Administration Releases,ORG,0.0,0.0,en,1
+Fire,Fire,ORG,0.0,0.0,en,1
+the LA Fire Hydrants That Ran Dry,the LA Fire Hydrants That Ran Dry,ORG,0.21666666666666667,0.0,en,1
+Capital and Main,Capital and Main,ORG,0.08333333333333333,0.0,en,1
+California National Guard,California National Guard,ORG,-0.5,0.0,en,1
+CST,CST,ORG,-0.1,0.0,en,1
+Promising City Investments,Promising City Investments,ORG,0.1,0.0,en,1
+Fire Recovery Czar Privately,Fire Recovery Czar Privately,ORG,0.1,0.0,en,1
+Oldest Homes,Oldest Homes,ORG,-0.08333333333333334,0.0,en,1
+Sunset Fire,Sunset Fire,ORG,0.0,0.0,en,1
+Ex-Skydance Exec Piloted Drone,Ex-Skydance Exec Piloted Drone,ORG,0.0,0.0,en,1
+Bear Under SoCal Home Was Hunting for Booze After Wildfire Destruction,Bear Under SoCal Home Was Hunting for Booze After Wildfire Destruction,ORG,0.0,0.0,en,1
+FIREAID,FIREAID,ORG,0.0,0.0,en,1
+UN News,UN News,ORG,-0.13571428571428573,0.0,en,1
+Facebook,Facebook,ORG,0.19999999999999998,0.0,en,1
+the Daily Blast,the Daily Blast,ORG,0.13333333333333333,0.0,en,1
+The Walking Dead: Saints & Sinners,The Walking Dead: Saints & Sinners,ORG,-0.175,0.0,en,1
++2601,+2601,ORG,-0.2333333333333333,0.0,en,1
+Southern California Edison's,Southern California Edison's,ORG,0.03125,0.0,en,1
+the L.A. Wildfires,the L.A. Wildfires,ORG,-0.4,0.0,en,1
+"Spire Global, Inc… Author of the article:
+Article","Spire Global, Inc… Author of the article:
+Article",ORG,-0.06666666666666667,0.0,en,1
+Janisse Quiñones,Janisse Quiñones,ORG,0.0,0.0,en,1
+Chargers Donate,Chargers Donate,ORG,0.0,0.0,en,1
+Canadian Space Agency,Canadian Space Agency,ORG,0.0,0.0,en,1
 "Maxar Technologies/Contributor
 
 
@@ -290,374 +496,287 @@ Uncommon Courses","Maxar Technologies/Contributor
 
 
 Uncommon Courses",ORG,0.4,0.0,en,1
+Wildfires Hit Child Care Industry Hard,Wildfires Hit Child Care Industry Hard,ORG,-0.2916666666666667,0.0,en,1
+Wildfire Victims,Wildfire Victims,ORG,0.25,0.0,en,1
+Edison Probing Retired Power Line,Edison Probing Retired Power Line,ORG,0.0,0.0,en,1
+LA Neighbors See Much Different Post-Wildfire Rebuilding Options Due to Insurance Crisis,LA Neighbors See Much Different Post-Wildfire Rebuilding Options Due to Insurance Crisis,ORG,-0.0625,0.0,en,1
+State Farm’s,State Farm’s,ORG,0.0,0.0,en,1
+LOS ANGELES &,LOS ANGELES &,ORG,0.42500000000000004,0.0,en,1
+Environ,Environ,ORG,0.0,0.0,en,1
+First Responders,First Responders,ORG,0.25,0.0,en,1
+Sisters Lesly,Sisters Lesly,ORG,0.6,0.0,en,1
+ED,ED,ORG,0.22272727272727275,0.0,en,1
 PFAS,PFAS,ORG,0.0,0.0,en,1
-GPU,GPU,ORG,0.0,0.0,en,1
-Canadian Space Agency,Canadian Space Agency,ORG,0.0,0.0,en,1
-FireAid Concert Benefitting,FireAid Concert Benefitting,ORG,0.3,0.0,en,1
-Time,Time,ORG,0.0,0.0,en,1
-First Presidential Trip,First Presidential Trip,ORG,0.25,0.0,en,1
-SHAKIRA,SHAKIRA,ORG,0.0,0.0,en,1
-Gildan Donates,Gildan Donates,ORG,0.3,0.0,en,1
-Trump Funding Freeze,Trump Funding Freeze,ORG,0.0,0.0,en,1
-European Reinsurers’ Natural Disaster Budgets,European Reinsurers’ Natural Disaster Budgets,ORG,0.05,0.0,en,1
-Fitch Ratings,Fitch Ratings,ORG,0.3,0.0,en,1
-the Golden State,the Golden State,ORG,0.4,0.0,en,1
-Schedule For L.A. Visit To Survey Wildfire Fire Damage,Schedule For L.A. Visit To Survey Wildfire Fire Damage,ORG,0.0,0.0,en,1
-White House,White House,ORG,0.25,0.0,en,1
-World Weather Attribution,World Weather Attribution,ORG,0.022727272727272724,0.0,en,1
-Lemon_tm/Getty,Lemon_tm/Getty,ORG,0.11666666666666667,0.0,en,1
-The Walking Dead: Saints & Sinners,The Walking Dead: Saints & Sinners,ORG,-0.175,0.0,en,1
-The Walking Dead: Saints &,The Walking Dead: Saints &,ORG,-0.2333333333333333,0.0,en,1
-What Fire Survivors and Experts Say Is Key,What Fire Survivors and Experts Say Is Key,ORG,0.0,0.0,en,1
-+2601,+2601,ORG,-0.2333333333333333,0.0,en,1
-the L.A. Wildfires,the L.A. Wildfires,ORG,-0.4,0.0,en,1
-the Call of Duty studio Tre…,the Call of Duty studio Tre…,ORG,0.0,0.0,en,1
-Meet The LA County Fire Dozer,Meet The LA County Fire Dozer,ORG,-0.2,0.0,en,1
-FLETCHER,FLETCHER,ORG,0.0,0.0,en,1
-Call of Duty,Call of Duty,ORG,-0.5,0.0,en,1
-a Call of Duty,a Call of Duty,ORG,0.0,0.0,en,1
-Treyarch,Treyarch,ORG,-0.45,0.0,en,1
-LA,LA,ORG,0.2,0.0,en,1
-Los Angeles Wildfires Complicate Efforts,Los Angeles Wildfires Complicate Efforts,ORG,0.0,0.0,en,1
-Insurance Crisis,Insurance Crisis,ORG,0.0,0.0,en,1
 the Field: Serum Concentrations of Perfluoroalkyl,the Field: Serum Concentrations of Perfluoroalkyl,ORG,0.25,0.0,en,1
-Ex-Skydance Exec Piloted Drone,Ex-Skydance Exec Piloted Drone,ORG,0.0,0.0,en,1
-Bells Hells,Bells Hells,ORG,0.10497835497835499,0.0,en,1
-Bear Under SoCal Home Was Hunting for Booze After Wildfire Destruction,Bear Under SoCal Home Was Hunting for Booze After Wildfire Destruction,ORG,0.0,0.0,en,1
-US Defense,US Defense,ORG,0.27314814814814814,0.0,en,1
-wildfireWLOS View Full Coverage on,wildfireWLOS View Full Coverage on,ORG,0.16999999999999998,0.0,en,1
-Insurers Are Abandoning Homeowners Over Wildfire Risk,Insurers Are Abandoning Homeowners Over Wildfire Risk,ORG,0.0,0.0,en,1
-Support Families,Support Families,ORG,0.5,0.0,en,1
-Benefit Concert Online,Benefit Concert Online,ORG,0.0,0.0,en,1
-Rolling Stone,Rolling Stone,ORG,0.125,0.0,en,1
-CHITA Joins Forces with Habitat For Humanity of Greater Los Angeles,CHITA Joins Forces with Habitat For Humanity of Greater Los Angeles,ORG,0.5,0.0,en,1
-the Senate Appropriations Committee,the Senate Appropriations Committee,ORG,0.195,0.0,en,1
-U.S.-Mexico,U.S.-Mexico,ORG,-0.175,0.0,en,1
-NASA Images Reveal Massive Fires,NASA Images Reveal Massive Fires,ORG,0.0,0.0,en,1
-Claires Place Foundation,Claires Place Foundation,ORG,0.16666666666666666,0.0,en,1
-Place Foundation LA Fire Emergency Fund,Place Foundation LA Fire Emergency Fund,ORG,0.0,0.0,en,1
-Office,Office,ORG,0.195,0.0,en,1
-WLOS,WLOS,ORG,-0.25,0.0,en,1
-Western Power,Western Power,ORG,0.1,0.0,en,1
-Great Southern,Great Southern,ORG,0.1,0.0,en,1
-Wikipedia under Public Domain License,Wikipedia under Public Domain License,ORG,0.19999999999999998,0.0,en,1
-Chase Bank,Chase Bank,ORG,0.25,0.0,en,1
-the University of California,the University of California,ORG,0.0,0.0,en,1
-Critical Role Foundation,Critical Role Foundation,ORG,0.06875,0.0,en,1
-Wharton,Wharton,ORG,0.25,0.0,en,1
-UAF,UAF,ORG,0.1,0.0,en,1
-Google News,Google News,ORG,0.16999999999999998,0.0,en,1
-the Recording Academy,the Recording Academy,ORG,0.8,0.0,en,1
-Californiaâs,Californiaâs,ORG,-0.5,0.0,en,1
-CFA,CFA,ORG,0.0,0.0,en,1
-Palisades,Palisades,ORG,0.0,0.0,en,1
-the MusiCares Person of the Year,the MusiCares Person of the Year,ORG,0.0,0.0,en,1
-Advanced Camera Systems,Advanced Camera Systems,ORG,0.4,0.0,en,1
-Forecasting Models,Forecasting Models,ORG,0.4,0.0,en,1
-Wades Gap,Wades Gap,ORG,0.3,0.0,en,1
-Palisades Entrepreneurs Take Stock,Palisades Entrepreneurs Take Stock,ORG,0.0,0.0,en,1
-Cleon,Cleon,ORG,-0.26785714285714285,0.0,en,1
-the Greater Los Angeles,the Greater Los Angeles,ORG,0.5,0.0,en,1
-beco,beco,ORG,0.0,0.0,en,1
-Wangary,Wangary,ORG,-0.12222222222222223,0.0,en,1
-L.A. Critical Role,L.A. Critical Role,ORG,0.12337662337662338,0.0,en,1
-D&D,D&D,ORG,0.12337662337662338,0.0,en,1
-Emergency Powers,Emergency Powers,ORG,0.2066666666666667,0.0,en,1
-The Roanoke Times,The Roanoke Times,ORG,0.3,0.0,en,1
-LA Wildfire Victims,LA Wildfire Victims,ORG,0.0,0.0,en,1
-Chic,Chic,ORG,0.5,0.0,en,1
-the Recent Los Angeles Fires,the Recent Los Angeles Fires,ORG,0.0,0.0,en,1
+Annenberg & Wasserman Foundations,Annenberg & Wasserman Foundations,ORG,0.0,0.0,en,1
+LA,LA,ORG,0.2,0.0,en,1
+the Recent Southern California Wildfires,the Recent Southern California Wildfires,ORG,0.13333333333333333,0.0,en,1
+LA Fire Department,LA Fire Department,ORG,0.0,0.0,en,1
+Inman On Tour:,Inman On Tour:,ORG,0.2875,0.0,en,1
+"the ""LA Times","the ""LA Times",ORG,0.15833333333333333,0.0,en,1
+Eaton Fire Locations,Eaton Fire Locations,ORG,0.0,0.0,en,1
+U.S. Army Corps Of Engineers Begins Phase,U.S. Army Corps Of Engineers Begins Phase,ORG,0.0,0.0,en,1
+Treyarch,Treyarch,ORG,-0.45,0.0,en,1
+a Call of Duty,a Call of Duty,ORG,0.0,0.0,en,1
+Call of Duty,Call of Duty,ORG,-0.5,0.0,en,1
+the Call of Duty studio Tre…,the Call of Duty studio Tre…,ORG,0.0,0.0,en,1
 The Post,The Post,ORG,0.072,0.0,en,1
-Hollywood Palladium,Hollywood Palladium,ORG,0.5,0.0,en,1
-the LA Aqueduct,the LA Aqueduct,ORG,-0.04,0.0,en,1
-Apple AirPods,Apple AirPods,ORG,-0.1088888888888889,0.0,en,1
-Variety,Variety,ORG,0.0,0.0,en,1
 Angeles Times Trump,Angeles Times Trump,ORG,0.20555555555555557,0.0,en,1
-Francisco Chronicle Trump,Francisco Chronicle Trump,ORG,0.5,0.0,en,1
-Hitmakers Brunch,Hitmakers Brunch,ORG,0.0,0.0,en,1
-San Francisco Chronicle,San Francisco Chronicle,ORG,0.1,0.0,en,1
-Bonhams,Bonhams,ORG,0.0,0.0,en,1
-Sherman,Sherman,ORG,0.0,0.0,en,1
-First Lady Melania Trump,First Lady Melania Trump,ORG,0.375,0.0,en,1
-Warn Of Flooding,Warn Of Flooding,ORG,0.0,0.0,en,1
-Yoshitomo Nara,Yoshitomo Nara,ORG,0.0,0.0,en,1
-LA FireAid,LA FireAid,ORG,0.0,0.0,en,1
-Charter Communications,Charter Communications,ORG,-0.0625,0.0,en,1
-Face Edison Rate Hike For,Face Edison Rate Hike For,ORG,0.6,0.0,en,1
-ITANAGAR,ITANAGAR,ORG,0.0,0.0,en,1
-NJ,NJ,ORG,0.175,0.0,en,1
-Facebook,Facebook,ORG,0.19999999999999998,0.0,en,1
-Premier League champion,Premier League champion,ORG,-0.20625000000000002,0.0,en,1
-FAA,FAA,ORG,0.175,0.0,en,1
-WCK,WCK,ORG,0.08333333333333334,0.0,en,1
-UpdateDeadline Trump,UpdateDeadline Trump,ORG,0.0625,0.0,en,1
-Larson,Larson,ORG,0.0,0.0,en,1
-Tesla Cybertrucks,Tesla Cybertrucks,ORG,-0.1088888888888889,0.0,en,1
-Oldest Homes,Oldest Homes,ORG,-0.08333333333333334,0.0,en,1
-the California Community Foundation,the California Community Foundation,ORG,-0.016666666666666666,0.0,en,1
-the Los Angeles Fire Department Foundation,the Los Angeles Fire Department Foundation,ORG,-0.016666666666666666,0.0,en,1
-Calif. - Inglewood's,Calif. - Inglewood's,ORG,0.0,0.0,en,1
 Wildfires Are Destroying LA's,Wildfires Are Destroying LA's,ORG,-0.08333333333333334,0.0,en,1
 LA Able,LA Able,ORG,0.5,0.0,en,1
-SETH BORENSTEIN,SETH BORENSTEIN,ORG,0.061111111111111116,0.0,en,1
-The Coalition to end Domestic and Sexual Violence,The Coalition to end Domestic and Sexual Violence,ORG,0.2125,0.0,en,1
-U.S Forest,U.S Forest,ORG,-0.16666666666666666,0.0,en,1
-RFK,RFK,ORG,0.175,0.0,en,1
-New Research Links Wildfire Retardants,New Research Links Wildfire Retardants,ORG,-0.2212121212121212,0.0,en,1
-the Washington Department of Natural Resources,the Washington Department of Natural Resources,ORG,0.05,0.0,en,1
-Eat the Rich',Eat the Rich',ORG,0.23611111111111113,0.0,en,1
-Top Military,Top Military,ORG,0.2722222222222222,0.0,en,1
-Insurance Payouts,Insurance Payouts,ORG,0.0,0.0,en,1
-the Forest Service,the Forest Service,ORG,0.0,0.0,en,1
-the US Forest Service,the US Forest Service,ORG,0.05833333333333334,0.0,en,1
-BILLIE EILISH,BILLIE EILISH,ORG,0.0,0.0,en,1
-FIREAID,FIREAID,ORG,0.0,0.0,en,1
-The Mental-Health Toll,The Mental-Health Toll,ORG,0.0,0.0,en,1
-BENSON BOONE,BENSON BOONE,ORG,0.0,0.0,en,1
-The Los Angeles County Sheriff’s Department,The Los Angeles County Sheriff’s Department,ORG,0.0,0.0,en,1
-Hall's,Hall's,ORG,0.0,0.0,en,1
-Super Bowl,Super Bowl,ORG,0.3333333333333333,0.0,en,1
-Marshall Plan',Marshall Plan',ORG,0.0,0.0,en,1
-LA 2.0',LA 2.0',ORG,0.0,0.0,en,1
-Veterinarian,Veterinarian,ORG,0.0,0.0,en,1
-California Wildfire Live Updates,California Wildfire Live Updates,ORG,-0.05454545454545456,0.0,en,1
-the San Antonio Spur,the San Antonio Spur,ORG,0.0,0.0,en,1
-a Recovery Fund,a Recovery Fund,ORG,0.0,0.0,en,1
-Guardian,Guardian,ORG,0.0,0.0,en,1
-ABC News Live,ABC News Live,ORG,0.13636363636363635,0.0,en,1
-Generate Key Takeaways,Generate Key Takeaways,ORG,0.0,0.0,en,1
-Yahoo,Yahoo,ORG,0.1,0.0,en,1
-"getty
-","getty
-",ORG,0.5,0.0,en,1
-SoCal,SoCal,ORG,0.25,0.0,en,1
-Cal,Cal,ORG,1.0,0.0,en,1
-TigerClaws,TigerClaws,ORG,1.0,0.0,en,1
-Wildfire Emergency Resources,Wildfire Emergency Resources,ORG,0.0,0.0,en,1
-USDA,USDA,ORG,0.0,0.0,en,1
-Disney and Target,Disney and Target,ORG,0.0625,0.0,en,1
-FOX,FOX,ORG,-0.05,0.0,en,1
-the Los Angeles Department,the Los Angeles Department,ORG,0.0,0.0,en,1
-United States Forest Service,United States Forest Service,ORG,0.0,0.0,en,1
-Spurs-Lakers,Spurs-Lakers,ORG,0.0,0.0,en,1
-Spectrum,Spectrum,ORG,-0.875,0.0,en,1
-Aid Wildfire Survivors,Aid Wildfire Survivors,ORG,0.0,0.0,en,1
-LA Fire Relief Fund,LA Fire Relief Fund,ORG,0.4,0.0,en,1
-the Entertainment Community Fund’s,the Entertainment Community Fund’s,ORG,0.4,0.0,en,1
-Wildfire Relief Apparel Lines - Clare V. Unveils,Wildfire Relief Apparel Lines - Clare V. Unveils,ORG,0.0,0.0,en,1
-CA Preventing Insurance,CA Preventing Insurance,ORG,0.0,0.0,en,1
-Alert California,Alert California,ORG,-0.5,0.0,en,1
-Via GVWire,Via GVWire,ORG,0.0,0.0,en,1
-Entertainment Units Team With Other Divisions Of The Tech Giant,Entertainment Units Team With Other Divisions Of The Tech Giant,ORG,-0.0625,0.0,en,1
-IOC Steps,IOC Steps,ORG,0.0,0.0,en,1
-the Santa Ana Winds,the Santa Ana Winds,ORG,0.0,0.0,en,1
-Release Such Toxic Smoke,Release Such Toxic Smoke,ORG,0.0,0.0,en,1
-Inclusive Resources and Clothing Donations,Inclusive Resources and Clothing Donations,ORG,0.0,0.0,en,1
-the U.S. Fire Administrator,the U.S. Fire Administrator,ORG,0.15,0.0,en,1
-AP Photo/,AP Photo/,ORG,0.0,0.0,en,1
-LAFD & LAPD,LAFD & LAPD,ORG,0.0,0.0,en,1
-Elon Musk Promotes,Elon Musk Promotes,ORG,0.0,0.0,en,1
-the Los Angeles Fires Get So Out of Control,the Los Angeles Fires Get So Out of Control,ORG,0.0,0.0,en,1
-Kaotunu,Kaotunu,ORG,0.0,0.0,en,1
-Coromandel,Coromandel,ORG,-0.175,0.0,en,1
-Urban Smoke,Urban Smoke,ORG,0.0,0.0,en,1
-Los Angeles Firefighters Risk Cancer,Los Angeles Firefighters Risk Cancer,ORG,0.0,0.0,en,1
-the BeyGood Foundation,the BeyGood Foundation,ORG,0.0,0.0,en,1
-Beyoncé's BeyGOOD Foundation Donates,Beyoncé's BeyGOOD Foundation Donates,ORG,0.0,0.0,en,1
-Co-C… Netflix,Co-C… Netflix,ORG,0.019999999999999997,0.0,en,1
-The U.S. Forest Service,The U.S. Forest Service,ORG,0.1,0.0,en,1
-Recording Academy,Recording Academy,ORG,0.09,0.0,en,1
-Fundraising for Wildfire Relief Efforts,Fundraising for Wildfire Relief Efforts,ORG,0.0,0.0,en,1
+Bloomberg) Financial,Bloomberg) Financial,ORG,-0.3333333333333333,0.0,en,1
+Bloomberg,Bloomberg,ORG,-0.3333333333333333,0.0,en,1
+LA Fires Reveal Limits,LA Fires Reveal Limits,ORG,0.0,0.0,en,1
+Yahoo Finance,Yahoo Finance,ORG,0.0,0.0,en,1
+RIP,RIP,ORG,-0.2,0.0,en,1
+KTLA,KTLA,ORG,0.0,0.0,en,1
 MediaNews Group/Pasadena Star-News,MediaNews Group/Pasadena Star-News,ORG,0.0,0.0,en,1
+California Wildfire Victims Funneled,California Wildfire Victims Funneled,ORG,0.0,0.0,en,1
+FactCheck.org,FactCheck.org,ORG,0.25,0.0,en,1
+LAF,LAF,ORG,0.2333333333333333,0.0,en,1
+Fundraising for Wildfire Relief Efforts,Fundraising for Wildfire Relief Efforts,ORG,0.0,0.0,en,1
+Recording Academy,Recording Academy,ORG,0.09,0.0,en,1
+Wildfire Scams,Wildfire Scams,ORG,0.0,0.0,en,1
+Tesla Batteries Burning,Tesla Batteries Burning,ORG,0.0,0.0,en,1
++5652,+5652,ORG,0.0,0.0,en,1
+the National Guardhave,the National Guardhave,ORG,-0.375,0.0,en,1
+the Los Angeles Fires Compare to Historic Wildfires,the Los Angeles Fires Compare to Historic Wildfires,ORG,0.0,0.0,en,1
+CAMP Mask,CAMP Mask,ORG,-0.42000000000000004,0.0,en,1
+The U.S. Forest Service,The U.S. Forest Service,ORG,0.1,0.0,en,1
+Co-C… Netflix,Co-C… Netflix,ORG,0.019999999999999997,0.0,en,1
+Fox 11's,Fox 11's,ORG,0.0,0.0,en,1
+Beyoncé's BeyGOOD Foundation Donates,Beyoncé's BeyGOOD Foundation Donates,ORG,0.0,0.0,en,1
+MediaNews Group/Orange County Register,MediaNews Group/Orange County Register,ORG,0.0,0.0,en,1
+Wife Connie Donate,Wife Connie Donate,ORG,0.0,0.0,en,1
+the BeyGood Foundation,the BeyGood Foundation,ORG,0.0,0.0,en,1
+Los Angeles Firefighters Risk Cancer,Los Angeles Firefighters Risk Cancer,ORG,0.0,0.0,en,1
+Jean Smart &,Jean Smart &,ORG,0.17532467532467533,0.0,en,1
+Wildfires Linger,Wildfires Linger,ORG,0.0,0.0,en,1
+the Winnipeg Fire,the Winnipeg Fire,ORG,0.0,0.0,en,1
+Wildfire Smoke Impacts Health And Skin,Wildfire Smoke Impacts Health And Skin,ORG,0.0,0.0,en,1
+Wildfire Rebuilding Efforts,Wildfire Rebuilding Efforts,ORG,-0.07500000000000001,0.0,en,1
 Next for L.A.’s,Next for L.A.’s,ORG,0.25,0.0,en,1
 IG Sunday,IG Sunday,ORG,0.0,0.0,en,1
-Beyoncé Donating,Beyoncé Donating,ORG,0.0,0.0,en,1
-TOPSHOT,TOPSHOT,ORG,0.0,0.0,en,1
-Homeland Security,Homeland Security,ORG,0.0,0.0,en,1
-DHS,DHS,ORG,0.0,0.0,en,1
-Launches Online Forum & Donations Portal,Launches Online Forum & Donations Portal,ORG,0.0,0.0,en,1
-Wildfire Relief Effort,Wildfire Relief Effort,ORG,0.0,0.0,en,1
-K Toward L.A.,K Toward L.A.,ORG,0.0,0.0,en,1
-Rose Bowl,Rose Bowl,ORG,0.26666666666666666,0.0,en,1
-The Los Angeles Wildfires,The Los Angeles Wildfires,ORG,0.1431818181818182,0.0,en,1
-Billy Crystal,Billy Crystal,ORG,0.25,0.0,en,1
-Homes Destroyed,Homes Destroyed,ORG,0.0,0.0,en,1
-LA Fire Dept,LA Fire Dept,ORG,0.5,0.0,en,1
-Nature,Nature,ORG,0.5,0.0,en,1
-LA Fire Department,LA Fire Department,ORG,0.0,0.0,en,1
-Annenberg & Wasserman Foundations,Annenberg & Wasserman Foundations,ORG,0.0,0.0,en,1
-First Responders,First Responders,ORG,0.25,0.0,en,1
-Wildfire Victims,Wildfire Victims,ORG,0.25,0.0,en,1
-Chargers Donate,Chargers Donate,ORG,0.0,0.0,en,1
-Janisse Quiñones,Janisse Quiñones,ORG,0.0,0.0,en,1
-PACIFIC PALISADES,PACIFIC PALISADES,ORG,0.16,0.0,en,1
-Airbnb,Airbnb,ORG,0.13333333333333333,0.0,en,1
-Airbnb Offers Free Housing,Airbnb Offers Free Housing,ORG,0.25,0.0,en,1
-NOAA,NOAA,ORG,-0.06666666666666667,0.0,en,1
-the National Oceanic and Atmospheric Administration's,the National Oceanic and Atmospheric Administration's,ORG,-0.06666666666666667,0.0,en,1
-LAist,LAist,ORG,0.0,0.0,en,1
-Palisades Wildfire Blazes Out Of Control,Palisades Wildfire Blazes Out Of Control,ORG,0.0,0.0,en,1
-Residents Evacuate,Residents Evacuate,ORG,-0.2,0.0,en,1
-Pacific Palisades Neighborhood Destroying Homes,Pacific Palisades Neighborhood Destroying Homes,ORG,-0.2,0.0,en,1
-Supercharged,Supercharged,ORG,0.0,0.0,en,1
-Video,Video,ORG,0.0,0.0,en,1
-The Associated Press,The Associated Press,ORG,0.0,0.0,en,1
-Baby Reindeer,Baby Reindeer,ORG,0.0,0.0,en,1
-Wind-Whipped Flames Spread,Wind-Whipped Flames Spread,ORG,0.1,0.0,en,1
-Explosive Palisades Fire Fueled,Explosive Palisades Fire Fueled,ORG,0.0,0.0,en,1
-Business Strategy,Business Strategy,ORG,-0.35,0.0,en,1
-the LA Fire Hydrants That Ran Dry,the LA Fire Hydrants That Ran Dry,ORG,0.21666666666666667,0.0,en,1
-the Burning of Los Angeles,the Burning of Los Angeles,ORG,0.0,0.0,en,1
-Sunset Fire,Sunset Fire,ORG,0.0,0.0,en,1
-Apple CardApple Card,Apple CardApple Card,ORG,0.1,0.0,en,1
-The Rose Bowl,The Rose Bowl,ORG,0.6,0.0,en,1
-Modular Airborne Fire Fighting Systems,Modular Airborne Fire Fighting Systems,ORG,0.0,0.0,en,1
-KLOS-FM 95.5,KLOS-FM 95.5,ORG,0.1,0.0,en,1
-ABC7,ABC7,ORG,0.1,0.0,en,1
-the Los Angeles Wildfire Disaster,the Los Angeles Wildfire Disaster,ORG,0.0,0.0,en,1
-"Museums, Galleries and Collectors Consider","Museums, Galleries and Collectors Consider",ORG,0.0,0.0,en,1
-Crucial Firefighting Plane Grounded,Crucial Firefighting Plane Grounded,ORG,-0.4,0.0,en,1
-aer,aer,ORG,0.0,0.0,en,1
-Super Scooper',Super Scooper',ORG,0.2222222222222222,0.0,en,1
-Downslope,Downslope,ORG,0.2888888888888889,0.0,en,1
-Readiness,Readiness,ORG,0.0,0.0,en,1
-the California Department of Fish and Wildlife,the California Department of Fish and Wildlife,ORG,0.0,0.0,en,1
-the Tubbs Fire,the Tubbs Fire,ORG,0.0,0.0,en,1
-UN News,UN News,ORG,-0.13571428571428573,0.0,en,1
-the Entertainment Industry Foundation,the Entertainment Industry Foundation,ORG,0.0,0.0,en,1
-Los Angele,Los Angele,ORG,0.0,0.0,en,1
-the Ground During L.A.’s,the Ground During L.A.’s,ORG,0.0,0.0,en,1
-AFP/Getty Images,AFP/Getty Images,ORG,-0.06666666666666667,0.0,en,1
-AccuWeather,AccuWeather,ORG,0.0,0.0,en,1
-Ring,Ring,ORG,0.03333333333333333,0.0,en,1
-The Andalou Agency,The Andalou Agency,ORG,0.0,0.0,en,1
-Drone Footage Captures the Devastating Aftermath of LA Wildfires,Drone Footage Captures the Devastating Aftermath of LA Wildfires,ORG,-1.0,0.0,en,1
-"Standing Dead Trees Are a Wildfire Disaster Waiting to Happen, Scientists Warn","Standing Dead Trees Are a Wildfire Disaster Waiting to Happen, Scientists Warn",ORG,-0.2,0.0,en,1
-Business Insider,Business Insider,ORG,0.39999999999999997,0.0,en,1
-DSR,DSR,ORG,0.06818181818181818,0.0,en,1
-the Daily Blast,the Daily Blast,ORG,0.13333333333333333,0.0,en,1
-MGM,MGM,ORG,-0.041666666666666664,0.0,en,1
-California Wildfire Fund,California Wildfire Fund,ORG,0.0,0.0,en,1
-Lakers Rally Fans,Lakers Rally Fans,ORG,0.0,0.0,en,1
-FactCheck.org,FactCheck.org,ORG,0.25,0.0,en,1
-the Motion Picture & Television Fund,the Motion Picture & Television Fund,ORG,0.0,0.0,en,1
-DreamWorks,DreamWorks,ORG,0.0,0.0,en,1
-Multihouse,Multihouse,ORG,0.5,0.0,en,1
-Wildfire Benefit Set,Wildfire Benefit Set,ORG,0.0,0.0,en,1
 California Wildfire Relief Fund,California Wildfire Relief Fund,ORG,0.0,0.0,en,1
 LCF,LCF,ORG,0.0,0.0,en,1
 the Latino Community Foundation's,the Latino Community Foundation's,ORG,0.0,0.0,en,1
 KMPR),KMPR),ORG,0.0,0.0,en,1
+DHS,DHS,ORG,0.0,0.0,en,1
 Kemper,Kemper,ORG,0.0,0.0,en,1
+Homeland Security,Homeland Security,ORG,0.0,0.0,en,1
 First Climate-Focused Day Of Programming,First Climate-Focused Day Of Programming,ORG,0.25,0.0,en,1
+TOPSHOT,TOPSHOT,ORG,0.0,0.0,en,1
 Reuters.com,Reuters.com,ORG,0.1,0.0,en,1
 The LA Fires Could Change the Insurance Industry,The LA Fires Could Change the Insurance Industry,ORG,0.0,0.0,en,1
 National Guard Bureau,National Guard Bureau,ORG,0.0,0.0,en,1
+Beyoncé Donating,Beyoncé Donating,ORG,0.0,0.0,en,1
 CondoleezzaProtege,CondoleezzaProtege,ORG,0.0,0.0,en,1
+Second Inauguration Address,Second Inauguration Address,ORG,0.15,0.0,en,1
 The Department of Fire and Emergency Services,The Department of Fire and Emergency Services,ORG,0.0,0.0,en,1
 the LA Fire Relief Pack… Players of Call of Duty: Warzone and Call of Duty: Black Ops 6,the LA Fire Relief Pack… Players of Call of Duty: Warzone and Call of Duty: Black Ops 6,ORG,0.03333333333333334,0.0,en,1
 New Call Of Duty DLC Benefits,New Call Of Duty DLC Benefits,ORG,0.13636363636363635,0.0,en,1
 the California Wildfires,the California Wildfires,ORG,0.0,0.0,en,1
-Magnomics,Magnomics,ORG,0.21212121212121213,0.0,en,1
+The Mental-Health Toll,The Mental-Health Toll,ORG,0.0,0.0,en,1
 Paci,Paci,ORG,0.17916666666666667,0.0,en,1
 Kesler,Kesler,ORG,0.17916666666666667,0.0,en,1
 Hees,Hees,ORG,0.17916666666666667,0.0,en,1
 Neutra,Neutra,ORG,0.17916666666666667,0.0,en,1
 DIY Photo,DIY Photo,ORG,0.08333333333333333,0.0,en,1
+The Southern California Wildfires,The Southern California Wildfires,ORG,-0.125,0.0,en,1
 Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1
 CAL FIRE_Official,CAL FIRE_Official,ORG,0.0,0.0,en,1
-Second Inauguration Address,Second Inauguration Address,ORG,0.15,0.0,en,1
-the Motion Picture and Television Fund,the Motion Picture and Television Fund,ORG,0.0,0.0,en,1
-Southern California Wildfire,Southern California Wildfire,ORG,0.0,0.0,en,1
-the Red Cross Through Apple,the Red Cross Through Apple,ORG,0.0,0.0,en,1
-Community Benefits Program Awards,Community Benefits Program Awards,ORG,0.4,0.0,en,1
-Eerie Moment Beach,Eerie Moment Beach,ORG,-0.5,0.0,en,1
-DWP,DWP,ORG,-0.125,0.0,en,1
-the New Venture Fund,the New Venture Fund,ORG,0.21856060606060604,0.0,en,1
-Pod Save America,Pod Save America,ORG,0.21856060606060604,0.0,en,1
-Liberal Dark Money Groups,Liberal Dark Money Groups,ORG,-0.15,0.0,en,1
-PBS News,PBS News,ORG,0.0,0.0,en,1
-Laguna Fire,Laguna Fire,ORG,0.1956439393939394,0.0,en,1
-Spencer Pratt & Heidi,Spencer Pratt & Heidi,ORG,0.0,0.0,en,1
-Walmart Support LA Wildfire Relief Efforts,Walmart Support LA Wildfire Relief Efforts,ORG,0.0,0.0,en,1
-Universal,Universal,ORG,0.1,0.0,en,1
-Laguna Fire Prompts Evacuations,Laguna Fire Prompts Evacuations,ORG,0.0,0.0,en,1
-Calpine Community Energy,Calpine Community Energy,ORG,0.4,0.0,en,1
-Clean Energy Efforts,Clean Energy Efforts,ORG,0.24444444444444446,0.0,en,1
-Donate,Donate,ORG,0.0,0.0,en,1
-Calpine Energy Pledge $,Calpine Energy Pledge $,ORG,0.24444444444444446,0.0,en,1
-the Yale School of Public Health,the Yale School of Public Health,ORG,0.06818181818181818,0.0,en,1
-L.A. Wildfires,L.A. Wildfires,ORG,0.0,0.0,en,1
+Urban Smoke,Urban Smoke,ORG,0.0,0.0,en,1
+the Halls Gap Hotel,the Halls Gap Hotel,ORG,-0.4833333333333333,0.0,en,1
+Khalsa Aid USA,Khalsa Aid USA,ORG,-0.45,0.0,en,1
+WGA West & PGA Partner With Entertainment Community Fund,WGA West & PGA Partner With Entertainment Community Fund,ORG,0.0,0.0,en,1
+the Pasadena Humane Society,the Pasadena Humane Society,ORG,0.5,0.0,en,1
+Paris Hilton Helps Reunite L.A.,Paris Hilton Helps Reunite L.A.,ORG,0.0,0.0,en,1
+Wildfire Relief Fund,Wildfire Relief Fund,ORG,0.1,0.0,en,1
+the Santa Ana Winds,the Santa Ana Winds,ORG,0.0,0.0,en,1
+IOC Steps,IOC Steps,ORG,0.0,0.0,en,1
+Directors Guild Foundation,Directors Guild Foundation,ORG,0.0,0.0,en,1
+Entertainment Units Team With Other Divisions Of The Tech Giant,Entertainment Units Team With Other Divisions Of The Tech Giant,ORG,-0.0625,0.0,en,1
+SoFi,SoFi,ORG,-0.07500000000000001,0.0,en,1
+Doc Talk Podcast,Doc Talk Podcast,ORG,-0.26666666666666666,0.0,en,1
+The WGAW Board,The WGAW Board,ORG,0.0,0.0,en,1
+MGM,MGM,ORG,-0.041666666666666664,0.0,en,1
+California Wildfire Fund,California Wildfire Fund,ORG,0.0,0.0,en,1
+The Writers Guild of America West,The Writers Guild of America West,ORG,0.0,0.0,en,1
+N95,N95,ORG,0.0,0.0,en,1
+Red Cross's,Red Cross's,ORG,0.14444444444444446,0.0,en,1
+Wildfire Smoke,Wildfire Smoke,ORG,1.0,0.0,en,1
+The Best Ways to Protect Yourself,The Best Ways to Protect Yourself,ORG,1.0,0.0,en,1
+the Tragic Los Angeles Fires,the Tragic Los Angeles Fires,ORG,-0.75,0.0,en,1
+Lakers Rally Fans,Lakers Rally Fans,ORG,0.0,0.0,en,1
+SoCal Edison,SoCal Edison,ORG,0.0,0.0,en,1
+CAL FIRE TV,CAL FIRE TV,ORG,-0.125,0.0,en,1
+Aerial Firefighting Liquid,Aerial Firefighting Liquid,ORG,0.0,0.0,en,1
++4873,+4873,ORG,0.0,0.0,en,1
+ATF,ATF,ORG,0.0,0.0,en,1
+Beyoncé’s BeyGOOD Foundation Makes Huge $2.5M Donation To,Beyoncé’s BeyGOOD Foundation Makes Huge $2.5M Donation To,ORG,0.39999999999999997,0.0,en,1
+Amazon Pledges,Amazon Pledges,ORG,0.0,0.0,en,1
+Cal Fire,Cal Fire,ORG,0.0,0.0,en,1
+NFL,NFL,ORG,0.0,0.0,en,1
+the Pasadena Humane,the Pasadena Humane,ORG,0.0,0.0,en,1
+Inclusive Resources and Clothing Donations,Inclusive Resources and Clothing Donations,ORG,0.0,0.0,en,1
+LA Firestorms,LA Firestorms,ORG,-0.45,0.0,en,1
+Disney & More Companies Donate Millions,Disney & More Companies Donate Millions,ORG,0.5,0.0,en,1
+Coromandel,Coromandel,ORG,-0.175,0.0,en,1
+Wildfire Damage,Wildfire Damage,ORG,0.0,0.0,en,1
+Aerial Footage Shows Extent,Aerial Footage Shows Extent,ORG,0.0,0.0,en,1
+Biden,Biden,ORG,0.0,0.0,en,1
+Bridger Aerospace,Bridger Aerospace,ORG,0.19791666666666666,0.0,en,1
+AT&T,AT&T,ORG,0.0,0.0,en,1
+Kaotunu,Kaotunu,ORG,0.0,0.0,en,1
+the Academy Award-,the Academy Award-,ORG,-1.0,0.0,en,1
+Rapid Response Program,Rapid Response Program,ORG,0.25,0.0,en,1
+the Los Angeles Fires Get So Out of Control,the Los Angeles Fires Get So Out of Control,ORG,0.0,0.0,en,1
+Elon Musk Promotes,Elon Musk Promotes,ORG,0.0,0.0,en,1
+California Wildfire Update:,California Wildfire Update:,ORG,0.0,0.0,en,1
+LAFD & LAPD,LAFD & LAPD,ORG,0.0,0.0,en,1
+Emergency Network Los Angeles,Emergency Network Los Angeles,ORG,0.6,0.0,en,1
+Release Such Toxic Smoke,Release Such Toxic Smoke,ORG,0.0,0.0,en,1
+AP Photo/,AP Photo/,ORG,0.0,0.0,en,1
+the U.S. Fire Administrator,the U.S. Fire Administrator,ORG,0.15,0.0,en,1
+YouTube,YouTube,ORG,0.0,0.0,en,1
+American Water,American Water,ORG,-0.5,0.0,en,1
+Costco,Costco,ORG,0.0,0.0,en,1
+TikTok,TikTok,ORG,0.0,0.0,en,1
+Scoop,Scoop,ORG,0.5,0.0,en,1
+The Eagles,The Eagles,ORG,0.125,0.0,en,1
+L.A. Fire Aid,L.A. Fire Aid,ORG,0.0,0.0,en,1
+MAGA Efforts,MAGA Efforts,ORG,0.0,0.0,en,1
+Hakeem,Hakeem,ORG,0.0,0.0,en,1
+Apple Music,Apple Music,ORG,0.0,0.0,en,1
+the App Store,the App Store,ORG,0.0,0.0,en,1
+Wildfire Benefit Set,Wildfire Benefit Set,ORG,0.0,0.0,en,1
+Multihouse,Multihouse,ORG,0.5,0.0,en,1
+Via GVWire,Via GVWire,ORG,0.0,0.0,en,1
+UPDATED,UPDATED,ORG,0.06818181818181818,0.0,en,1
+Michael Nyuis Foundation,Michael Nyuis Foundation,ORG,0.05,0.0,en,1
+Ver esta publicación en Instagram   Una publicación,Ver esta publicación en Instagram   Una publicación,ORG,0.05,0.0,en,1
+Trump Wants California To Enact Voter ID Law Before Granting Fire Aid,Trump Wants California To Enact Voter ID Law Before Granting Fire Aid,ORG,0.2,0.0,en,1
+Newsom-Trump war of words,Newsom-Trump war of words,ORG,0.0,0.0,en,1
+Become MusiCares Fire Relief Benefit,Become MusiCares Fire Relief Benefit,ORG,-0.16666666666666666,0.0,en,1
+Hughes Fire Reaches,Hughes Fire Reaches,ORG,-0.1,0.0,en,1
+Help Cineverse & Bloody Disgusting Support,Help Cineverse & Bloody Disgusting Support,ORG,-0.9,0.0,en,1
+"Seniors, Community and Social Serv","Seniors, Community and Social Serv",ORG,0.015476190476190478,0.0,en,1
+Spurs-Lakers,Spurs-Lakers,ORG,0.0,0.0,en,1
+Realtor.com®,Realtor.com®,ORG,0.20727272727272728,0.0,en,1
+marketwatch.com,marketwatch.com,ORG,-0.1,0.0,en,1
+Global,Global,ORG,-0.1,0.0,en,1
+S&P Global,S&P Global,ORG,-0.1,0.0,en,1
+Disrupt Los Angeles Wildfire Aid,Disrupt Los Angeles Wildfire Aid,ORG,0.0,0.0,en,1
+Spectrum,Spectrum,ORG,-0.875,0.0,en,1
+United States Forest Service,United States Forest Service,ORG,0.0,0.0,en,1
+the Los Angeles Department,the Los Angeles Department,ORG,0.0,0.0,en,1
+Schedule For L.A. Visit To Survey Wildfire Fire Damage,Schedule For L.A. Visit To Survey Wildfire Fire Damage,ORG,0.0,0.0,en,1
+FOX,FOX,ORG,-0.05,0.0,en,1
+FLETCHER,FLETCHER,ORG,0.0,0.0,en,1
+Los Angeles Wildfires Complicate Efforts,Los Angeles Wildfires Complicate Efforts,ORG,0.0,0.0,en,1
+Insurance Crisis,Insurance Crisis,ORG,0.0,0.0,en,1
+Meet The LA County Fire Dozer,Meet The LA County Fire Dozer,ORG,-0.2,0.0,en,1
+Fitch Ratings,Fitch Ratings,ORG,0.3,0.0,en,1
+Disney and Target,Disney and Target,ORG,0.0625,0.0,en,1
+European Reinsurers’ Natural Disaster Budgets,European Reinsurers’ Natural Disaster Budgets,ORG,0.05,0.0,en,1
+LA Fires Could,LA Fires Could,ORG,0.05,0.0,en,1
+USDA,USDA,ORG,0.0,0.0,en,1
+Chromebooks,Chromebooks,ORG,0.16666666666666666,0.0,en,1
+DCNF,DCNF,ORG,0.0,0.0,en,1
+Epic Jet Engine-Mounted Truck Built to Fight L.A. Wildfires,Epic Jet Engine-Mounted Truck Built to Fight L.A. Wildfires,ORG,0.05,0.0,en,1
+Warn Of Flooding,Warn Of Flooding,ORG,0.0,0.0,en,1
+U.S Forest,U.S Forest,ORG,-0.16666666666666666,0.0,en,1
+New Research Links Wildfire Retardants,New Research Links Wildfire Retardants,ORG,-0.2212121212121212,0.0,en,1
+the Washington Department of Natural Resources,the Washington Department of Natural Resources,ORG,0.05,0.0,en,1
+Eat the Rich',Eat the Rich',ORG,0.23611111111111113,0.0,en,1
+the Forest Service,the Forest Service,ORG,0.0,0.0,en,1
+the US Forest Service,the US Forest Service,ORG,0.05833333333333334,0.0,en,1
+Larson,Larson,ORG,0.0,0.0,en,1
+UpdateDeadline Trump,UpdateDeadline Trump,ORG,0.0625,0.0,en,1
+Init,Init,ORG,0.0,0.0,en,1
+Francisco Chronicle Trump,Francisco Chronicle Trump,ORG,0.5,0.0,en,1
+San Francisco Chronicle,San Francisco Chronicle,ORG,0.1,0.0,en,1
+Sherman,Sherman,ORG,0.0,0.0,en,1
+First Lady Melania Trump,First Lady Melania Trump,ORG,0.375,0.0,en,1
+Newsom Launches Investigation Into Crucial Water Shortages As Death Toll Reaches 11,Newsom Launches Investigation Into Crucial Water Shortages As Death Toll Reaches 11,ORG,0.06818181818181818,0.0,en,1
+The California Senate,The California Senate,ORG,0.0,0.0,en,1
+ITANAGAR,ITANAGAR,ORG,0.0,0.0,en,1
+Premier League champion,Premier League champion,ORG,-0.20625000000000002,0.0,en,1
+K Toward L.A.,K Toward L.A.,ORG,0.0,0.0,en,1
+Wildfire Relief Effort,Wildfire Relief Effort,ORG,0.0,0.0,en,1
+White House,White House,ORG,0.25,0.0,en,1
+Launches Online Forum & Donations Portal,Launches Online Forum & Donations Portal,ORG,0.0,0.0,en,1
+Trump to Los Angeles,Trump to Los Angeles,ORG,0.0,0.0,en,1
+the Entertainment Community Fund’s,the Entertainment Community Fund’s,ORG,0.4,0.0,en,1
+LA Fire Relief Fund,LA Fire Relief Fund,ORG,0.4,0.0,en,1
+the Los Angeles International Airport,the Los Angeles International Airport,ORG,0.0,0.0,en,1
+Aid Wildfire Survivors,Aid Wildfire Survivors,ORG,0.0,0.0,en,1
+the Daily Caller News Foundation,the Daily Caller News Foundation,ORG,0.0,0.0,en,1
+Caucus,Caucus,ORG,0.0,0.0,en,1
+Campsite,Campsite,ORG,0.0,0.0,en,1
+Wildfire Emergency Resources,Wildfire Emergency Resources,ORG,0.0,0.0,en,1
+CA Preventing Insurance,CA Preventing Insurance,ORG,0.0,0.0,en,1
+Super Bowl,Super Bowl,ORG,0.3333333333333333,0.0,en,1
+ABC News Live,ABC News Live,ORG,0.13636363636363635,0.0,en,1
+Guardian,Guardian,ORG,0.0,0.0,en,1
+a Recovery Fund,a Recovery Fund,ORG,0.0,0.0,en,1
+the San Antonio Spur,the San Antonio Spur,ORG,0.0,0.0,en,1
 the Greater Los Angeles Fires,the Greater Los Angeles Fires,ORG,0.08977272727272727,0.0,en,1
 Fire From Monterey,Fire From Monterey,ORG,0.0,0.0,en,1
 CASTAIC,CASTAIC,ORG,0.0,0.0,en,1
 the Newsom Administration Fired Him Because He’s,the Newsom Administration Fired Him Because He’s,ORG,0.25,0.0,en,1
 the California National Guard’s,the California National Guard’s,ORG,0.25,0.0,en,1
 the Los Angeles Fires Rage,the Los Angeles Fires Rage,ORG,0.25,0.0,en,1
+Veterinarian,Veterinarian,ORG,0.0,0.0,en,1
+LA 2.0',LA 2.0',ORG,0.0,0.0,en,1
+Marshall Plan',Marshall Plan',ORG,0.0,0.0,en,1
+Hall's,Hall's,ORG,0.0,0.0,en,1
+the Yale School of Public Health,the Yale School of Public Health,ORG,0.06818181818181818,0.0,en,1
+Magnomics,Magnomics,ORG,0.21212121212121213,0.0,en,1
 the California Insurance Crisis Could Trigger Broader Financial Instability,the California Insurance Crisis Could Trigger Broader Financial Instability,ORG,0.0,0.0,en,1
 Californiaâs Hughes Fire,Californiaâs Hughes Fire,ORG,0.0,0.0,en,1
 Courtesy Watch Duty,Courtesy Watch Duty,ORG,-0.044444444444444446,0.0,en,1
-California Wildfire Victims Funneled,California Wildfire Victims Funneled,ORG,0.0,0.0,en,1
-LAF,LAF,ORG,0.2333333333333333,0.0,en,1
-SoCal Edison,SoCal Edison,ORG,0.0,0.0,en,1
-Wildfire Scams,Wildfire Scams,ORG,0.0,0.0,en,1
-L.A. Fire Aid,L.A. Fire Aid,ORG,0.0,0.0,en,1
-MAGA Efforts,MAGA Efforts,ORG,0.0,0.0,en,1
-Hakeem,Hakeem,ORG,0.0,0.0,en,1
-Apple Music,Apple Music,ORG,0.0,0.0,en,1
-the App Store,the App Store,ORG,0.0,0.0,en,1
-Red Cross's,Red Cross's,ORG,0.14444444444444446,0.0,en,1
-Directors Guild Foundation,Directors Guild Foundation,ORG,0.0,0.0,en,1
-SoFi,SoFi,ORG,-0.07500000000000001,0.0,en,1
-Doc Talk Podcast,Doc Talk Podcast,ORG,-0.26666666666666666,0.0,en,1
-The WGAW Board,The WGAW Board,ORG,0.0,0.0,en,1
-The Writers Guild of America West,The Writers Guild of America West,ORG,0.0,0.0,en,1
-WGA West & PGA Partner With Entertainment Community Fund,WGA West & PGA Partner With Entertainment Community Fund,ORG,0.0,0.0,en,1
-N95,N95,ORG,0.0,0.0,en,1
-Wildfire Smoke,Wildfire Smoke,ORG,1.0,0.0,en,1
-The Best Ways to Protect Yourself,The Best Ways to Protect Yourself,ORG,1.0,0.0,en,1
-the Tragic Los Angeles Fires,the Tragic Los Angeles Fires,ORG,-0.75,0.0,en,1
-CAL FIRE TV,CAL FIRE TV,ORG,-0.125,0.0,en,1
-Aerial Firefighting Liquid,Aerial Firefighting Liquid,ORG,0.0,0.0,en,1
-+4873,+4873,ORG,0.0,0.0,en,1
-Amazon Pledges,Amazon Pledges,ORG,0.0,0.0,en,1
-Cal Fire,Cal Fire,ORG,0.0,0.0,en,1
-NFL,NFL,ORG,0.0,0.0,en,1
-Init,Init,ORG,0.0,0.0,en,1
-BeyGOOD foundation,BeyGOOD foundation,ORG,0.0,0.0,en,1
-Beyoncé’s BeyGOOD Foundation Makes Huge $2.5M Donation To,Beyoncé’s BeyGOOD Foundation Makes Huge $2.5M Donation To,ORG,0.39999999999999997,0.0,en,1
-Southern California Edison,Southern California Edison,ORG,-0.19999999999999998,0.0,en,1
-ATF,ATF,ORG,0.0,0.0,en,1
-The Eagles,The Eagles,ORG,0.125,0.0,en,1
-Scoop,Scoop,ORG,0.5,0.0,en,1
-TikTok,TikTok,ORG,0.0,0.0,en,1
-Khalsa Aid USA,Khalsa Aid USA,ORG,-0.45,0.0,en,1
-Tesla Batteries Burning,Tesla Batteries Burning,ORG,0.0,0.0,en,1
-+5652,+5652,ORG,0.0,0.0,en,1
-the National Guardhave,the National Guardhave,ORG,-0.375,0.0,en,1
-the Los Angeles Fires Compare to Historic Wildfires,the Los Angeles Fires Compare to Historic Wildfires,ORG,0.0,0.0,en,1
-CAMP Mask,CAMP Mask,ORG,-0.42000000000000004,0.0,en,1
-Fox 11's,Fox 11's,ORG,0.0,0.0,en,1
-MediaNews Group/Orange County Register,MediaNews Group/Orange County Register,ORG,0.0,0.0,en,1
-Wife Connie Donate,Wife Connie Donate,ORG,0.0,0.0,en,1
-Jean Smart &,Jean Smart &,ORG,0.17532467532467533,0.0,en,1
-Wildfires Linger,Wildfires Linger,ORG,0.0,0.0,en,1
-the Winnipeg Fire,the Winnipeg Fire,ORG,0.0,0.0,en,1
-the Halls Gap Hotel,the Halls Gap Hotel,ORG,-0.4833333333333333,0.0,en,1
-LA Firestorms,LA Firestorms,ORG,-0.45,0.0,en,1
-Costco,Costco,ORG,0.0,0.0,en,1
-Wildfire Damage,Wildfire Damage,ORG,0.0,0.0,en,1
-Aerial Footage Shows Extent,Aerial Footage Shows Extent,ORG,0.0,0.0,en,1
-Biden,Biden,ORG,0.0,0.0,en,1
-Bridger Aerospace,Bridger Aerospace,ORG,0.19791666666666666,0.0,en,1
-AT&T,AT&T,ORG,0.0,0.0,en,1
-the Academy Award-,the Academy Award-,ORG,-1.0,0.0,en,1
-Rapid Response Program,Rapid Response Program,ORG,0.25,0.0,en,1
-California Wildfire Update:,California Wildfire Update:,ORG,0.0,0.0,en,1
-Disney & More Companies Donate Millions,Disney & More Companies Donate Millions,ORG,0.5,0.0,en,1
-Emergency Network Los Angeles,Emergency Network Los Angeles,ORG,0.6,0.0,en,1
-YouTube,YouTube,ORG,0.0,0.0,en,1
-American Water,American Water,ORG,-0.5,0.0,en,1
-"Spire Global, Inc… Author of the article:
-Article","Spire Global, Inc… Author of the article:
-Article",ORG,-0.06666666666666667,0.0,en,1
+Donate,Donate,ORG,0.0,0.0,en,1
+the Red Cross Through Apple,the Red Cross Through Apple,ORG,0.0,0.0,en,1
+Southern California Wildfire,Southern California Wildfire,ORG,0.0,0.0,en,1
+Wildfire Relief Apparel Lines - Clare V. Unveils,Wildfire Relief Apparel Lines - Clare V. Unveils,ORG,0.0,0.0,en,1
+New Hughes Fire Explodes,New Hughes Fire Explodes,ORG,0.13636363636363635,0.0,en,1
+the Motion Picture and Television Fund,the Motion Picture and Television Fund,ORG,0.0,0.0,en,1
+the Motion Picture & Television Fund,the Motion Picture & Television Fund,ORG,0.0,0.0,en,1
+DreamWorks,DreamWorks,ORG,0.0,0.0,en,1
+The Los Angeles County Sheriff’s Department,The Los Angeles County Sheriff’s Department,ORG,0.0,0.0,en,1
+L.A. Wildfires,L.A. Wildfires,ORG,0.0,0.0,en,1
+Generate Key Takeaways,Generate Key Takeaways,ORG,0.0,0.0,en,1
+Hughes Blazes Rage,Hughes Blazes Rage,ORG,0.0,0.0,en,1
+DWP,DWP,ORG,-0.125,0.0,en,1
+LOS ANGELES Evacuation,LOS ANGELES Evacuation,ORG,-0.05000000000000002,0.0,en,1
+Bremer Bay,Bremer Bay,ORG,0.0,0.0,en,1
+Differentiable Cellular Automata A,Differentiable Cellular Automata A,ORG,0.0,0.0,en,1
+GPU,GPU,ORG,0.0,0.0,en,1
+First Presidential Trip,First Presidential Trip,ORG,0.25,0.0,en,1
+SHAKIRA,SHAKIRA,ORG,0.0,0.0,en,1
+BILLIE EILISH,BILLIE EILISH,ORG,0.0,0.0,en,1
+BENSON BOONE,BENSON BOONE,ORG,0.0,0.0,en,1
+Alert California,Alert California,ORG,-0.5,0.0,en,1
+Eerie Moment Beach,Eerie Moment Beach,ORG,-0.5,0.0,en,1
+TigerClaws,TigerClaws,ORG,1.0,0.0,en,1
+Cal,Cal,ORG,1.0,0.0,en,1
+SoCal,SoCal,ORG,0.25,0.0,en,1
+"getty
+","getty
+",ORG,0.5,0.0,en,1
+Calpine Energy Pledge $,Calpine Energy Pledge $,ORG,0.24444444444444446,0.0,en,1
+the New Venture Fund,the New Venture Fund,ORG,0.21856060606060604,0.0,en,1
+Pod Save America,Pod Save America,ORG,0.21856060606060604,0.0,en,1
+Liberal Dark Money Groups,Liberal Dark Money Groups,ORG,-0.15,0.0,en,1
+PBS News,PBS News,ORG,0.0,0.0,en,1
+Laguna Fire,Laguna Fire,ORG,0.1956439393939394,0.0,en,1
+Spencer Pratt & Heidi,Spencer Pratt & Heidi,ORG,0.0,0.0,en,1
+Yahoo,Yahoo,ORG,0.1,0.0,en,1
+Walmart Support LA Wildfire Relief Efforts,Walmart Support LA Wildfire Relief Efforts,ORG,0.0,0.0,en,1
+Universal,Universal,ORG,0.1,0.0,en,1
+Laguna Fire Prompts Evacuations,Laguna Fire Prompts Evacuations,ORG,0.0,0.0,en,1
+Calpine Community Energy,Calpine Community Energy,ORG,0.4,0.0,en,1
+Community Benefits Program Awards,Community Benefits Program Awards,ORG,0.4,0.0,en,1
+Clean Energy Efforts,Clean Energy Efforts,ORG,0.24444444444444446,0.0,en,1
+Riviera,Riviera,ORG,0.0,0.0,en,1
