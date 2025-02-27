@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.3327716227054536
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.326098643727679
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.3168721266870652
-'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.313816626900847
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.3004470574771679
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.2777777661990533
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.2608331634688232
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.2577307995538869
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2501062466449613
