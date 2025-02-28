@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.4011231934306478
-'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.3808936535655396
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.3746508609145315
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3733958476842782
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.3726038205326616
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.348469884415577
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.3438254222783962
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.342520679169878
+'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.3423565891670723
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.3412488206955958
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.3327716227054536
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.326098643727679
