@@ -1,527 +1,753 @@
 ,phrase,label,sentiment,subjectivity,language,count
-first,first,ORDINAL,,,en,95
-thousands,thousands,CARDINAL,,,en,83
-Friday,Friday,DATE,,,en,69
-Thursday,Thursday,DATE,,,en,66
-two,two,CARDINAL,,,en,64
-one,one,CARDINAL,,,en,53
-2025,2025,CARDINAL,,,en,52
-Wednesday,Wednesday,DATE,,,en,47
-Monday,Monday,DATE,,,en,42
-Palisades,Palisades,FAC,0.1473922902494331,2.201360544217687,en,40
-wildfire,wildfire,DATE,,,en,30
-Tuesday,Tuesday,DATE,,,en,29
+first,first,ORDINAL,,,en,99
+thousands,thousands,CARDINAL,,,en,89
+Friday,Friday,DATE,,,en,84
+Thursday,Thursday,DATE,,,en,73
+two,two,CARDINAL,,,en,67
+2025,2025,CARDINAL,,,en,60
+one,one,CARDINAL,,,en,59
+Wednesday,Wednesday,DATE,,,en,49
+Monday,Monday,DATE,,,en,45
+Palisades,Palisades,FAC,0.07019400352733686,1.803835978835979,en,42
+January,January,DATE,,,en,39
+wildfire,wildfire,DATE,,,en,35
+Tuesday,Tuesday,DATE,,,en,30
+today,today,DATE,,,en,26
+tens of thousands,tens of thousands,CARDINAL,,,en,26
 Republicans,Republicans,NORP,,,en,25
-today,today,DATE,,,en,25
-tens of thousands,tens of thousands,CARDINAL,,,en,24
-morning,morning,TIME,,,en,22
+morning,morning,TIME,,,en,23
+this week,this week,DATE,,,en,21
+nearly $40 billion,nearly $40 billion,MONEY,,,en,20
 $1 million,$1 million,MONEY,,,en,20
-this week,this week,DATE,,,en,20
+night,night,TIME,,,en,19
 last week,last week,DATE,,,en,19
-January,January,DATE,,,en,18
-Palisades Fire,Palisades Fire,FAC,,,en,18
-night,night,TIME,,,en,16
-the Eaton Fire,the Eaton Fire,FAC,0.7804365079365079,2.2126587301587297,en,15
-three,three,CARDINAL,,,en,15
+Palisades Fire,Palisades Fire,FAC,,,en,19
+American,American,NORP,,,en,18
+the Eaton Fire,the Eaton Fire,FAC,0.7471031746031745,2.2793253968253966,en,17
+Sunday,Sunday,DATE,,,en,16
+Thousands,Thousands,CARDINAL,,,en,16
+Grammy Awards,Grammy Awards,EVENT,,,en,16
 $1 Million,$1 Million,MONEY,,,en,15
+three,three,CARDINAL,,,en,15
+Saturday,Saturday,DATE,,,en,15
 second,second,ORDINAL,,,en,14
-American,American,NORP,,,en,14
-Thousands,Thousands,CARDINAL,,,en,14
 hundreds of thousands,hundreds of thousands,CARDINAL,,,en,14
-afternoon,afternoon,TIME,,,en,13
+last month,last month,DATE,,,en,13
 "500,000","500,000",MONEY,,,en,13
-Saturday,Saturday,DATE,,,en,13
-10,10,CARDINAL,,,en,11
+this month,this month,DATE,,,en,13
+afternoon,afternoon,TIME,,,en,13
+last month's,last month's,DATE,,,en,12
+10,10,CARDINAL,,,en,12
+22%,22%,PERCENT,,,en,12
+Californians,Californians,NORP,,,en,12
+years,years,DATE,,,en,12
+67th,67th,ORDINAL,,,en,12
 recent weeks,recent weeks,DATE,,,en,11
-this month,this month,DATE,,,en,11
+Two,Two,CARDINAL,,,en,11
 First,First,ORDINAL,,,en,11
-Sunday,Sunday,DATE,,,en,11
-Democratic,Democratic,NORP,,,en,10
+at least 29,at least 29,CARDINAL,,,en,11
+five,five,CARDINAL,,,en,10
 Democrats,Democrats,NORP,,,en,10
-22%,22%,PERCENT,,,en,10
-last month,last month,DATE,,,en,10
-years,years,DATE,,,en,10
-last month's,last month's,DATE,,,en,10
-Californians,Californians,NORP,,,en,10
+$1 billion,$1 billion,MONEY,,,en,10
+Democratic,Democratic,NORP,,,en,10
+weeks,weeks,DATE,,,en,9
+2023,2023,CARDINAL,,,en,9
+239,239,CARDINAL,,,en,9
+One,One,CARDINAL,,,en,9
+decades,decades,DATE,,,en,9
 Three,Three,CARDINAL,,,en,9
-at least 29,at least 29,CARDINAL,,,en,9
-Grammy Awards,Grammy Awards,EVENT,,,en,9
-$1 billion,$1 billion,MONEY,,,en,9
-Two,Two,CARDINAL,,,en,9
-at least five,at least five,CARDINAL,,,en,8
-five,five,CARDINAL,,,en,8
-last month’s,last month’s,DATE,,,en,8
+5,5,CARDINAL,,,en,8
 Republican,Republican,NORP,,,en,8
-239,239,CARDINAL,,,en,8
-weeks,weeks,DATE,,,en,8
-the Palisades Fire,the Palisades Fire,FAC,0.049999999999999996,0.3013888888888889,en,8
-One,One,CARDINAL,,,en,8
-$10 million,$10 million,MONEY,,,en,7
-"nearly 200,000","nearly 200,000",CARDINAL,,,en,7
-"January 8, 2025","January 8, 2025",DATE,,,en,7
-Eaton Fire,Eaton Fire,FAC,,,en,7
-Tens of thousands,Tens of thousands,CARDINAL,,,en,7
+last month’s,last month’s,DATE,,,en,8
+third,third,ORDINAL,,,en,8
+January 2025,January 2025,DATE,,,en,8
+at least five,at least five,CARDINAL,,,en,8
+This week,This week,DATE,,,en,8
+the Palisades Fire,the Palisades Fire,FAC,0.0409090909090909,0.24659090909090908,en,8
+Canadian,Canadian,NORP,,,en,8
+Six weeks,Six weeks,DATE,,,en,8
+2024,2024,DATE,,,en,8
+GoFundMe,GoFundMe,NORP,,,en,7
 a day,a day,DATE,,,en,7
-5,5,CARDINAL,,,en,7
-2023,2023,CARDINAL,,,en,7
-this weekend,this weekend,DATE,,,en,7
 $5 Million,$5 Million,MONEY,,,en,7
+January 7,January 7,DATE,,,en,7
+next week,next week,DATE,,,en,7
+24,24,DATE,,,en,7
+"nearly 200,000","nearly 200,000",CARDINAL,,,en,7
+Eaton Fire,Eaton Fire,FAC,,,en,7
+Today,Today,DATE,,,en,7
+Tens of thousands,Tens of thousands,CARDINAL,,,en,7
+this weekend,this weekend,DATE,,,en,7
+"January 8, 2025","January 8, 2025",DATE,,,en,7
 100%,100%,PERCENT,,,en,7
-January 2025,January 2025,DATE,,,en,7
-67th,67th,ORDINAL,,,en,6
+$10 million,$10 million,MONEY,,,en,7
+Australian,Australian,NORP,,,en,6
 2028,2028,CARDINAL,,,en,6
+2020,2020,DATE,,,en,6
+four,four,CARDINAL,,,en,6
+3,3,CARDINAL,,,en,6
+D.,D.,NORP,,,en,6
+$2.5 million,$2.5 million,MONEY,,,en,6
+this year,this year,DATE,,,en,6
 millions,millions,CARDINAL,,,en,6
 $5 million,$5 million,MONEY,,,en,6
-2024,2024,DATE,,,en,6
-3,3,CARDINAL,,,en,6
-$2.5 million,$2.5 million,MONEY,,,en,6
-decades,decades,DATE,,,en,6
-This week,This week,DATE,,,en,6
-four,four,CARDINAL,,,en,6
-4B,4B,MONEY,,,en,6
+$15 million,$15 million,MONEY,,,en,6
+week,week,DATE,,,en,6
+2018,2018,DATE,,,en,6
 Democrat,Democrat,NORP,,,en,6
-24,24,DATE,,,en,6
-next week,next week,DATE,,,en,5
-January 7,January 7,DATE,,,en,5
-overnight,overnight,TIME,,,en,5
-Jan. 9,Jan. 9,DATE,,,en,5
-Hurricane Helene,Hurricane Helene,EVENT,,,en,5
-week,week,DATE,,,en,5
-90 days,90 days,DATE,,,en,5
-Jan. 30,Jan. 30,DATE,,,en,5
-"more than 12,000","more than 12,000",CARDINAL,,,en,5
-Today,Today,DATE,,,en,5
-At least 24,At least 24,CARDINAL,,,en,5
-September,September,DATE,,,en,5
-$1M,$1M,MONEY,,,en,5
-this year,this year,DATE,,,en,5
+4B,4B,MONEY,,,en,6
 2017,2017,DATE,,,en,5
-the weekend,the weekend,DATE,,,en,5
-January 30,January 30,DATE,,,en,5
-"150,000","150,000",CARDINAL,,,en,5
-tonight,tonight,TIME,,,en,5
-three weeks,three weeks,DATE,,,en,5
-"50,000","50,000",MONEY,,,en,5
 Jan. 7,Jan. 7,DATE,,,en,5
-Australian,Australian,NORP,,,en,5
-Canadian,Canadian,NORP,,,en,5
+September,September,DATE,,,en,5
+the weekend,the weekend,DATE,,,en,5
+tonight,tonight,TIME,,,en,5
+Green Day,Green Day,DATE,,,en,5
+"more than 12,000","more than 12,000",CARDINAL,,,en,5
+Jan. 30,Jan. 30,DATE,,,en,5
+At least 24,At least 24,CARDINAL,,,en,5
+"150,000","150,000",CARDINAL,,,en,5
 At least five,At least five,CARDINAL,,,en,5
+dozens,dozens,CARDINAL,,,en,5
+three weeks,three weeks,DATE,,,en,5
+Jan. 9,Jan. 9,DATE,,,en,5
+January 30,January 30,DATE,,,en,5
+at least one,at least one,CARDINAL,,,en,5
+1,1,MONEY,,,en,5
+overnight,overnight,TIME,,,en,5
+"50,000","50,000",MONEY,,,en,5
+29,29,CARDINAL,,,en,5
+Hurricane Helene,Hurricane Helene,EVENT,,,en,5
 thousands of acres,thousands of acres,QUANTITY,,,en,5
-third,third,ORDINAL,,,en,4
-dozens,dozens,CARDINAL,,,en,4
-$2.5 Million,$2.5 Million,MONEY,,,en,4
+$1M,$1M,MONEY,,,en,5
+90 days,90 days,DATE,,,en,5
+56%,56%,PERCENT,,,en,4
+25,25,CARDINAL,,,en,4
+the past week,the past week,DATE,,,en,4
+"more than 16,000","more than 16,000",CARDINAL,,,en,4
+"65,000 hectares","65,000 hectares",QUANTITY,,,en,4
+Japanese,Japanese,NORP,,,en,4
+Grammy,Grammy,WORK_OF_ART,,,en,4
+"Feb. 03, 2025","Feb. 03, 2025",DATE,,,en,4
+earlier this month,earlier this month,DATE,,,en,4
+"over 30,000 acres","over 30,000 acres",QUANTITY,,,en,4
+at least 16,at least 16,CARDINAL,,,en,4
+90,90,CARDINAL,,,en,4
+more than two dozen,more than two dozen,CARDINAL,,,en,4
+Six,Six,CARDINAL,,,en,4
+last year's,last year's,DATE,,,en,4
+11,11,CARDINAL,,,en,4
+one-night,one-night,TIME,,,en,4
+$4 billion,$4 billion,MONEY,,,en,4
+January 9,January 9,DATE,,,en,4
+F*ck,F*ck,DATE,,,en,4
 the Golden State,the Golden State,FAC,,,en,4
 Southern,Southern,NORP,,,en,4
-the Intuit Dome,the Intuit Dome,FAC,0.25,0.5833333333333334,en,4
-at least 16,at least 16,CARDINAL,,,en,4
 last months,last months,DATE,,,en,4
-Olympics,Olympics,EVENT,,,en,4
-2018,2018,DATE,,,en,4
-"over 30,000 acres","over 30,000 acres",QUANTITY,,,en,4
-56%,56%,PERCENT,,,en,4
-Grammy,Grammy,WORK_OF_ART,,,en,4
-2020,2020,DATE,,,en,4
-at least one,at least one,CARDINAL,,,en,4
-half,half,CARDINAL,,,en,4
+$2.5 Million,$2.5 Million,MONEY,,,en,4
 French,French,NORP,,,en,4
-"12,000","12,000",CARDINAL,,,en,4
-$15 million,$15 million,MONEY,,,en,4
-GoFundMe,GoFundMe,NORP,,,en,4
-211,211,CARDINAL,,,en,4
-25,25,CARDINAL,,,en,4
-"Feb. 03, 2025","Feb. 03, 2025",DATE,,,en,4
-"65,000 hectares","65,000 hectares",QUANTITY,,,en,4
-"30,000","30,000",CARDINAL,,,en,4
-Six,Six,CARDINAL,,,en,4
-D.,D.,NORP,,,en,4
-Grampians,Grampians,NORP,,,en,4
-more than two dozen,more than two dozen,CARDINAL,,,en,4
-"200,000","200,000",MONEY,,,en,4
-Oscar,Oscar,WORK_OF_ART,,,en,4
-January 9,January 9,DATE,,,en,4
-billions,billions,CARDINAL,,,en,4
-15,15,CARDINAL,,,en,4
-last year's,last year's,DATE,,,en,4
-F*ck,F*ck,DATE,,,en,4
-earlier this month,earlier this month,DATE,,,en,4
-Three decades ago,Three decades ago,DATE,,,en,4
 evening,evening,TIME,,,en,4
+"30,000","30,000",CARDINAL,,,en,4
+"200,000","200,000",MONEY,,,en,4
+half,half,CARDINAL,,,en,4
+211,211,CARDINAL,,,en,4
+Wildfire,Wildfire,DATE,0.05555555555555556,0.4263888888888889,en,4
+15,15,CARDINAL,,,en,4
+Grampians,Grampians,NORP,,,en,4
 "more than 10,000 acres","more than 10,000 acres",QUANTITY,,,en,4
-$4 billion,$4 billion,MONEY,,,en,4
+Olympics,Olympics,EVENT,,,en,4
+hundreds,hundreds,CARDINAL,,,en,4
+"12,000","12,000",CARDINAL,,,en,4
+Oscar,Oscar,WORK_OF_ART,,,en,4
 the same day,the same day,DATE,,,en,4
+Three decades ago,Three decades ago,DATE,,,en,4
+Weeks,Weeks,DATE,,,en,4
+billions,billions,CARDINAL,,,en,4
+the Intuit Dome,the Intuit Dome,FAC,0.25,0.5833333333333334,en,4
 "over 16,000","over 16,000",CARDINAL,,,en,3
-47th,47th,ORDINAL,,,en,3
-several days,several days,DATE,,,en,3
-20,20,CARDINAL,,,en,3
-100,100,CARDINAL,,,en,3
-Dems,Dems,NORP,,,en,3
-millions of dollars,millions of dollars,MONEY,,,en,3
-two weeks ago,two weeks ago,DATE,,,en,3
-the day,the day,DATE,,,en,3
-16,16,CARDINAL,,,en,3
-$1m,$1m,MONEY,,,en,3
-2,2,CARDINAL,,,en,3
-"more than 7,500","more than 7,500",CARDINAL,,,en,3
-"125,000","125,000",MONEY,,,en,3
-fifth,fifth,ORDINAL,,,en,3
-more than three weeks,more than three weeks,DATE,,,en,3
-the week,the week,DATE,,,en,3
-recent years,recent years,DATE,,,en,3
-"10,000 acres","10,000 acres",QUANTITY,,,en,3
-late January,late January,DATE,,,en,3
-five feet,five feet,QUANTITY,,,en,3
-year,year,DATE,,,en,3
-more than a weeks,more than a weeks,DATE,,,en,3
-yesterday,yesterday,DATE,,,en,3
-the past week,the past week,DATE,,,en,3
-seven,seven,CARDINAL,,,en,3
-1,1,MONEY,,,en,3
-billions of dollars,billions of dollars,MONEY,,,en,3
-last September,last September,DATE,,,en,3
-six years ago,six years ago,DATE,,,en,3
-75th,75th,ORDINAL,,,en,3
-"more than 16,000","more than 16,000",CARDINAL,,,en,3
 2018 wildfire,2018 wildfire,DATE,,,en,3
-last night,last night,TIME,,,en,3
-1991,1991,DATE,,,en,3
-A few years,A few years,DATE,,,en,3
-500k,500k,MONEY,,,en,3
-The Grammy Awards,The Grammy Awards,EVENT,,,en,3
-$10M,$10M,MONEY,,,en,3
-$50 million,$50 million,MONEY,,,en,3
+month,month,DATE,,,en,3
+"more than 7,500","more than 7,500",CARDINAL,,,en,3
+seven,seven,CARDINAL,,,en,3
+last September,last September,DATE,,,en,3
+January 10,January 10,DATE,,,en,3
+75th,75th,ORDINAL,,,en,3
+billions of dollars,billions of dollars,MONEY,,,en,3
+the last two weeks,the last two weeks,DATE,,,en,3
+Dems,Dems,NORP,,,en,3
+Last Night,Last Night,WORK_OF_ART,,,en,3
 Each year,Each year,DATE,,,en,3
-California Wildfire,California Wildfire,FAC,,,en,3
-Green Day,Green Day,DATE,,,en,3
-525-pound,525-pound,QUANTITY,,,en,3
-5 Feet,5 Feet,QUANTITY,,,en,3
-Victorian,Victorian,NORP,,,en,3
+earlier this week,earlier this week,DATE,,,en,3
+millions of dollars,millions of dollars,MONEY,,,en,3
+"65,000","65,000",CARDINAL,,,en,3
+the week,the week,DATE,,,en,3
+six years ago,six years ago,DATE,,,en,3
+yesterday,yesterday,DATE,,,en,3
+recent years,recent years,DATE,,,en,3
+47th,47th,ORDINAL,,,en,3
 2000,2000,DATE,,,en,3
-28,28,CARDINAL,,,en,3
-$2.5 billion,$2.5 billion,MONEY,,,en,3
+16,16,CARDINAL,,,en,3
+Eaton Fires,Eaton Fires,FAC,,,en,3
+$10M,$10M,MONEY,,,en,3
+more than a weeks,more than a weeks,DATE,,,en,3
+the Watch Duty,the Watch Duty,WORK_OF_ART,,,en,3
 the Hughes Fire,the Hughes Fire,FAC,,,en,3
-hundreds,hundreds,CARDINAL,,,en,3
-days,days,DATE,,,en,3
 months,months,DATE,,,en,3
 Wildfire Crisis,Wildfire Crisis,EVENT,,,en,3
-100-year-old,100-year-old,DATE,,,en,3
-"More than 30,000","More than 30,000",CARDINAL,,,en,3
-at least 10,at least 10,CARDINAL,,,en,3
+last night,last night,TIME,,,en,3
+A few years,A few years,DATE,,,en,3
+1991,1991,DATE,,,en,3
 six,six,CARDINAL,,,en,3
-"More than 10,000","More than 10,000",CARDINAL,,,en,3
-11,11,CARDINAL,,,en,3
-Brutalist,Brutalist,NORP,,,en,3
-January 8,January 8,DATE,,,en,3
-Eaton Fires,Eaton Fires,FAC,,,en,3
+Western,Western,NORP,0.09999999999999999,0.25,en,3
+100 percent,100 percent,PERCENT,,,en,3
 January 9th,January 9th,DATE,,,en,3
 the years,the years,DATE,,,en,3
-"65,000","65,000",CARDINAL,,,en,3
-month,month,DATE,,,en,3
-January 10,January 10,DATE,,,en,3
-the Watch Duty,the Watch Duty,WORK_OF_ART,,,en,3
-the last two weeks,the last two weeks,DATE,,,en,3
-Jan. 24,Jan. 24,DATE,,,en,2
-"100,000","100,000",MONEY,,,en,2
-8 a.m.,8 a.m.,TIME,,,en,2
-"11,000","11,000",CARDINAL,,,en,2
-Jasper National Park,Jasper National Park,FAC,,,en,2
-35 percent,35 percent,PERCENT,,,en,2
-2019-2020,2019-2020,DATE,,,en,2
-$24 Million,$24 Million,MONEY,,,en,2
-the Climate Desk,the Climate Desk,EVENT,,,en,2
-hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,2
-350 PPM,350 PPM,CARDINAL,,,en,2
-more than half,more than half,CARDINAL,,,en,2
-nine,nine,CARDINAL,,,en,2
-29,29,CARDINAL,,,en,2
-"40,000 acres","40,000 acres",QUANTITY,,,en,2
-"10,000","10,000",CARDINAL,,,en,2
-"nearly $90,000","nearly $90,000",MONEY,,,en,2
-about 10km,about 10km,QUANTITY,,,en,2
-"800,000","800,000",MONEY,,,en,2
-$500K,$500K,MONEY,,,en,2
-a few days,a few days,DATE,,,en,2
-the last month,the last month,DATE,,,en,2
-Wildfire,Wildfire,DATE,-0.13333333333333333,0.19166666666666665,en,2
-"nearly 40,000 acres","nearly 40,000 acres",QUANTITY,,,en,2
-"4,400","4,400",CARDINAL,,,en,2
-2024-2025,2024-2025,DATE,,,en,2
-"as much as $5,000","as much as $5,000",MONEY,,,en,2
-Monday night,Monday night,TIME,,,en,2
-Self-Promotion,Self-Promotion,WORK_OF_ART,,,en,2
-Western,Western,NORP,0.09999999999999999,0.25,en,2
-six-hour,six-hour,TIME,,,en,2
-late last month,late last month,DATE,,,en,2
-$12.5 billion,$12.5 billion,MONEY,,,en,2
-Earlier this year,Earlier this year,DATE,,,en,2
-multi-million dollar,multi-million dollar,MONEY,,,en,2
-"1,000","1,000",CARDINAL,,,en,2
-Last week,Last week,DATE,,,en,2
-Swiss,Swiss,NORP,,,en,2
-Jan. 27,Jan. 27,DATE,,,en,2
-60-year-old,60-year-old,DATE,,,en,2
-more than 30%,more than 30%,PERCENT,,,en,2
-15-foot,15-foot,QUANTITY,,,en,2
-51-year-old,51-year-old,DATE,,,en,2
-nearly 12 hours,nearly 12 hours,TIME,,,en,2
-more than $1 billion,more than $1 billion,MONEY,,,en,2
-45-year-old,45-year-old,DATE,,,en,2
-6.8,6.8,CARDINAL,,,en,2
-February 7,February 7,DATE,,,en,2
-Good Music To Lift Los Angeles,Good Music To Lift Los Angeles,WORK_OF_ART,,,en,2
-more than $4 billion,more than $4 billion,MONEY,,,en,2
-$95 billion to $164 billion,$95 billion to $164 billion,MONEY,,,en,2
-83-year-old,83-year-old,DATE,,,en,2
-"January 09, 2025","January 09, 2025",DATE,,,en,2
-over 850,over 850,CARDINAL,,,en,2
-"January 7, 2025","January 7, 2025",DATE,,,en,2
-"over $500,000","over $500,000",MONEY,,,en,2
-the next few weeks,the next few weeks,DATE,,,en,2
-more than a decade,more than a decade,DATE,,,en,2
-one-night,one-night,TIME,,,en,2
-Santa Ana Winds,Santa Ana Winds,FAC,,,en,2
-18,18,CARDINAL,,,en,2
-the Sundance Film Festival,the Sundance Film Festival,EVENT,,,en,2
-238,238,CARDINAL,,,en,2
-over a dozen,over a dozen,CARDINAL,,,en,2
+California Wildfire,California Wildfire,FAC,,,en,3
+The Grammy Awards,The Grammy Awards,EVENT,,,en,3
+"125,000","125,000",MONEY,,,en,3
+Brutalist,Brutalist,NORP,,,en,3
+5 Feet,5 Feet,QUANTITY,,,en,3
+five feet,five feet,QUANTITY,,,en,3
+fifth,fifth,ORDINAL,,,en,3
+the evening of,the evening of,TIME,,,en,3
+the day,the day,DATE,,,en,3
+$1m,$1m,MONEY,,,en,3
+"1,000","1,000",CARDINAL,,,en,3
+525-pound,525-pound,QUANTITY,,,en,3
+"10,000 acres","10,000 acres",QUANTITY,,,en,3
+more than a century,more than a century,DATE,,,en,3
+$50 million,$50 million,MONEY,,,en,3
+500k,500k,MONEY,,,en,3
+100-year-old,100-year-old,DATE,,,en,3
+100,100,CARDINAL,,,en,3
+"More than 30,000","More than 30,000",CARDINAL,,,en,3
+Last month,Last month,DATE,,,en,3
+"More than 10,000","More than 10,000",CARDINAL,,,en,3
+At least one,At least one,CARDINAL,,,en,3
+several days,several days,DATE,,,en,3
+year,year,DATE,,,en,3
+the year,the year,DATE,,,en,3
+late January,late January,DATE,,,en,3
+$2.5 billion,$2.5 billion,MONEY,,,en,3
+January 8,January 8,DATE,,,en,3
+City Hall,City Hall,FAC,,,en,3
+California Dreamin’,California Dreamin’,WORK_OF_ART,,,en,3
+20,20,CARDINAL,,,en,3
+two weeks ago,two weeks ago,DATE,,,en,3
+days,days,DATE,,,en,3
+at least 10,at least 10,CARDINAL,,,en,3
+2,2,CARDINAL,,,en,3
+28,28,CARDINAL,,,en,3
+Victorian,Victorian,NORP,,,en,3
+more than three weeks,more than three weeks,DATE,,,en,3
 Feb. 22,Feb. 22,DATE,,,en,2
-"Nearly 20,000","Nearly 20,000",CARDINAL,,,en,2
-"more than 5,000 acres","more than 5,000 acres",QUANTITY,,,en,2
-a few hours,a few hours,TIME,,,en,2
-up to,up to,QUANTITY,,,en,2
-Japanese,Japanese,NORP,,,en,2
-more than $100 million,more than $100 million,MONEY,,,en,2
-200,200,CARDINAL,,,en,2
-56-year-old,56-year-old,DATE,,,en,2
-century-old,century-old,DATE,,,en,2
-150 hours,150 hours,TIME,,,en,2
-13,13,CARDINAL,,,en,2
-daily,daily,DATE,,,en,2
-more than 100 years,more than 100 years,DATE,,,en,2
-this Boxing Day,this Boxing Day,DATE,,,en,2
-"more than 50,000","more than 50,000",CARDINAL,,,en,2
-"10,000 Acres","10,000 Acres",QUANTITY,,,en,2
-26%,26%,PERCENT,,,en,2
-"some 50,000","some 50,000",CARDINAL,,,en,2
-nearly 41 square kilometers,nearly 41 square kilometers,QUANTITY,,,en,2
-16 square miles,16 square miles,QUANTITY,,,en,2
-CA,CA,ORDINAL,-0.02500000000000001,0.6166666666666667,en,2
-anti-Semitism,anti-Semitism,NORP,,,en,2
-two days,two days,DATE,,,en,2
-$6 million,$6 million,MONEY,,,en,2
-weekly,weekly,DATE,,,en,2
-"more than 30,000","more than 30,000",CARDINAL,,,en,2
-"Monday, January 27","Monday, January 27",DATE,,,en,2
-up to 18 months,up to 18 months,DATE,,,en,2
-97,97,CARDINAL,,,en,2
-$1.6 billion-$2.0 billion,$1.6 billion-$2.0 billion,MONEY,,,en,2
 4x,4x,CARDINAL,,,en,2
-Annual Grammy Awards,Annual Grammy Awards,EVENT,,,en,2
-"Tuesday, Jan. 7, 2025","Tuesday, Jan. 7, 2025",DATE,,,en,2
-Artist Series Collection,Artist Series Collection,WORK_OF_ART,,,en,2
-recent days,recent days,DATE,,,en,2
-as tens of thousands,as tens of thousands,CARDINAL,,,en,2
-nearly a month,nearly a month,DATE,,,en,2
-Californias,Californias,PRODUCT,,,en,2
-"January 7th, 2025","January 7th, 2025",DATE,,,en,2
-Hundreds,Hundreds,CARDINAL,,,en,2
-last summer's,last summer's,DATE,,,en,2
-March,March,DATE,,,en,2
+Jan 24,Jan 24,DATE,,,en,2
+97,97,CARDINAL,,,en,2
+"more than 5,000 acres","more than 5,000 acres",QUANTITY,,,en,2
+"Nearly 20,000","Nearly 20,000",CARDINAL,,,en,2
 this summer,this summer,DATE,,,en,2
-Fire Aid,Fire Aid,PRODUCT,,,en,2
-About 13 million,About 13 million,CARDINAL,,,en,2
-Los Angles,Los Angles,FAC,,,en,2
-over 200 acres,over 200 acres,QUANTITY,,,en,2
-USD $1 Million,USD $1 Million,MONEY,,,en,2
-the Grammy Awards,the Grammy Awards,EVENT,,,en,2
-25th,25th,ORDINAL,,,en,2
-LA Wildfire,LA Wildfire,FAC,-0.25,0.5,en,2
-the year,the year,DATE,,,en,2
-Sundance Film Festival,Sundance Film Festival,EVENT,,,en,2
-Tonight,Tonight,TIME,,,en,2
-Chinese Theatre,Chinese Theatre,EVENT,,,en,2
-summer,summer,DATE,,,en,2
-Dying Father Leads Family Out,Dying Father Leads Family Out,WORK_OF_ART,,,en,2
-8 years,8 years,DATE,,,en,2
-500,500,MONEY,,,en,2
-the Rose Bowl,the Rose Bowl,FAC,,,en,2
-more than five days,more than five days,DATE,,,en,2
-Thai,Thai,NORP,,,en,2
-winter,winter,DATE,,,en,2
-YouTube,YouTube,PRODUCT,,,en,2
-Victorians,Victorians,NORP,,,en,2
-4 p.m.,4 p.m.,TIME,,,en,2
-the costliest wildfire,the costliest wildfire,DATE,,,en,2
-early this week,early this week,DATE,,,en,2
-Second,Second,ORDINAL,,,en,2
-one month,one month,DATE,,,en,2
+recent days,recent days,DATE,,,en,2
+Million Dollar Listing,Million Dollar Listing,MONEY,,,en,2
+Californias,Californias,PRODUCT,,,en,2
 up to 70%,up to 70%,PERCENT,,,en,2
-just a week,just a week,DATE,,,en,2
-44,44,CARDINAL,,,en,2
-2010,2010,DATE,,,en,2
-March 4,March 4,DATE,,,en,2
-February,February,DATE,,,en,2
-nearly three weeks,nearly three weeks,DATE,,,en,2
-14 Miles,14 Miles,QUANTITY,,,en,2
-nearly a dozen,nearly a dozen,CARDINAL,,,en,2
-"Sunday, Feb. 2","Sunday, Feb. 2",DATE,,,en,2
-"Thursday, January 30, 2025","Thursday, January 30, 2025",DATE,,,en,2
-8,8,CARDINAL,,,en,2
-Weeks,Weeks,DATE,,,en,2
-early January 35%,early January 35%,DATE,,,en,2
-after10 days,after10 days,DATE,,,en,2
+LA Wildfire,LA Wildfire,FAC,-0.25,0.5,en,2
+the Sundance Film Festival,the Sundance Film Festival,EVENT,,,en,2
+Los Angles,Los Angles,FAC,,,en,2
+weekly,weekly,DATE,,,en,2
+more than five days,more than five days,DATE,,,en,2
+"Monday, January 27","Monday, January 27",DATE,,,en,2
+4 p.m.,4 p.m.,TIME,,,en,2
+summer,summer,DATE,,,en,2
+Thai,Thai,NORP,,,en,2
+8 a.m.,8 a.m.,TIME,,,en,2
+a few hours,a few hours,TIME,,,en,2
+9 AM,9 AM,TIME,,,en,2
+the Climate Desk,the Climate Desk,EVENT,,,en,2
+nine,nine,CARDINAL,,,en,2
+45-year-old,45-year-old,DATE,,,en,2
+15-foot,15-foot,QUANTITY,,,en,2
+more than 30%,more than 30%,PERCENT,,,en,2
+about 10km,about 10km,QUANTITY,,,en,2
+Swiss,Swiss,NORP,,,en,2
+"nearly 40,000 acres","nearly 40,000 acres",QUANTITY,,,en,2
+Annual Grammy Awards,Annual Grammy Awards,EVENT,,,en,2
+Jan. 24,Jan. 24,DATE,,,en,2
+USD $1 Million,USD $1 Million,MONEY,,,en,2
+97th,97th,ORDINAL,,,en,2
+13,13,CARDINAL,,,en,2
+"Friday, March 14","Friday, March 14",DATE,,,en,2
+more than two weeks,more than two weeks,DATE,,,en,2
+Royce Hall,Royce Hall,FAC,,,en,2
+six months,six months,DATE,,,en,2
+The past several weeks,The past several weeks,DATE,,,en,2
 "10,396-acre","10,396-acre",QUANTITY,,,en,2
-more than 2.3 million acres,more than 2.3 million acres,QUANTITY,,,en,2
+14 Miles,14 Miles,QUANTITY,,,en,2
+anti-Semitism,anti-Semitism,NORP,,,en,2
+16 square miles,16 square miles,QUANTITY,,,en,2
+nearly 41 square kilometers,nearly 41 square kilometers,QUANTITY,,,en,2
+Jasper National Park,Jasper National Park,FAC,,,en,2
+"some 50,000","some 50,000",CARDINAL,,,en,2
+"10,000 Acres","10,000 Acres",QUANTITY,,,en,2
+"more than 50,000","more than 50,000",CARDINAL,,,en,2
+pre-season,pre-season,DATE,,,en,2
+18,18,CARDINAL,,,en,2
+40B,40B,MONEY,,,en,2
+"January 26, 2025","January 26, 2025",DATE,,,en,2
+more than $1 billion,more than $1 billion,MONEY,,,en,2
+Victorians,Victorians,NORP,,,en,2
 million,million,CARDINAL,,,en,2
 "Feb 10, 2025","Feb 10, 2025",DATE,,,en,2
-Selling Sunset,Selling Sunset,WORK_OF_ART,,,en,2
-"300,000","300,000",MONEY,,,en,2
-Jan 24,Jan 24,DATE,,,en,2
-pre-season,pre-season,DATE,,,en,2
+72,72,MONEY,,,en,2
+"over $500,000","over $500,000",MONEY,,,en,2
+2023 wildfire,2023 wildfire,DATE,,,en,2
+mid-January,mid-January,DATE,,,en,2
+the costliest wildfire,the costliest wildfire,DATE,,,en,2
+Israelis,Israelis,NORP,,,en,2
+44,44,CARDINAL,,,en,2
+2010,2010,DATE,,,en,2
+500,500,MONEY,,,en,2
+after10 days,after10 days,DATE,,,en,2
+the Marshall Fire,the Marshall Fire,FAC,,,en,2
+Last month’s,Last month’s,DATE,,,en,2
+"as many as 200,000","as many as 200,000",CARDINAL,,,en,2
+"more than 9,000","more than 9,000",CARDINAL,,,en,2
+1971,1971,DATE,,,en,2
+more than $60 million,more than $60 million,MONEY,,,en,2
+Dying Father Leads Family Out,Dying Father Leads Family Out,WORK_OF_ART,,,en,2
+February 6th to,February 6th to,DATE,,,en,2
+midnight,midnight,TIME,,,en,2
+"nearly $90,000","nearly $90,000",MONEY,,,en,2
+"as much as $5,000","as much as $5,000",MONEY,,,en,2
+25 per cent,25 per cent,MONEY,,,en,2
+February 7th,February 7th,DATE,,,en,2
+Last week,Last week,DATE,,,en,2
+February,February,DATE,,,en,2
+more than 2.3 million acres,more than 2.3 million acres,QUANTITY,,,en,2
+"some 270,000","some 270,000",CARDINAL,,,en,2
+more than $100 million,more than $100 million,MONEY,,,en,2
+more than a thousand,more than a thousand,CARDINAL,,,en,2
+more than three decades,more than three decades,DATE,,,en,2
+400,400,CARDINAL,,,en,2
+"some 2,000","some 2,000",CARDINAL,,,en,2
+More than 80,More than 80,CARDINAL,,,en,2
+84,84,CARDINAL,,,en,2
+80,80,CARDINAL,,,en,2
+Months,Months,DATE,,,en,2
+5%,5%,PERCENT,,,en,2
+$200 million,$200 million,MONEY,,,en,2
+This month,This month,DATE,,,en,2
+more than 100 years,more than 100 years,DATE,,,en,2
+$6 million,$6 million,MONEY,,,en,2
+$1.6 billion-$2.0 billion,$1.6 billion-$2.0 billion,MONEY,,,en,2
+Californian,Californian,NORP,,,en,2
+25th,25th,ORDINAL,,,en,2
+Coloradans,Coloradans,NORP,,,en,2
+an additional $1 billion,an additional $1 billion,MONEY,,,en,2
+as much as $275 billion,as much as $275 billion,MONEY,,,en,2
+A Love Letter,A Love Letter,WORK_OF_ART,,,en,2
+February 18th to March 28th,February 18th to March 28th,DATE,,,en,2
+6.8,6.8,CARDINAL,,,en,2
+nearly 12 hours,nearly 12 hours,TIME,,,en,2
+Earlier this year,Earlier this year,DATE,,,en,2
+late last month,late last month,DATE,,,en,2
+six-hour,six-hour,TIME,,,en,2
+Self-Promotion,Self-Promotion,WORK_OF_ART,,,en,2
+February 7,February 7,DATE,,,en,2
+Monday (Jan 27,Monday (Jan 27,DATE,,,en,2
+Good Music To Lift Los Angeles,Good Music To Lift Los Angeles,WORK_OF_ART,,,en,2
+the past three weeks,the past three weeks,DATE,,,en,2
+Bat Cave Road south of,Bat Cave Road south of,FAC,,,en,2
+1989,1989,DATE,,,en,2
+the Berlin Film Festival,the Berlin Film Festival,FAC,,,en,2
 Jan. 28,Jan. 28,DATE,,,en,2
 Jan. 29,Jan. 29,DATE,,,en,2
-Intuit Dome,Intuit Dome,FAC,-0.1875,0.5625,en,2
-the Berlin Film Festival,the Berlin Film Festival,FAC,,,en,2
 like wildfire,like wildfire,DATE,,,en,2
-the night Saturday,the night Saturday,TIME,,,en,2
-"more than 39,000 acres","more than 39,000 acres",QUANTITY,,,en,2
-"approximately 36,000 acres","approximately 36,000 acres",QUANTITY,,,en,2
-at least ten,at least ten,CARDINAL,,,en,2
-At least 98,At least 98,CARDINAL,,,en,2
-At least 16,At least 16,CARDINAL,,,en,2
-a sixth day,a sixth day,DATE,,,en,2
-"more than 10,000","more than 10,000",CARDINAL,,,en,2
-about 12%,about 12%,PERCENT,,,en,2
-1989,1989,DATE,,,en,2
-2023 wildfire,2023 wildfire,DATE,,,en,2
-more than a century,more than a century,DATE,,,en,2
-just four days,just four days,DATE,,,en,2
-Bat Cave Road south of,Bat Cave Road south of,FAC,,,en,2
-the past three weeks,the past three weeks,DATE,,,en,2
-14,14,DATE,,,en,2
-mid-January,mid-January,DATE,,,en,2
-72,72,MONEY,,,en,2
-the Miami Heat,the Miami Heat,FAC,,,en,2
-Hackaday,Hackaday,CARDINAL,,,en,2
-"more than 40,000 acres","more than 40,000 acres",QUANTITY,,,en,2
-Israelis,Israelis,NORP,,,en,2
-"January 26, 2025","January 26, 2025",DATE,,,en,2
-Jan 29,Jan 29,DATE,,,en,2
-The past several weeks,The past several weeks,DATE,,,en,2
-the last week,the last week,DATE,,,en,2
-"over 130,000","over 130,000",CARDINAL,,,en,2
-1971,1971,DATE,,,en,2
-"more than 9,000","more than 9,000",CARDINAL,,,en,2
-Monday (Jan 27,Monday (Jan 27,DATE,,,en,2
-The View,The View,WORK_OF_ART,,,en,2
-"some 270,000","some 270,000",CARDINAL,,,en,2
-mid-January 2025,mid-January 2025,DATE,,,en,2
-At least two,At least two,CARDINAL,,,en,2
+just a week,just a week,DATE,,,en,2
+early January 35%,early January 35%,DATE,,,en,2
+Grampians National Park,Grampians National Park,FAC,,,en,2
 $100 million,$100 million,MONEY,,,en,2
-$10 Million,$10 Million,MONEY,,,en,2
-4:30 p.m.,4:30 p.m.,TIME,,,en,2
 $100 Million,$100 Million,MONEY,,,en,2
-"as many as 200,000","as many as 200,000",CARDINAL,,,en,2
+35 percent,35 percent,PERCENT,,,en,2
+8 years,8 years,DATE,,,en,2
+Monday night,Monday night,TIME,,,en,2
+350 PPM,350 PPM,CARDINAL,,,en,2
+the next few weeks,the next few weeks,DATE,,,en,2
+"over 1,000","over 1,000",CARDINAL,,,en,2
+2024-2025,2024-2025,DATE,,,en,2
+over a dozen,over a dozen,CARDINAL,,,en,2
+Sundance Film Festival,Sundance Film Festival,EVENT,,,en,2
+Artist Series Collection,Artist Series Collection,WORK_OF_ART,,,en,2
+February 13th,February 13th,DATE,,,en,2
+over 850,over 850,CARDINAL,,,en,2
+Jan. 27,Jan. 27,DATE,,,en,2
+"11,000","11,000",CARDINAL,,,en,2
+nearly three weeks,nearly three weeks,DATE,,,en,2
+"Thursday, January 30, 2025","Thursday, January 30, 2025",DATE,,,en,2
+"nearly 3,000 miles","nearly 3,000 miles",QUANTITY,,,en,2
+4:30 p.m.,4:30 p.m.,TIME,,,en,2
+200,200,CARDINAL,,,en,2
+$95 billion to $164 billion,$95 billion to $164 billion,MONEY,,,en,2
+51-year-old,51-year-old,DATE,,,en,2
+Shrinking Season 3,Shrinking Season 3,EVENT,,,en,2
+$24 Million,$24 Million,MONEY,,,en,2
+"10,000","10,000",CARDINAL,,,en,2
+early January,early January,DATE,,,en,2
+"4,400","4,400",CARDINAL,,,en,2
+up to 18 months,up to 18 months,DATE,,,en,2
+nearly a month,nearly a month,DATE,,,en,2
+"January 7th, 2025","January 7th, 2025",DATE,,,en,2
+About 13 million,About 13 million,CARDINAL,,,en,2
+the Grammy Awards,the Grammy Awards,EVENT,,,en,2
+56-year-old,56-year-old,DATE,,,en,2
+$1.23 billion,$1.23 billion,MONEY,,,en,2
+150 hours,150 hours,TIME,,,en,2
+CA,CA,ORDINAL,-0.02500000000000001,0.6166666666666667,en,2
+two days,two days,DATE,,,en,2
+Fire Aid,Fire Aid,PRODUCT,,,en,2
+March,March,DATE,,,en,2
+last summer's,last summer's,DATE,,,en,2
+Hundreds,Hundreds,CARDINAL,,,en,2
+more than $4 billion,more than $4 billion,MONEY,,,en,2
+the last month,the last month,DATE,,,en,2
+"100,000","100,000",MONEY,,,en,2
+$12.5 billion,$12.5 billion,MONEY,,,en,2
+Jan 29,Jan 29,DATE,,,en,2
+hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,2
+an hour,an hour,TIME,,,en,2
+PlayStation,PlayStation,PRODUCT,,,en,2
+Tonight,Tonight,TIME,,,en,2
+"Tuesday, Jan. 7, 2025","Tuesday, Jan. 7, 2025",DATE,,,en,2
+a few days,a few days,DATE,,,en,2
+"800,000","800,000",MONEY,,,en,2
+March 4,March 4,DATE,,,en,2
+as tens of thousands,as tens of thousands,CARDINAL,,,en,2
+one month,one month,DATE,,,en,2
+over 200 acres,over 200 acres,QUANTITY,,,en,2
+"January 09, 2025","January 09, 2025",DATE,,,en,2
+Second,Second,ORDINAL,,,en,2
+early this week,early this week,DATE,,,en,2
+YouTube,YouTube,PRODUCT,,,en,2
+up to,up to,QUANTITY,,,en,2
+Chinese Theatre,Chinese Theatre,EVENT,,,en,2
+multi-million dollar,multi-million dollar,MONEY,,,en,2
+winter,winter,DATE,,,en,2
+Hackaday,Hackaday,CARDINAL,,,en,2
+60-year-old,60-year-old,DATE,,,en,2
+the Miami Heat,the Miami Heat,FAC,,,en,2
+14,14,DATE,,,en,2
+Santa Ana Winds,Santa Ana Winds,FAC,,,en,2
+the Rose Bowl,the Rose Bowl,FAC,,,en,2
+238,238,CARDINAL,,,en,2
+nearly a dozen,nearly a dozen,CARDINAL,,,en,2
+"2,000","2,000",MONEY,,,en,2
+February 2nd,February 2nd,DATE,,,en,2
+"more than 30,000","more than 30,000",CARDINAL,,,en,2
+mid-January 2025,mid-January 2025,DATE,,,en,2
+83-year-old,83-year-old,DATE,,,en,2
+At least two,At least two,CARDINAL,,,en,2
+at least 25,at least 25,CARDINAL,,,en,2
+at least 24,at least 24,CARDINAL,,,en,2
 "Jan. 7, 2025","Jan. 7, 2025",DATE,,,en,2
 January 14,January 14,DATE,,,en,2
-PlayStation,PlayStation,PRODUCT,,,en,2
-six months,six months,DATE,,,en,2
-$1.23 billion,$1.23 billion,MONEY,,,en,2
-the next few days,the next few days,DATE,,,en,2
-Last month’s,Last month’s,DATE,,,en,2
-Grampians National Park,Grampians National Park,FAC,,,en,2
-at least 25,at least 25,CARDINAL,,,en,2
-6,6,CARDINAL,,,en,2
-the Los Angeles Rams,the Los Angeles Rams,FAC,,,en,2
-at least 24,at least 24,CARDINAL,,,en,2
-"nearly 3,000 miles","nearly 3,000 miles",QUANTITY,,,en,2
-"Friday, March 14","Friday, March 14",DATE,,,en,2
-the Marshall Fire,the Marshall Fire,FAC,,,en,2
-9 AM,9 AM,TIME,,,en,2
+Selling Sunset,Selling Sunset,WORK_OF_ART,,,en,2
+"more than 40,000 acres","more than 40,000 acres",QUANTITY,,,en,2
+"January 7, 2025","January 7, 2025",DATE,,,en,2
+$10 Million,$10 Million,MONEY,,,en,2
+The View,The View,WORK_OF_ART,,,en,2
+"over 130,000","over 130,000",CARDINAL,,,en,2
 95%,95%,PERCENT,,,en,2
-Royce Hall,Royce Hall,FAC,,,en,2
-more than $60 million,more than $60 million,MONEY,,,en,2
-damag,damag,NORP,,,en,1
-Pacific Palis,Pacific Palis,NORP,,,en,1
+8,8,CARDINAL,,,en,2
+the last week,the last week,DATE,,,en,2
+6,6,CARDINAL,,,en,2
+more than a decade,more than a decade,DATE,,,en,2
+2009,2009,DATE,,,en,2
+"Sunday, Feb. 2","Sunday, Feb. 2",DATE,,,en,2
+the Los Angeles Rams,the Los Angeles Rams,FAC,,,en,2
+"300,000","300,000",MONEY,,,en,2
+the next few days,the next few days,DATE,,,en,2
+about 12%,about 12%,PERCENT,,,en,2
+more than half,more than half,CARDINAL,,,en,2
+"more than 10,000","more than 10,000",CARDINAL,,,en,2
+"40,000 acres","40,000 acres",QUANTITY,,,en,2
+daily,daily,DATE,,,en,2
+century-old,century-old,DATE,,,en,2
+"more than 39,000 acres","more than 39,000 acres",QUANTITY,,,en,2
+more than a dozen,more than a dozen,CARDINAL,,,en,2
+a sixth day,a sixth day,DATE,,,en,2
+At least 16,At least 16,CARDINAL,,,en,2
+Intuit Dome,Intuit Dome,FAC,-0.1875,0.5625,en,2
+$500K,$500K,MONEY,,,en,2
+"approximately 36,000 acres","approximately 36,000 acres",QUANTITY,,,en,2
+the night Saturday,the night Saturday,TIME,,,en,2
+just four days,just four days,DATE,,,en,2
+at least ten,at least ten,CARDINAL,,,en,2
+26%,26%,PERCENT,,,en,2
+At least 98,At least 98,CARDINAL,,,en,2
+2019-2020,2019-2020,DATE,,,en,2
+this Boxing Day,this Boxing Day,DATE,,,en,2
+February 7th.</li><li></li><li,February 7th.</li><li></li><li,DATE,,,en,1
+Early this week,Early this week,DATE,,,en,1
+the tens of billions of dollars,the tens of billions of dollars,MONEY,,,en,1
+as high as $275 billion,as high as $275 billion,MONEY,,,en,1
+$60M,$60M,MONEY,,,en,1
+A Fond Farewell: Law Prof's,A Fond Farewell: Law Prof's,WORK_OF_ART,,,en,1
+"More than 9,000","More than 9,000",CARDINAL,,,en,1
+the days,the days,DATE,,,en,1
 $1.6 billion,$1.6 billion,MONEY,,,en,1
-"Love, Love, Love","Love, Love, Love",WORK_OF_ART,,,en,1
-"7,500","7,500",CARDINAL,,,en,1
-"LA Wildfire Relief Benefit Concert
-","LA Wildfire Relief Benefit Concert
-",EVENT,,,en,1
-+3492,+3492,CARDINAL,,,en,1
-eCargo Bike,eCargo Bike,FAC,,,en,1
-February 5,February 5,DATE,,,en,1
-LA Wildfire Relief Benefit Concert,LA Wildfire Relief Benefit Concert,EVENT,,,en,1
-"over 1,000","over 1,000",CARDINAL,,,en,1
-seventh,seventh,ORDINAL,,,en,1
-Old Irish,Old Irish,NORP,,,en,1
-01/31/,01/31/,CARDINAL,,,en,1
-48-year-old,48-year-old,DATE,,,en,1
-February 5th,February 5th,DATE,,,en,1
-quarterly,quarterly,DATE,,,en,1
-Am I Overreacting,Am I Overreacting,WORK_OF_ART,,,en,1
-"Nearly 200,000","Nearly 200,000",CARDINAL,,,en,1
-08:48:01,08:48:01,TIME,,,en,1
-Los Angeles Intuit Dom,Los Angeles Intuit Dom,FAC,,,en,1
-6 percent,6 percent,PERCENT,,,en,1
-one week’s,one week’s,DATE,,,en,1
-this Friday,this Friday,DATE,,,en,1
-Over 20,Over 20,CARDINAL,,,en,1
-its first quarter,its first quarter,DATE,,,en,1
-five-hour,five-hour,TIME,,,en,1
-CA - SEPTEMBER 13,CA - SEPTEMBER 13,EVENT,,,en,1
-$30 billion,$30 billion,MONEY,,,en,1
-2025-01-30,2025-01-30,DATE,,,en,1
-the Grampians/Gariwerd National Park,the Grampians/Gariwerd National Park,FAC,,,en,1
-1.23B,1.23B,MONEY,,,en,1
-"March 10, 2024","March 10, 2024",DATE,,,en,1
+2025.DAVID SWANSON,2025.DAVID SWANSON,QUANTITY,,,en,1
 Stand by Me',Stand by Me',WORK_OF_ART,,,en,1
-tens,tens,CARDINAL,,,en,1
-his first week,his first week,DATE,,,en,1
-the Wades Gap Road,the Wades Gap Road,WORK_OF_ART,,,en,1
-half a trillion,half a trillion,MONEY,,,en,1
-$80 billion,$80 billion,MONEY,,,en,1
-about 48 million,about 48 million,CARDINAL,,,en,1
-Jus,Jus,NORP,,,en,1
-9:40 a.m.,9:40 a.m.,TIME,,,en,1
-$4 Billion,$4 Billion,MONEY,,,en,1
-Third,Third,ORDINAL,,,en,1
-"100,0","100,0",MONEY,,,en,1
-202,202,CARDINAL,,,en,1
-2nd,2nd,ORDINAL,,,en,1
-About 100,About 100,CARDINAL,,,en,1
-35%,35%,PERCENT,,,en,1
-hundreds of kilometres,hundreds of kilometres,QUANTITY,,,en,1
-Metropolitan Water District,Metropolitan Water District,FAC,,,en,1
-the Grampians National Park,the Grampians National Park,FAC,,,en,1
-the Bat Cave Road,the Bat Cave Road,FAC,,,en,1
-320,320,CARDINAL,,,en,1
-Wildfire Risk Over,Wildfire Risk Over,FAC,,,en,1
-Dolby Theatre,Dolby Theatre,FAC,,,en,1
-the last 45 years,the last 45 years,DATE,,,en,1
-the Kia Forum,the Kia Forum,FAC,,,en,1
-WireI,WireI,NORP,,,en,1
-Earlier this month,Earlier this month,DATE,,,en,1
-December 07,December 07,DATE,,,en,1
-billions of d,billions of d,MONEY,,,en,1
-eight-year,eight-year,DATE,,,en,1
-90-mile,90-mile,QUANTITY,,,en,1
-DECEMBER 07,DECEMBER 07,DATE,,,en,1
-half a million,half a million,QUANTITY,,,en,1
-'s How to Watch and Support,'s How to Watch and Support,WORK_OF_ART,,,en,1
-Over 94%,Over 94%,PERCENT,,,en,1
-96th,96th,ORDINAL,,,en,1
-+1813,+1813,TIME,,,en,1
-"Jan 29, 2025","Jan 29, 2025",DATE,,,en,1
-just four months,just four months,DATE,,,en,1
-"nearly 12,000","nearly 12,000",CARDINAL,,,en,1
-this time of year,this time of year,DATE,,,en,1
-this winter,this winter,DATE,,,en,1
-70%,70%,PERCENT,,,en,1
-Man Slammed for Kicking Friend Out After He Lost His Home,Man Slammed for Kicking Friend Out After He Lost His Home,WORK_OF_ART,,,en,1
+"January 31, 2025","January 31, 2025",DATE,,,en,1
+the last few years,the last few years,DATE,,,en,1
+the Camp Fire,the Camp Fire,FAC,,,en,1
++9534,+9534,CARDINAL,,,en,1
+Wildfire Crisis Was Years,Wildfire Crisis Was Years,EVENT,,,en,1
+Eaton Fires Near Full Containment,Eaton Fires Near Full Containment,FAC,,,en,1
+more than 40 square miles,more than 40 square miles,QUANTITY,,,en,1
+"Friday, February 7th","Friday, February 7th",DATE,,,en,1
+Endangered Species Act,Endangered Species Act,PRODUCT,,,en,1
+Jan. 11,Jan. 11,DATE,,,en,1
+201,201,CARDINAL,,,en,1
+as much as $,as much as $,MONEY,,,en,1
+The Change Reaction,The Change Reaction,LAW,,,en,1
 "about 1,000","about 1,000",CARDINAL,,,en,1
+"between $2,500-$5,000","between $2,500-$5,000",MONEY,,,en,1
+Two days of January,Two days of January,DATE,,,en,1
+"Nearly $90,000","Nearly $90,000",MONEY,,,en,1
 Stand by Me,Stand by Me,WORK_OF_ART,,,en,1
-Hanmi,Hanmi,NORP,,,en,1
+"greater than 10,000","greater than 10,000",CARDINAL,,,en,1
+Nearly 300,Nearly 300,CARDINAL,,,en,1
+$1.4 billion,$1.4 billion,MONEY,,,en,1
+The Tonight Show With Jimmy Fallon,The Tonight Show With Jimmy Fallon,WORK_OF_ART,,,en,1
+CA - SEPTEMBER 13,CA - SEPTEMBER 13,EVENT,,,en,1
+one day,one day,DATE,,,en,1
+"2.7.2025
+ ","2.7.2025
+ ",QUANTITY,,,en,1
+a Firefighter for Democracy,a Firefighter for Democracy,WORK_OF_ART,,,en,1
+"nearly 180,000","nearly 180,000",CARDINAL,,,en,1
+$1.1 billion,$1.1 billion,MONEY,,,en,1
+about $1.1 billion,about $1.1 billion,MONEY,,,en,1
+1:43:02 PM,1:43:02 PM,TIME,,,en,1
+One month,One month,DATE,,,en,1
+five-hour,five-hour,TIME,,,en,1
+nearly 10 million,nearly 10 million,CARDINAL,,,en,1
+10 days,10 days,DATE,,,en,1
+Over 20,Over 20,CARDINAL,,,en,1
+Sunset Boulevard / Corbis,Sunset Boulevard / Corbis,WORK_OF_ART,,,en,1
+January 31,January 31,DATE,,,en,1
+Los Angeles Intuit Dom,Los Angeles Intuit Dom,FAC,,,en,1
+the evening of Jan,the evening of Jan,TIME,,,en,1
+Neighbors,Neighbors,WORK_OF_ART,,,en,1
+Hawaii Wildfire Case,Hawaii Wildfire Case,EVENT,,,en,1
+7,7,CARDINAL,,,en,1
+February 3rd,February 3rd,DATE,,,en,1
+As the evo… Critical Role,As the evo… Critical Role,WORK_OF_ART,,,en,1
+January 23,January 23,DATE,,,en,1
+the Cotton Bowl,the Cotton Bowl,FAC,,,en,1
+quarterly,quarterly,DATE,,,en,1
+a month,a month,DATE,,,en,1
+three years earlier,three years earlier,DATE,,,en,1
+eight,eight,CARDINAL,,,en,1
+its first quarter,its first quarter,DATE,,,en,1
+"7,500","7,500",CARDINAL,,,en,1
+"Jan. 11, 2025","Jan. 11, 2025",DATE,,,en,1
+the heels of year,the heels of year,DATE,,,en,1
+Disney Fashionista,Disney Fashionista,PRODUCT,,,en,1
+the Greater L,the Greater L,FAC,,,en,1
+Curtis,Curtis,PRODUCT,,,en,1
+some 15 million,some 15 million,CARDINAL,,,en,1
+the Hurst Fire,the Hurst Fire,FAC,,,en,1
+The Fight For Insurance Payouts Begins,The Fight For Insurance Payouts Begins,WORK_OF_ART,,,en,1
+2022,2022,CARDINAL,,,en,1
+"Thursday, January 30","Thursday, January 30",DATE,,,en,1
+Love,Love,WORK_OF_ART,,,en,1
+Just over a week,Just over a week,DATE,,,en,1
+at least three,at least three,CARDINAL,,,en,1
+"More than 500,000","More than 500,000",CARDINAL,,,en,1
+"February 1, 2025","February 1, 2025",DATE,,,en,1
+111th,111th,ORDINAL,,,en,1
+22 Percent,22 Percent,PERCENT,,,en,1
+2012,2012,DATE,,,en,1
+more than 20 percent,more than 20 percent,PERCENT,,,en,1
+under five seconds,under five seconds,TIME,,,en,1
+CL-41,CL-41,PRODUCT,,,en,1
+nearly 14 tons,nearly 14 tons,QUANTITY,,,en,1
+a wildfire,a wildfire,DATE,,,en,1
+This February,This February,DATE,,,en,1
+Hercules,Hercules,PRODUCT,,,en,1
+"More than 35,000","More than 35,000",CARDINAL,,,en,1
+contra,contra,NORP,,,en,1
+Grammys,Grammys,EVENT,0.0,0.0,en,1
+up to a year,up to a year,DATE,,,en,1
+the Los Angel,the Los Angel,FAC,0.22499999999999998,0.5,en,1
+$300K,$300K,MONEY,,,en,1
+"January 11, 2025","January 11, 2025",DATE,,,en,1
+Covering Climate Now,Covering Climate Now,WORK_OF_ART,,,en,1
+the Kia F,the Kia F,FAC,,,en,1
+Sue,Sue,PRODUCT,,,en,1
+the Moss Landing Lithium Battery Plant,the Moss Landing Lithium Battery Plant,FAC,,,en,1
+the past couple of decades,the past couple of decades,DATE,,,en,1
+11:00 a.m.,11:00 a.m.,TIME,,,en,1
+I Love L.A.,I Love L.A.,WORK_OF_ART,,,en,1
+this evening,this evening,TIME,,,en,1
+February 2,February 2,DATE,,,en,1
+January 22,January 22,DATE,,,en,1
+Sunday night,Sunday night,TIME,,,en,1
+this weeks,this weeks,DATE,,,en,1
+Year One,Year One,DATE,,,en,1
+1:15 am,1:15 am,TIME,,,en,1
+a night,a night,TIME,,,en,1
+More than $1 Million,More than $1 Million,MONEY,,,en,1
+GigaCloud,GigaCloud,WORK_OF_ART,,,en,1
+"Nearly 20,000 Acres","Nearly 20,000 Acres",QUANTITY,,,en,1
+Patriot,Patriot,NORP,,,en,1
+only two,only two,CARDINAL,,,en,1
++1949,+1949,DATE,,,en,1
+$164 Billion,$164 Billion,MONEY,,,en,1
+"About 180,000","About 180,000",CARDINAL,,,en,1
+Good Music to,Good Music to,WORK_OF_ART,,,en,1
+69,69,DATE,,,en,1
+Bandcamp,Bandcamp,FAC,,,en,1
+24 hours,24 hours,TIME,,,en,1
+$900 million,$900 million,MONEY,,,en,1
+Extinct or Alive,Extinct or Alive,WORK_OF_ART,,,en,1
+$1B-Plus,$1B-Plus,MONEY,,,en,1
+2019,2019,DATE,,,en,1
+ho,ho,NORP,,,en,1
+Zero,Zero,CARDINAL,,,en,1
+"nearly 20,000 acres","nearly 20,000 acres",QUANTITY,,,en,1
+a recent wildfire,a recent wildfire,DATE,,,en,1
+Episode 18,Episode 18,FAC,,,en,1
+Midday Edition,Midday Edition,WORK_OF_ART,,,en,1
+FIRST,FIRST,ORDINAL,,,en,1
+911,911,CARDINAL,,,en,1
+9 January 2025,9 January 2025,DATE,,,en,1
+some 18,some 18,CARDINAL,,,en,1
+"19,382","19,382",CARDINAL,,,en,1
+Pali,Pali,NORP,,,en,1
+1.5°,1.5°,QUANTITY,,,en,1
+7 January,7 January,DATE,,,en,1
+Super Scooper,Super Scooper,WORK_OF_ART,,,en,1
+3-inch,3-inch,QUANTITY,,,en,1
+Treyarch,Treyarch,DATE,,,en,1
+"almost $70,000","almost $70,000",MONEY,,,en,1
+the Greater Los Angeles,the Greater Los Angeles,FAC,,,en,1
+Nearly $9 million,Nearly $9 million,MONEY,,,en,1
+Sunday nights,Sunday nights,DATE,,,en,1
+over $24 million,over $24 million,MONEY,,,en,1
+"an estimated $65,169","an estimated $65,169",MONEY,,,en,1
+Kenneth Fire,Kenneth Fire,FAC,,,en,1
+Harry How,Harry How,WORK_OF_ART,,,en,1
+$25 million,$25 million,MONEY,,,en,1
+2019–20,2019–20,ORDINAL,,,en,1
+10:30 A.M.,10:30 A.M.,TIME,,,en,1
+Christmas,Christmas,DATE,,,en,1
+Crude Oil (Vettriano,Crude Oil (Vettriano,WORK_OF_ART,,,en,1
+$6.3 million,$6.3 million,MONEY,,,en,1
+$50 Million,$50 Million,MONEY,,,en,1
+"Almost 100,000","Almost 100,000",CARDINAL,,,en,1
+More than half,More than half,CARDINAL,,,en,1
+"nearly 2,000","nearly 2,000",CARDINAL,,,en,1
+"130,000","130,000",CARDINAL,,,en,1
+Prepares for the Next Fire,Prepares for the Next Fire,WORK_OF_ART,,,en,1
++2018,+2018,DATE,,,en,1
+over 50 years,over 50 years,DATE,,,en,1
+last April,last April,DATE,,,en,1
+70 years,70 years,DATE,,,en,1
+40 years,40 years,DATE,,,en,1
+70,70,CARDINAL,,,en,1
+2011,2011,DATE,,,en,1
+British,British,NORP,,,en,1
+the middle of the night,the middle of the night,DATE,,,en,1
+45 degrees Celsius,45 degrees Celsius,QUANTITY,,,en,1
+525-Pound,525-Pound,QUANTITY,,,en,1
+mid-week,mid-week,DATE,,,en,1
+Yellowstone National Park,Yellowstone National Park,FAC,,,en,1
+The January 2025,The January 2025,EVENT,,,en,1
+Feb. 13,Feb. 13,DATE,,,en,1
+"more than 250,000","more than 250,000",CARDINAL,,,en,1
+wildfire</strong,wildfire</strong,NORP,,,en,1
+National Park,National Park,FAC,,,en,1
+"July 9, 2001","July 9, 2001",DATE,,,en,1
+The previous winter,The previous winter,DATE,,,en,1
+dem,dem,NORP,,,en,1
+Western Australian,Western Australian,NORP,,,en,1
+dozens of square miles,dozens of square miles,QUANTITY,,,en,1
+Fix Our… [+2024,Fix Our… [+2024,WORK_OF_ART,,,en,1
+Feb.,Feb.,DATE,,,en,1
+Stranger Things,Stranger Things,WORK_OF_ART,,,en,1
+250 kilometres,250 kilometres,QUANTITY,,,en,1
+billion-dollar,billion-dollar,MONEY,,,en,1
+"nearly 95,000","nearly 95,000",CARDINAL,,,en,1
+2018-19,2018-19,DATE,,,en,1
+February 3,February 3,DATE,,,en,1
+"an estimated 94,000","an estimated 94,000",CARDINAL,,,en,1
+Wolf Man,Wolf Man,WORK_OF_ART,,,en,1
+Wolf Man’ Hollywood Premiere Cancelled Due To Palisades Wildfire,Wolf Man’ Hollywood Premiere Cancelled Due To Palisades Wildfire,WORK_OF_ART,,,en,1
+a fire season,a fire season,DATE,,,en,1
+11:55 a.m.,11:55 a.m.,TIME,,,en,1
+$200 Million,$200 Million,MONEY,,,en,1
+"about 1,200","about 1,200",CARDINAL,,,en,1
+Wildfire Oil,Wildfire Oil,FAC,,,en,1
+around a week,around a week,DATE,,,en,1
+Sahtu,Sahtu,NORP,,,en,1
+the summer months,the summer months,DATE,,,en,1
+$21 billion,$21 billion,MONEY,,,en,1
+less than two days,less than two days,DATE,,,en,1
+"1,200","1,200",CARDINAL,,,en,1
+0,0,MONEY,,,en,1
+at least $10,at least $10,MONEY,,,en,1
+12.95,12.95,MONEY,,,en,1
+Last year's,Last year's,DATE,,,en,1
++ $10.95,+ $10.95,MONEY,,,en,1
+Friday (Feb 28,Friday (Feb 28,DATE,,,en,1
+more than 30 years,more than 30 years,DATE,,,en,1
+more than a thousand,more than a thousand,CARDINAL,,,en,1
+"some 2,500","some 2,500",CARDINAL,,,en,1
++1530,+1530,CARDINAL,,,en,1
+between Saturday and Wednesday,between Saturday and Wednesday,DATE,,,en,1
+the coming days,the coming days,DATE,,,en,1
+Five Years,Five Years,DATE,,,en,1
+Iwate Prefecture,Iwate Prefecture,FAC,-0.02638888888888889,0.07083333333333333,en,1
+#,#,CARDINAL,,,en,1
+at least 84,at least 84,CARDINAL,,,en,1
+1/2/2025,1/2/2025,CARDINAL,,,en,1
+$7.75 billion,$7.75 billion,MONEY,,,en,1
+7.75,7.75,MONEY,,,en,1
++1701,+1701,ORDINAL,,,en,1
+3.47%,3.47%,PERCENT,,,en,1
+Muslim,Muslim,NORP,,,en,1
+more than 4.2 million,more than 4.2 million,QUANTITY,,,en,1
+last year,last year,DATE,,,en,1
+A century,A century,DATE,,,en,1
+US Covid,US Covid,FAC,,,en,1
+Paris Climate Treaty,Paris Climate Treaty,EVENT,,,en,1
+Climate Realism and Climate,Climate Realism and Climate,WORK_OF_ART,,,en,1
+Woodbury Avenue,Woodbury Avenue,FAC,,,en,1
+"Monday, Feb. 17, 2025","Monday, Feb. 17, 2025",DATE,,,en,1
+around $40B,around $40B,MONEY,,,en,1
+Palisades Strong,Palisades Strong,FAC,,,en,1
+Insurtech,Insurtech,NORP,,,en,1
+the first week of January,the first week of January,DATE,,,en,1
+March 2,March 2,DATE,,,en,1
+"March 2, 2025","March 2, 2025",DATE,,,en,1
+$40M earmarked,$40M earmarked,MONEY,,,en,1
+the Wolf Manpremiere,the Wolf Manpremiere,FAC,,,en,1
+hours,hours,TIME,,,en,1
+over $,over $,MONEY,,,en,1
+at least two,at least two,CARDINAL,,,en,1
+0%,0%,PERCENT,,,en,1
+more than a cent,more than a cent,MONEY,,,en,1
+the possible day,the possible day,DATE,,,en,1
+Slovenian,Slovenian,NORP,,,en,1
++2507,+2507,ORDINAL,,,en,1
+4B Maui,4B Maui,DATE,,,en,1
+a $4 billion,a $4 billion,MONEY,,,en,1
+over $500,over $500,MONEY,,,en,1
+CA - JANUARY 07: Flames,CA - JANUARY 07: Flames,EVENT,,,en,1
++2287,+2287,ORDINAL,,,en,1
+'25 years,'25 years,DATE,,,en,1
+Real Housewives,Real Housewives,WORK_OF_ART,,,en,1
 $1.7 Billion,$1.7 Billion,MONEY,,,en,1
 an estimated $1.7 billion,an estimated $1.7 billion,MONEY,,,en,1
 an estimated $1.7 billio,an estimated $1.7 billio,MONEY,,,en,1
@@ -529,73 +755,33 @@ more than 100,more than 100,CARDINAL,,,en,1
 every year,every year,DATE,,,en,1
 each year,each year,DATE,,,en,1
 The Daily Report,The Daily Report,WORK_OF_ART,,,en,1
-WildFireSat,WildFireSat,DATE,,,en,1
-"Feb. 12, 2025","Feb. 12, 2025",DATE,,,en,1
-Half,Half,CARDINAL,,,en,1
-the season,the season,DATE,,,en,1
-55%,55%,PERCENT,,,en,1
-+3503,+3503,DATE,,,en,1
-annual,annual,DATE,,,en,1
-Super Bowl XIV,Super Bowl XIV,EVENT,,,en,1
-Two Years,Two Years,DATE,,,en,1
-"around 12,000","around 12,000",CARDINAL,,,en,1
-Sonoma Valley Roads,Sonoma Valley Roads,FAC,,,en,1
-Wildfire Evacuation,Wildfire Evacuation,EVENT,,,en,1
-up to nine hours,up to nine hours,TIME,,,en,1
-Real Housewives,Real Housewives,WORK_OF_ART,,,en,1
-'25 years,'25 years,DATE,,,en,1
-over $,over $,MONEY,,,en,1
-over $500,over $500,MONEY,,,en,1
-nearly 10 million,nearly 10 million,CARDINAL,,,en,1
-10 days,10 days,DATE,,,en,1
-the evening of,the evening of,TIME,,,en,1
-January 31,January 31,DATE,,,en,1
-the evening of Jan,the evening of Jan,TIME,,,en,1
-the Greater Los Angeles,the Greater Los Angeles,FAC,,,en,1
-$25 million,$25 million,MONEY,,,en,1
+thousands of miles,thousands of miles,QUANTITY,,,en,1
+overnight Tuesday,overnight Tuesday,DATE,,,en,1
+"over 14,000 acres","over 14,000 acres",QUANTITY,,,en,1
+half a million dollars,half a million dollars,MONEY,,,en,1
+Sunset Fire,Sunset Fire,FAC,,,en,1
 "February 9, 2025","February 9, 2025",DATE,,,en,1
+"at least 130,000","at least 130,000",CARDINAL,,,en,1
+The Daily Blast,The Daily Blast,WORK_OF_ART,,,en,1
+Trump’s Ugly Eruptions Over Wildfires Hint,Trump’s Ugly Eruptions Over Wildfires Hint,WORK_OF_ART,,,en,1
 Viewpoint,Viewpoint,WORK_OF_ART,,,en,1
++4372,+4372,DATE,,,en,1
+late summer,late summer,DATE,,,en,1
+seasonal,seasonal,DATE,,,en,1
 Almost half,Almost half,CARDINAL,,,en,1
+11-year-old,11-year-old,DATE,,,en,1
+eCargo Bike,eCargo Bike,FAC,,,en,1
+200k,200k,MONEY,,,en,1
+the destructive wildfire,the destructive wildfire,DATE,,,en,1
 "An estimated $70,000","An estimated $70,000",MONEY,,,en,1
 Nearly two weeks,Nearly two weeks,DATE,,,en,1
-half a million dollars,half a million dollars,MONEY,,,en,1
-"over 14,000 acres","over 14,000 acres",QUANTITY,,,en,1
-thousands of miles,thousands of miles,QUANTITY,,,en,1
-more than a cent,more than a cent,MONEY,,,en,1
-the possible day,the possible day,DATE,,,en,1
-Slovenian,Slovenian,NORP,,,en,1
-+2507,+2507,ORDINAL,,,en,1
-2 Million Acres,2 Million Acres,QUANTITY,,,en,1
-325,325,CARDINAL,,,en,1
-Two days of January,Two days of January,DATE,,,en,1
-+2018,+2018,DATE,,,en,1
-The previous winter,The previous winter,DATE,,,en,1
-dem,dem,NORP,,,en,1
-Western Australian,Western Australian,NORP,,,en,1
-The January 2025,The January 2025,EVENT,,,en,1
-Fix Our… [+2024,Fix Our… [+2024,WORK_OF_ART,,,en,1
-Stranger Things,Stranger Things,WORK_OF_ART,,,en,1
-250 kilometres,250 kilometres,QUANTITY,,,en,1
-Feb.,Feb.,DATE,,,en,1
-mid-week,mid-week,DATE,,,en,1
-Crude Oil (Vettriano,Crude Oil (Vettriano,WORK_OF_ART,,,en,1
-the Eaton Canyon Nature Center,the Eaton Canyon Nature Center,FAC,,,en,1
-$6.3 million,$6.3 million,MONEY,,,en,1
-$50 Million,$50 Million,MONEY,,,en,1
-Prepares for the Next Fire,Prepares for the Next Fire,WORK_OF_ART,,,en,1
-over 50 years,over 50 years,DATE,,,en,1
-70 years,70 years,DATE,,,en,1
-40 years,40 years,DATE,,,en,1
-70,70,CARDINAL,,,en,1
-2011,2011,DATE,,,en,1
-British,British,NORP,,,en,1
-"July 9, 2001","July 9, 2001",DATE,,,en,1
-National Park,National Park,FAC,,,en,1
-wildfire</strong,wildfire</strong,NORP,,,en,1
-"more than 250,000","more than 250,000",CARDINAL,,,en,1
-the night,the night,TIME,,,en,1
-hundreds and thousands,hundreds and thousands,CARDINAL,,,en,1
-$14.5-million,$14.5-million,MONEY,,,en,1
+One year,One year,DATE,,,en,1
+more than 45,more than 45,CARDINAL,,,en,1
+Tomorrow,Tomorrow,DATE,,,en,1
+"nearly 16,000 acres","nearly 16,000 acres",QUANTITY,,,en,1
+"CA January 8, 2025","CA January 8, 2025",DATE,,,en,1
+Ph.D.,Ph.D.,WORK_OF_ART,,,en,1
+February 21-23,February 21-23,DATE,,,en,1
 Jan. 16,Jan. 16,DATE,,,en,1
 IATSE Local 80,IATSE Local 80,EVENT,,,en,1
 25 years ago,25 years ago,DATE,,,en,1
@@ -605,308 +791,154 @@ $8 Million,$8 Million,MONEY,,,en,1
 $8 million,$8 million,MONEY,,,en,1
 the countylast month,the countylast month,DATE,,,en,1
 the Rose Bowl Stadium,the Rose Bowl Stadium,FAC,,,en,1
-February 21-23,February 21-23,DATE,,,en,1
 every week,every week,DATE,,,en,1
+WildFireSat,WildFireSat,DATE,,,en,1
+Star Wars,Star Wars,WORK_OF_ART,,,en,1
+"More than 4,000 acres","More than 4,000 acres",CARDINAL,,,en,1
+LA Wildfire Benefit Show: Watch,LA Wildfire Benefit Show: Watch,FAC,,,en,1
+The Alkaline Trio,The Alkaline Trio,WORK_OF_ART,,,en,1
+Bored to Death,Bored to Death,WORK_OF_ART,,,en,1
+LA Wildfire Benefit Show,LA Wildfire Benefit Show,FAC,,,en,1
 12 hours,12 hours,TIME,,,en,1
+Eaton Canyon Fire Breaks Out,Eaton Canyon Fire Breaks Out,FAC,,,en,1
 International Day of Women and Girls in,International Day of Women and Girls in,DATE,,,en,1
-Ph.D.,Ph.D.,WORK_OF_ART,,,en,1
-$40M earmarked,$40M earmarked,MONEY,,,en,1
-Feb. 13,Feb. 13,DATE,,,en,1
-One month,One month,DATE,,,en,1
-1:43:02 PM,1:43:02 PM,TIME,,,en,1
-about $1.1 billion,about $1.1 billion,MONEY,,,en,1
-22 Percent,22 Percent,PERCENT,,,en,1
-this evening,this evening,TIME,,,en,1
-February 2,February 2,DATE,,,en,1
-Year One,Year One,DATE,,,en,1
-a night,a night,TIME,,,en,1
-"January 11, 2025","January 11, 2025",DATE,,,en,1
-the Los Angel,the Los Angel,FAC,0.22499999999999998,0.5,en,1
-up to a year,up to a year,DATE,,,en,1
-at least three,at least three,CARDINAL,,,en,1
-"More than 500,000","More than 500,000",CARDINAL,,,en,1
-more than 20 percent,more than 20 percent,PERCENT,,,en,1
-$1.1 billion,$1.1 billion,MONEY,,,en,1
-This February,This February,DATE,,,en,1
-contra,contra,NORP,,,en,1
-More than $1 Million,More than $1 Million,MONEY,,,en,1
-GigaCloud,GigaCloud,WORK_OF_ART,,,en,1
-$900 million,$900 million,MONEY,,,en,1
-9 January 2025,9 January 2025,DATE,,,en,1
-early January,early January,DATE,,,en,1
-"19,382","19,382",CARDINAL,,,en,1
-7 January,7 January,DATE,,,en,1
-I Love L.A.,I Love L.A.,WORK_OF_ART,,,en,1
-11:00 a.m.,11:00 a.m.,TIME,,,en,1
-the past couple of decades,the past couple of decades,DATE,,,en,1
-the Moss Landing Lithium Battery Plant,the Moss Landing Lithium Battery Plant,FAC,,,en,1
-Jan. 11,Jan. 11,DATE,,,en,1
-Eaton Fires Near Full Containment,Eaton Fires Near Full Containment,FAC,,,en,1
-Wildfire Crisis Was Years,Wildfire Crisis Was Years,EVENT,,,en,1
-2022,2022,CARDINAL,,,en,1
-"Thursday, January 30","Thursday, January 30",DATE,,,en,1
-Extinct or Alive,Extinct or Alive,WORK_OF_ART,,,en,1
-+1949,+1949,DATE,,,en,1
-"an estimated $65,169","an estimated $65,169",MONEY,,,en,1
-Pali,Pali,NORP,,,en,1
-Grammys,Grammys,EVENT,0.0,0.0,en,1
-a wildfire,a wildfire,DATE,,,en,1
-2012,2012,DATE,,,en,1
-"February 1, 2025","February 1, 2025",DATE,,,en,1
-1:15 am,1:15 am,TIME,,,en,1
-the Kia F,the Kia F,FAC,,,en,1
-"January 31, 2025","January 31, 2025",DATE,,,en,1
-ho,ho,NORP,,,en,1
-Covering Climate Now,Covering Climate Now,WORK_OF_ART,,,en,1
-Sue,Sue,PRODUCT,,,en,1
-Super Scooper,Super Scooper,WORK_OF_ART,,,en,1
-3-inch,3-inch,QUANTITY,,,en,1
-Treyarch,Treyarch,DATE,,,en,1
-"Nearly $90,000","Nearly $90,000",MONEY,,,en,1
-the days,the days,DATE,,,en,1
-as high as $275 billion,as high as $275 billion,MONEY,,,en,1
-"More than 9,000","More than 9,000",CARDINAL,,,en,1
-$60M,$60M,MONEY,,,en,1
-$1.4 billion,$1.4 billion,MONEY,,,en,1
-Nearly 300,Nearly 300,CARDINAL,,,en,1
-a month,a month,DATE,,,en,1
-three years earlier,three years earlier,DATE,,,en,1
-eight,eight,CARDINAL,,,en,1
-"Jan. 11, 2025","Jan. 11, 2025",DATE,,,en,1
-Disney Fashionista,Disney Fashionista,PRODUCT,,,en,1
-the Greater L,the Greater L,FAC,,,en,1
-some 15 million,some 15 million,CARDINAL,,,en,1
-the Hurst Fire,the Hurst Fire,FAC,,,en,1
-The Fight For Insurance Payouts Begins,The Fight For Insurance Payouts Begins,WORK_OF_ART,,,en,1
-February 3rd,February 3rd,DATE,,,en,1
-Hawaii Wildfire Case,Hawaii Wildfire Case,EVENT,,,en,1
-"2.7.2025
- ","2.7.2025
- ",QUANTITY,,,en,1
-a Firefighter for Democracy,a Firefighter for Democracy,WORK_OF_ART,,,en,1
-A Fond Farewell: Law Prof's,A Fond Farewell: Law Prof's,WORK_OF_ART,,,en,1
-"between $2,500-$5,000","between $2,500-$5,000",MONEY,,,en,1
-"almost $70,000","almost $70,000",MONEY,,,en,1
-The Change Reaction,The Change Reaction,LAW,,,en,1
-Nearly $9 million,Nearly $9 million,MONEY,,,en,1
-Sunday nights,Sunday nights,DATE,,,en,1
-over $24 million,over $24 million,MONEY,,,en,1
-FIRST,FIRST,ORDINAL,,,en,1
-Midday Edition,Midday Edition,WORK_OF_ART,,,en,1
-$164 Billion,$164 Billion,MONEY,,,en,1
-Good Music to,Good Music to,WORK_OF_ART,,,en,1
-Bandcamp,Bandcamp,FAC,,,en,1
-24 hours,24 hours,TIME,,,en,1
-90,90,CARDINAL,,,en,1
-$1B-Plus,$1B-Plus,MONEY,,,en,1
-Zero,Zero,CARDINAL,,,en,1
-a recent wildfire,a recent wildfire,DATE,,,en,1
-Last month,Last month,DATE,,,en,1
-Love,Love,WORK_OF_ART,,,en,1
-January 23,January 23,DATE,,,en,1
-February 7th,February 7th,DATE,,,en,1
-"Friday, February 7th","Friday, February 7th",DATE,,,en,1
-as much as $,as much as $,MONEY,,,en,1
-58 Billion-Dollar,58 Billion-Dollar,MONEY,,,en,1
-51.76,51.76,MONEY,,,en,1
-' wildfire seasons,' wildfire seasons,DATE,,,en,1
-"Aug. 30, 2024","Aug. 30, 2024",DATE,,,en,1
-"As many as 10,000","As many as 10,000",CARDINAL,,,en,1
-2.5,2.5,MONEY,,,en,1
-Camp Fire,Camp Fire,FAC,,,en,1
-Thousands of gallons,Thousands of gallons,QUANTITY,,,en,1
-this past week,this past week,DATE,,,en,1
-$100K,$100K,MONEY,,,en,1
-Should Probably Be Conditions” To Federal Aid For Los Angeles Wildfires,Should Probably Be Conditions” To Federal Aid For Los Angeles Wildfires,WORK_OF_ART,,,en,1
-"over 40,000 acres","over 40,000 acres",QUANTITY,,,en,1
-Firefighters,Firefighters,PRODUCT,,,en,1
-"37,700 acres","37,700 acres",QUANTITY,,,en,1
-"at least 12,000","at least 12,000",CARDINAL,,,en,1
-early January 2025,early January 2025,DATE,,,en,1
-next few days,next few days,DATE,,,en,1
-$10M Gift,$10M Gift,MONEY,,,en,1
-Amazon‘s,Amazon‘s,DATE,,,en,1
-January 13,January 13,DATE,,,en,1
-GoF—You,GoF—You,WORK_OF_ART,,,en,1
-African,African,NORP,,,en,1
-A week,A week,DATE,,,en,1
-day 8,day 8,DATE,,,en,1
-this Tuesday,this Tuesday,DATE,,,en,1
-The 67th,The 67th,EVENT,,,en,1
-the period of Sept. 16,the period of Sept. 16,DATE,,,en,1
-wildfire season,wildfire season,DATE,,,en,1
-February Date,February Date,DATE,,,en,1
-May 2024 day,May 2024 day,DATE,,,en,1
-Eight months later,Eight months later,DATE,,,en,1
-Learn The History,Learn The History,WORK_OF_ART,,,en,1
-1990,1990,DATE,,,en,1
-the Escalating Wildfire Crisis,the Escalating Wildfire Crisis,EVENT,,,en,1
-"the Escalating Wildfire Crisis
-","the Escalating Wildfire Crisis
-",EVENT,,,en,1
-01/12/2025 - 11:00,01/12/2025 - 11:00,DATE,,,en,1
-less than 24 hours,less than 24 hours,TIME,,,en,1
-PolitiFact,PolitiFact,WORK_OF_ART,,,en,1
-"January 12, 2025","January 12, 2025",DATE,,,en,1
-Coming Days,Coming Days,DATE,,,en,1
-World Cup,World Cup,EVENT,,,en,1
-Nearly 10 million,Nearly 10 million,CARDINAL,,,en,1
-2013,2013,DATE,,,en,1
-1st,1st,ORDINAL,,,en,1
-NBCUniversal,NBCUniversal,PRODUCT,,,en,1
-Entitled” Celebs For Breaking Water-Saving Laws Before LA Wildfires,Entitled” Celebs For Breaking Water-Saving Laws Before LA Wildfires,WORK_OF_ART,,,en,1
-Entitled” Celebs For Breaking Water-Saving Laws Before,Entitled” Celebs For Breaking Water-Saving Laws Before,WORK_OF_ART,,,en,1
-"With Love, Meghan","With Love, Meghan",WORK_OF_ART,,,en,1
-Feb. 2nd,Feb. 2nd,DATE,,,en,1
-February 2nd,February 2nd,DATE,,,en,1
-the eighth day,the eighth day,DATE,,,en,1
+$14.5-million,$14.5-million,MONEY,,,en,1
+"3,000 Acres Burned","3,000 Acres Burned",QUANTITY,,,en,1
+hundreds and thousands,hundreds and thousands,CARDINAL,,,en,1
+the night,the night,TIME,,,en,1
+"Feb. 12, 2025","Feb. 12, 2025",DATE,,,en,1
+Hanmi,Hanmi,NORP,,,en,1
+Half,Half,CARDINAL,,,en,1
+55%,55%,PERCENT,,,en,1
++3503,+3503,DATE,,,en,1
+the Santa Mon,the Santa Mon,FAC,,,en,1
+annual,annual,DATE,,,en,1
+Super Bowl XIV,Super Bowl XIV,EVENT,,,en,1
+Two Years,Two Years,DATE,,,en,1
+nearly 100 miles,nearly 100 miles,QUANTITY,,,en,1
+"around 12,000","around 12,000",CARDINAL,,,en,1
+10:30 AM PST,10:30 AM PST,TIME,,,en,1
+Sonoma Valley Roads,Sonoma Valley Roads,FAC,,,en,1
+Wildfire Evacuation,Wildfire Evacuation,EVENT,,,en,1
+up to nine hours,up to nine hours,TIME,,,en,1
+2 Million Acres,2 Million Acres,QUANTITY,,,en,1
+the season,the season,DATE,,,en,1
+325,325,CARDINAL,,,en,1
+the Eaton Canyon Nature Center,the Eaton Canyon Nature Center,FAC,,,en,1
+"Jan 10, 2025","Jan 10, 2025",DATE,,,en,1
+202,202,CARDINAL,,,en,1
+Old Irish,Old Irish,NORP,,,en,1
+Trump Considers Big Move On Disaster-Hit US States,Trump Considers Big Move On Disaster-Hit US States,WORK_OF_ART,,,en,1
+up to $275 billion,up to $275 billion,MONEY,,,en,1
+PBS News Hour West,PBS News Hour West,PRODUCT,,,en,1
+at least $250 billion,at least $250 billion,MONEY,,,en,1
+"150,0","150,0",MONEY,,,en,1
+Palisades Wildfire,Palisades Wildfire,FAC,,,en,1
+over 20,over 20,CARDINAL,,,en,1
+Into Sepia Tone,Into Sepia Tone,WORK_OF_ART,,,en,1
+72 Hours,72 Hours,TIME,,,en,1
+the past weeks,the past weeks,DATE,,,en,1
+just before 1pm,just before 1pm,TIME,,,en,1
+decades ago,decades ago,DATE,,,en,1
+about 100 kilometres n,about 100 kilometres n,QUANTITY,,,en,1
+Teddy Swims to Perform,Teddy Swims to Perform,WORK_OF_ART,,,en,1
+$800K,$800K,MONEY,,,en,1
+67TH,67TH,ORDINAL,,,en,1
+Music's Biggest Night(R,Music's Biggest Night(R,WORK_OF_ART,,,en,1
+SoFi Stadium,SoFi Stadium,FAC,,,en,1
+1.0.1,1.0.1,CARDINAL,,,en,1
+Chinese,Chinese,NORP,,,en,1
+California Fire Map Update,California Fire Map Update,FAC,,,en,1
+as high as $40 billion,as high as $40 billion,MONEY,,,en,1
+11th,11th,ORDINAL,,,en,1
+more than $170 million,more than $170 million,MONEY,,,en,1
+Jan. 23,Jan. 23,DATE,,,en,1
+Three Mile,Three Mile,QUANTITY,,,en,1
+Americans,Americans,NORP,,,en,1
+"3,750 hectares","3,750 hectares",QUANTITY,,,en,1
+"9,266 acres","9,266 acres",QUANTITY,,,en,1
+about 80 km,about 80 km,QUANTITY,,,en,1
+50 miles,50 miles,QUANTITY,,,en,1
+"More than 50,000","More than 50,000",CARDINAL,,,en,1
+405 Freeway,405 Freeway,FAC,,,en,1
+Hughes Fire,Hughes Fire,FAC,,,en,1
+nearly one week,nearly one week,DATE,,,en,1
+Oscar 2025,Oscar 2025,LAW,,,en,1
+40K Acres,40K Acres,QUANTITY,,,en,1
+Academy Awards,Academy Awards,EVENT,,,en,1
+a big day,a big day,DATE,,,en,1
+Going Into Hermit Mode',Going Into Hermit Mode',WORK_OF_ART,,,en,1
+Being Slammed for Trying to 'Cash-In' on,Being Slammed for Trying to 'Cash-In' on,WORK_OF_ART,,,en,1
+50,50,MONEY,,,en,1
+$325K,$325K,MONEY,,,en,1
+next weeks,next weeks,DATE,,,en,1
+This Whole Place Just Got Decimated,This Whole Place Just Got Decimated,WORK_OF_ART,,,en,1
+The Writers Guild of America West,The Writers Guild of America West,WORK_OF_ART,,,en,1
+Trump Is Threatening to Hold Wildfire Aid Hostage,Trump Is Threatening to Hold Wildfire Aid Hostage,WORK_OF_ART,,,en,1
+New Date After Postponement Due To Wildfires,New Date After Postponement Due To Wildfires,EVENT,,,en,1
 January 14 date,January 14 date,DATE,,,en,1
+January 18 date,January 18 date,DATE,,,en,1
+$40 billion,$40 billion,MONEY,,,en,1
+16:42:00,16:42:00,TIME,,,en,1
+69.95,69.95,MONEY,,,en,1
+an estimated $1.3 million,an estimated $1.3 million,MONEY,,,en,1
+$3 million,$3 million,MONEY,,,en,1
+more than $40 billion,more than $40 billion,MONEY,,,en,1
+up to 3 inches,up to 3 inches,QUANTITY,,,en,1
+$112 million,$112 million,MONEY,,,en,1
+250,250,CARDINAL,,,en,1
++8313,+8313,DATE,,,en,1
+the eighth day,the eighth day,DATE,,,en,1
+Nine,Nine,CARDINAL,,,en,1
+this Tuesday,this Tuesday,DATE,,,en,1
+Five,Five,CARDINAL,,,en,1
+At least 28,At least 28,CARDINAL,,,en,1
+This Weekend,This Weekend,DATE,,,en,1
+day 8,day 8,DATE,,,en,1
 Christmas Day,Christmas Day,DATE,,,en,1
 Iranian,Iranian,NORP,,,en,1
-next month,next month,DATE,,,en,1
-Dozens,Dozens,CARDINAL,,,en,1
-"Saturday, Jan. 4","Saturday, Jan. 4",DATE,,,en,1
-day 10,day 10,DATE,,,en,1
-early next week,early next week,DATE,,,en,1
-Israeli,Israeli,NORP,,,en,1
-"Tuesday, January 7","Tuesday, January 7",DATE,,,en,1
-$50M,$50M,MONEY,,,en,1
-California Wildfire Victims,California Wildfire Victims,FAC,,,en,1
-"Wednesday, January 15.This","Wednesday, January 15.This",DATE,,,en,1
-"Wednesday, January 15","Wednesday, January 15",DATE,,,en,1
-more than 4,more than 4,CARDINAL,,,en,1
-LA Firestorms,LA Firestorms,FAC,,,en,1
-late 2023,late 2023,DATE,,,en,1
-Winnipeg,Winnipeg,FAC,,,en,1
-52,52,DATE,,,en,1
-22 years,22 years,DATE,,,en,1
-thousands of dollars,thousands of dollars,MONEY,,,en,1
-15 years,15 years,DATE,,,en,1
-Billie Eilish & Green Day Set For ‘FireAid’ Benefit Concert,Billie Eilish & Green Day Set For ‘FireAid’ Benefit Concert,WORK_OF_ART,,,en,1
-179,179,CARDINAL,,,en,1
-$15M To,$15M To,MONEY,,,en,1
-The Tonight Show,The Tonight Show,WORK_OF_ART,,,en,1
-fourth season,fourth season,DATE,,,en,1
-This Whole Place Just Got Decimated,This Whole Place Just Got Decimated,WORK_OF_ART,,,en,1
-"9,000 Pounds","9,000 Pounds",MONEY,,,en,1
-+1842,+1842,CARDINAL,,,en,1
-early last week,early last week,DATE,,,en,1
-the summer,the summer,DATE,,,en,1
-winter rainy season,winter rainy season,DATE,,,en,1
-more than 12,more than 12,CARDINAL,,,en,1
-at least two dozen,at least two dozen,CARDINAL,,,en,1
 TMZ Live,TMZ Live,WORK_OF_ART,,,en,1
-The Writers Guild of America West,The Writers Guild of America West,WORK_OF_ART,,,en,1
-SoFi Stadium,SoFi Stadium,FAC,,,en,1
-Americans,Americans,NORP,,,en,1
-"2,000","2,000",MONEY,,,en,1
-$800K,$800K,MONEY,,,en,1
-72 Hours,72 Hours,TIME,,,en,1
-"150,0","150,0",MONEY,,,en,1
-at least $250 billion,at least $250 billion,MONEY,,,en,1
-up to $275 billion,up to $275 billion,MONEY,,,en,1
-more than $170 million,more than $170 million,MONEY,,,en,1
-next weeks,next weeks,DATE,,,en,1
-40K Acres,40K Acres,QUANTITY,,,en,1
-Responsible for Disastrous Wi… Extended,Responsible for Disastrous Wi… Extended,WORK_OF_ART,,,en,1
-Responsible for Disastrous Wildfires,Responsible for Disastrous Wildfires,WORK_OF_ART,,,en,1
-more than a dozen,more than a dozen,CARDINAL,,,en,1
-Curtis,Curtis,PRODUCT,,,en,1
-+2287,+2287,ORDINAL,,,en,1
-"nearly 16,000 acres","nearly 16,000 acres",QUANTITY,,,en,1
-CA - JANUARY 07: Flames,CA - JANUARY 07: Flames,EVENT,,,en,1
-0%,0%,PERCENT,,,en,1
-at least two,at least two,CARDINAL,,,en,1
-overnight Tuesday,overnight Tuesday,DATE,,,en,1
-the destructive wildfire,the destructive wildfire,DATE,,,en,1
-200k,200k,MONEY,,,en,1
-11-year-old,11-year-old,DATE,,,en,1
-seasonal,seasonal,DATE,,,en,1
-late summer,late summer,DATE,,,en,1
-+4372,+4372,DATE,,,en,1
-Trump’s Ugly Eruptions Over Wildfires Hint,Trump’s Ugly Eruptions Over Wildfires Hint,WORK_OF_ART,,,en,1
-The Daily Blast,The Daily Blast,WORK_OF_ART,,,en,1
-"at least 130,000","at least 130,000",CARDINAL,,,en,1
-Sunset Fire,Sunset Fire,FAC,,,en,1
-Yellowstone National Park,Yellowstone National Park,FAC,,,en,1
-Sunset Boulevard / Corbis,Sunset Boulevard / Corbis,WORK_OF_ART,,,en,1
-"nearly 180,000","nearly 180,000",CARDINAL,,,en,1
-one day,one day,DATE,,,en,1
-Neighbors,Neighbors,WORK_OF_ART,,,en,1
-"CA January 8, 2025","CA January 8, 2025",DATE,,,en,1
-the Santa Mon,the Santa Mon,FAC,,,en,1
-nearly 100 miles,nearly 100 miles,QUANTITY,,,en,1
-45 degrees Celsius,45 degrees Celsius,QUANTITY,,,en,1
-+ $10.95,+ $10.95,MONEY,,,en,1
-12.95,12.95,MONEY,,,en,1
-0,0,MONEY,,,en,1
-Wildfire Oil,Wildfire Oil,FAC,,,en,1
-#,#,CARDINAL,,,en,1
-1/2/2025,1/2/2025,CARDINAL,,,en,1
-US Covid,US Covid,FAC,,,en,1
-more than 4.2 million,more than 4.2 million,QUANTITY,,,en,1
-Last year's,Last year's,DATE,,,en,1
-last April,last April,DATE,,,en,1
-10:30 AM PST,10:30 AM PST,TIME,,,en,1
-10:30 A.M.,10:30 A.M.,TIME,,,en,1
-Wolf Man’ Hollywood Premiere Cancelled Due To Palisades Wildfire,Wolf Man’ Hollywood Premiere Cancelled Due To Palisades Wildfire,WORK_OF_ART,,,en,1
-Wolf Man,Wolf Man,WORK_OF_ART,,,en,1
-the Wolf Manpremiere,the Wolf Manpremiere,FAC,,,en,1
-hours,hours,TIME,,,en,1
-Eaton Canyon Fire Breaks Out,Eaton Canyon Fire Breaks Out,FAC,,,en,1
-"More than 4,000 acres","More than 4,000 acres",CARDINAL,,,en,1
-Star Wars,Star Wars,WORK_OF_ART,,,en,1
-"3,000 Acres Burned","3,000 Acres Burned",QUANTITY,,,en,1
-The Tonight Show With Jimmy Fallon,The Tonight Show With Jimmy Fallon,WORK_OF_ART,,,en,1
-the heels of year,the heels of year,DATE,,,en,1
-9:48:17 PM,9:48:17 PM,TIME,,,en,1
-As the evo… Critical Role,As the evo… Critical Role,WORK_OF_ART,,,en,1
-nearly 14 tons,nearly 14 tons,QUANTITY,,,en,1
-under five seconds,under five seconds,TIME,,,en,1
-Just over a week,Just over a week,DATE,,,en,1
-111th,111th,ORDINAL,,,en,1
-$300K,$300K,MONEY,,,en,1
-this weeks,this weeks,DATE,,,en,1
-January 22,January 22,DATE,,,en,1
-"More than 35,000","More than 35,000",CARDINAL,,,en,1
-"greater than 10,000","greater than 10,000",CARDINAL,,,en,1
-the Cotton Bowl,the Cotton Bowl,FAC,,,en,1
-"Jan 10, 2025","Jan 10, 2025",DATE,,,en,1
-10:56 PM ET,10:56 PM ET,TIME,,,en,1
-2015,2015,CARDINAL,,,en,1
-LA Palisades Fire,LA Palisades Fire,FAC,,,en,1
-at least 11,at least 11,CARDINAL,,,en,1
-the fall,the fall,DATE,,,en,1
-JANUARY 9,JANUARY 9,DATE,,,en,1
-at least two decades,at least two decades,DATE,,,en,1
-only 2.9%,only 2.9%,PERCENT,,,en,1
-0.30,0.30,MONEY,,,en,1
-"January 10, 2025","January 10, 2025",DATE,,,en,1
-Hercules,Hercules,PRODUCT,,,en,1
-CL-41,CL-41,PRODUCT,,,en,1
-some 18,some 18,CARDINAL,,,en,1
-more than 40 square miles,more than 40 square miles,QUANTITY,,,en,1
-7,7,CARDINAL,,,en,1
-the tens of billions of dollars,the tens of billions of dollars,MONEY,,,en,1
-2025.DAVID SWANSON,2025.DAVID SWANSON,QUANTITY,,,en,1
-Early this week,Early this week,DATE,,,en,1
-the last few years,the last few years,DATE,,,en,1
-the Camp Fire,the Camp Fire,FAC,,,en,1
-201,201,CARDINAL,,,en,1
-2009,2009,DATE,,,en,1
-Endangered Species Act,Endangered Species Act,PRODUCT,,,en,1
-+9534,+9534,CARDINAL,,,en,1
-1.5°,1.5°,QUANTITY,,,en,1
-"Nearly 20,000 Acres","Nearly 20,000 Acres",QUANTITY,,,en,1
-"nearly 20,000 acres","nearly 20,000 acres",QUANTITY,,,en,1
-2019,2019,DATE,,,en,1
-Patriot,Patriot,NORP,,,en,1
-69,69,DATE,,,en,1
-"About 180,000","About 180,000",CARDINAL,,,en,1
-only two,only two,CARDINAL,,,en,1
-911,911,CARDINAL,,,en,1
-Kenneth Fire,Kenneth Fire,FAC,,,en,1
-"January 16, 2025","January 16, 2025",DATE,,,en,1
+"9,000 Pounds","9,000 Pounds",MONEY,,,en,1
+at least two dozen,at least two dozen,CARDINAL,,,en,1
+January 28,January 28,DATE,,,en,1
+more than 12,more than 12,CARDINAL,,,en,1
+Over 11 lakh,Over 11 lakh,QUANTITY,,,en,1
+just five seasons,just five seasons,DATE,,,en,1
+the past five fire seasons alone,the past five fire seasons alone,DATE,,,en,1
+"11,09,588","11,09,588",CARDINAL,,,en,1
+November to June,November to June,DATE,,,en,1
+the last few weeks,the last few weeks,DATE,,,en,1
+winter rainy season,winter rainy season,DATE,,,en,1
+the summer,the summer,DATE,,,en,1
+30%,30%,PERCENT,,,en,1
+early last week,early last week,DATE,,,en,1
++1842,+1842,CARDINAL,,,en,1
+"93,000-Pound","93,000-Pound",QUANTITY,,,en,1
+"Friday, January 24, 2025:","Friday, January 24, 2025:",DATE,,,en,1
+"Friday, January 24, 2025","Friday, January 24, 2025",DATE,,,en,1
+more than,more than,CARDINAL,,,en,1
+60 square miles,60 square miles,QUANTITY,,,en,1
+fourth season,fourth season,DATE,,,en,1
+The Tonight Show,The Tonight Show,WORK_OF_ART,,,en,1
+two hours,two hours,TIME,,,en,1
+later this week,later this week,DATE,,,en,1
+16 years,16 years,DATE,,,en,1
+Catholic,Catholic,NORP,,,en,1
+30,30,CARDINAL,,,en,1
+more than $19 billion,more than $19 billion,MONEY,,,en,1
+Over 50%,Over 50%,PERCENT,,,en,1
+the summer of 2019-20,the summer of 2019-20,DATE,,,en,1
+The day,The day,DATE,,,en,1
+59%,59%,PERCENT,,,en,1
+Some Of The Wealthiest & Most Powerful Individuals In Our Country,Some Of The Wealthiest & Most Powerful Individuals In Our Country,WORK_OF_ART,,,en,1
+The Inside Story,The Inside Story,WORK_OF_ART,,,en,1
+a day earlier,a day earlier,DATE,,,en,1
+Brijean,Brijean,NORP,,,en,1
+"179 January 16, 2025","179 January 16, 2025",DATE,,,en,1
+January 20,January 20,DATE,,,en,1
+4x4,4x4,CARDINAL,,,en,1
+The Inside Story:,The Inside Story:,WORK_OF_ART,,,en,1
+63%,63%,PERCENT,,,en,1
 "The Inside Story:
 
 
@@ -920,71 +952,229 @@ Wildfires","The Inside Story:
 
 
 Wildfires",WORK_OF_ART,,,en,1
-The Inside Story:,The Inside Story:,WORK_OF_ART,,,en,1
-8th,8th,ORDINAL,,,en,1
-an estimated $1.3 million,an estimated $1.3 million,MONEY,,,en,1
-$3 million,$3 million,MONEY,,,en,1
-more than $40 billion,more than $40 billion,MONEY,,,en,1
-up to 3 inches,up to 3 inches,QUANTITY,,,en,1
-$112 million,$112 million,MONEY,,,en,1
-250,250,CARDINAL,,,en,1
-+8313,+8313,DATE,,,en,1
-Nine,Nine,CARDINAL,,,en,1
-Five,Five,CARDINAL,,,en,1
-At least 28,At least 28,CARDINAL,,,en,1
-This Weekend,This Weekend,DATE,,,en,1
-two hours,two hours,TIME,,,en,1
+The next day,The next day,DATE,,,en,1
+A Night Of Comedy To Benefit Victims Of L.A.,A Night Of Comedy To Benefit Victims Of L.A.,WORK_OF_ART,,,en,1
+last week's,last week's,DATE,,,en,1
+another hottest year,another hottest year,DATE,,,en,1
+tomorrow,tomorrow,DATE,,,en,1
+$15M,$15M,MONEY,,,en,1
+January 16,January 16,DATE,,,en,1
+Fire Weather,Fire Weather,WORK_OF_ART,,,en,1
+Fire Weather: On the Front Lines of a Burning World,Fire Weather: On the Front Lines of a Burning World,WORK_OF_ART,,,en,1
+only a few miles,only a few miles,QUANTITY,,,en,1
+31%,31%,PERCENT,,,en,1
+nearly $6.5 million,nearly $6.5 million,MONEY,,,en,1
+"Thursday, Jan. 30","Thursday, Jan. 30",DATE,,,en,1
+The Weeknd Joins Billionaires And Celebrities Donating,The Weeknd Joins Billionaires And Celebrities Donating,WORK_OF_ART,,,en,1
+"January 08, 2025","January 08, 2025",DATE,,,en,1
+the Moment,the Moment,WORK_OF_ART,,,en,1
+January 08,January 08,DATE,,,en,1
+at least 27,at least 27,CARDINAL,,,en,1
+more than a week,more than a week,DATE,,,en,1
+eight months,eight months,DATE,,,en,1
+a year,a year,DATE,,,en,1
+The Weeknd Makes Huge 7-Figure Donation To,The Weeknd Makes Huge 7-Figure Donation To,WORK_OF_ART,,,en,1
+yearlong,yearlong,DATE,,,en,1
+43%,43%,PERCENT,,,en,1
+$21 Billion,$21 Billion,MONEY,,,en,1
+"January 16, 2025","January 16, 2025",DATE,,,en,1
+179,179,CARDINAL,,,en,1
+Jan 13,Jan 13,DATE,,,en,1
+"Wednesday, January 15.This","Wednesday, January 15.This",DATE,,,en,1
+8.1 square miles,8.1 square miles,QUANTITY,,,en,1
+2.5 million,2.5 million,CARDINAL,,,en,1
+12 million,12 million,CARDINAL,,,en,1
+2021,2021,CARDINAL,,,en,1
+California Wildfire Victims,California Wildfire Victims,FAC,,,en,1
+"31,000","31,000",CARDINAL,,,en,1
+$50M,$50M,MONEY,,,en,1
+"Tuesday, January 7","Tuesday, January 7",DATE,,,en,1
+Israeli,Israeli,NORP,,,en,1
+Wednesday morning,Wednesday morning,TIME,,,en,1
+early next week,early next week,DATE,,,en,1
+day 10,day 10,DATE,,,en,1
+"Saturday, Jan. 4","Saturday, Jan. 4",DATE,,,en,1
+Dozens,Dozens,CARDINAL,,,en,1
+A Fire,A Fire,FAC,,,en,1
+next month,next month,DATE,,,en,1
+Jewish,Jewish,NORP,,,en,1
+$15M To,$15M To,MONEY,,,en,1
+Californias troubled National Guard,Californias troubled National Guard,WORK_OF_ART,,,en,1
+an estimated 21 square kilometres,an estimated 21 square kilometres,QUANTITY,,,en,1
+"Wednesday, January 15","Wednesday, January 15",DATE,,,en,1
+7:00:29 PM,7:00:29 PM,TIME,,,en,1
+the afternoon,the afternoon,TIME,,,en,1
+late afternoon,late afternoon,TIME,,,en,1
+"January 21, 2025","January 21, 2025",DATE,,,en,1
+as much as $250 billion,as much as $250 billion,MONEY,,,en,1
+More than 65%,More than 65%,PERCENT,,,en,1
+Billie Eilish & Green Day Set For ‘FireAid’ Benefit Concert,Billie Eilish & Green Day Set For ‘FireAid’ Benefit Concert,WORK_OF_ART,,,en,1
+Over 800,Over 800,CARDINAL,,,en,1
++3627,+3627,CARDINAL,,,en,1
+15 years,15 years,DATE,,,en,1
+thousands of dollars,thousands of dollars,MONEY,,,en,1
+February 22,February 22,DATE,,,en,1
+22 years,22 years,DATE,,,en,1
+52,52,DATE,,,en,1
+Winnipeg,Winnipeg,FAC,,,en,1
+late 2023,late 2023,DATE,,,en,1
+LA Firestorms,LA Firestorms,FAC,,,en,1
+"About 19,000","About 19,000",CARDINAL,,,en,1
+more than 4,more than 4,CARDINAL,,,en,1
+"8,000 Acres","8,000 Acres",QUANTITY,,,en,1
+"over 8,000 acres","over 8,000 acres",QUANTITY,,,en,1
+A week,A week,DATE,,,en,1
 about 200 kilometres,about 200 kilometres,QUANTITY,,,en,1
+CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,1
+01/12/2025 - 11:00,01/12/2025 - 11:00,DATE,,,en,1
+"nearly 12,000","nearly 12,000",CARDINAL,,,en,1
+"Jan 29, 2025","Jan 29, 2025",DATE,,,en,1
++1813,+1813,TIME,,,en,1
+96th,96th,ORDINAL,,,en,1
+Dolby Theatre,Dolby Theatre,FAC,,,en,1
+"March 10, 2024","March 10, 2024",DATE,,,en,1
+PolitiFact,PolitiFact,WORK_OF_ART,,,en,1
+less than 24 hours,less than 24 hours,TIME,,,en,1
+Pacific Palis,Pacific Palis,NORP,,,en,1
+"Nearly 200,000","Nearly 200,000",CARDINAL,,,en,1
+billions of d,billions of d,MONEY,,,en,1
+"the Escalating Wildfire Crisis
+","the Escalating Wildfire Crisis
+",EVENT,,,en,1
+"Love, Love, Love","Love, Love, Love",WORK_OF_ART,,,en,1
+the Escalating Wildfire Crisis,the Escalating Wildfire Crisis,EVENT,,,en,1
+1990,1990,DATE,,,en,1
+seventh,seventh,ORDINAL,,,en,1
+the last 45 years,the last 45 years,DATE,,,en,1
+$80 billion,$80 billion,MONEY,,,en,1
+Jus,Jus,NORP,,,en,1
+Learn The History,Learn The History,WORK_OF_ART,,,en,1
+about 48 million,about 48 million,CARDINAL,,,en,1
+"January 12, 2025","January 12, 2025",DATE,,,en,1
+Coming Days,Coming Days,DATE,,,en,1
+35%,35%,PERCENT,,,en,1
+"With Love, Meghan","With Love, Meghan",WORK_OF_ART,,,en,1
+Entitled” Celebs For Breaking Water-Saving Laws Before,Entitled” Celebs For Breaking Water-Saving Laws Before,WORK_OF_ART,,,en,1
+9:40 a.m.,9:40 a.m.,TIME,,,en,1
+Entitled” Celebs For Breaking Water-Saving Laws Before LA Wildfires,Entitled” Celebs For Breaking Water-Saving Laws Before LA Wildfires,WORK_OF_ART,,,en,1
+Metropolitan Water District,Metropolitan Water District,FAC,,,en,1
+NBCUniversal,NBCUniversal,PRODUCT,,,en,1
+his first week,his first week,DATE,,,en,1
+Wildfire Risk Over,Wildfire Risk Over,FAC,,,en,1
+this winter,this winter,DATE,,,en,1
+this time of year,this time of year,DATE,,,en,1
+'s How to Watch and Support,'s How to Watch and Support,WORK_OF_ART,,,en,1
+February 5,February 5,DATE,,,en,1
+1st,1st,ORDINAL,,,en,1
+6 percent,6 percent,PERCENT,,,en,1
+eight-year,eight-year,DATE,,,en,1
+2013,2013,DATE,,,en,1
+Nearly 10 million,Nearly 10 million,CARDINAL,,,en,1
+World Cup,World Cup,EVENT,,,en,1
+the Grampians National Park,the Grampians National Park,FAC,,,en,1
+Third,Third,ORDINAL,,,en,1
+2nd,2nd,ORDINAL,,,en,1
+the Bat Cave Road,the Bat Cave Road,FAC,,,en,1
+"January 10, 2025","January 10, 2025",DATE,,,en,1
+0.30,0.30,MONEY,,,en,1
+Jan. 17,Jan. 17,DATE,,,en,1
+$4 Billion,$4 Billion,MONEY,,,en,1
+only 2.9%,only 2.9%,PERCENT,,,en,1
+tens,tens,CARDINAL,,,en,1
+320,320,CARDINAL,,,en,1
+at least two decades,at least two decades,DATE,,,en,1
+JANUARY 9,JANUARY 9,DATE,,,en,1
+the fall,the fall,DATE,,,en,1
+at least 11,at least 11,CARDINAL,,,en,1
+LA Palisades Fire,LA Palisades Fire,FAC,,,en,1
+2015,2015,CARDINAL,,,en,1
+half a million,half a million,QUANTITY,,,en,1
+DECEMBER 07,DECEMBER 07,DATE,,,en,1
+December 07,December 07,DATE,,,en,1
+WireI,WireI,NORP,,,en,1
+the Kia Forum,the Kia Forum,FAC,,,en,1
+10:56 PM ET,10:56 PM ET,TIME,,,en,1
+01/31/,01/31/,CARDINAL,,,en,1
+hundreds of kilometres,hundreds of kilometres,QUANTITY,,,en,1
+"100,0","100,0",MONEY,,,en,1
+the Grampians/Gariwerd National Park,the Grampians/Gariwerd National Park,FAC,,,en,1
+9:48:17 PM,9:48:17 PM,TIME,,,en,1
+About 100,About 100,CARDINAL,,,en,1
+Eight months later,Eight months later,DATE,,,en,1
+just four months,just four months,DATE,,,en,1
+May 2024 day,May 2024 day,DATE,,,en,1
+1.23B,1.23B,MONEY,,,en,1
+Responsible for Disastrous Wi… Extended,Responsible for Disastrous Wi… Extended,WORK_OF_ART,,,en,1
++3492,+3492,CARDINAL,,,en,1
+48-year-old,48-year-old,DATE,,,en,1
+Responsible for Disastrous Wildfires,Responsible for Disastrous Wildfires,WORK_OF_ART,,,en,1
+2025-01-30,2025-01-30,DATE,,,en,1
+08:48:01,08:48:01,TIME,,,en,1
+Man Slammed for Kicking Friend Out After He Lost His Home,Man Slammed for Kicking Friend Out After He Lost His Home,WORK_OF_ART,,,en,1
+Am I Overreacting,Am I Overreacting,WORK_OF_ART,,,en,1
+damag,damag,NORP,,,en,1
+Earlier this month,Earlier this month,DATE,,,en,1
+90-mile,90-mile,QUANTITY,,,en,1
+70%,70%,PERCENT,,,en,1
+the Wades Gap Road,the Wades Gap Road,WORK_OF_ART,,,en,1
+half a trillion,half a trillion,MONEY,,,en,1
+Over 94%,Over 94%,PERCENT,,,en,1
+this Friday,this Friday,DATE,,,en,1
 10 Days,10 Days,DATE,,,en,1
+1984,1984,DATE,,,en,1
+"at least 12,000","at least 12,000",CARDINAL,,,en,1
+"1/24/25
+ ","1/24/25
+ ",QUANTITY,,,en,1
+2:36:42 AM,2:36:42 AM,TIME,,,en,1
+Last year,Last year,DATE,,,en,1
+4 p.m. to,4 p.m. to,TIME,,,en,1
+"37,700 acres","37,700 acres",QUANTITY,,,en,1
+Firefighters,Firefighters,PRODUCT,,,en,1
+The Games,The Games,WORK_OF_ART,,,en,1
+1932,1932,DATE,,,en,1
+The Cost Of Building Ones,The Cost Of Building Ones,WORK_OF_ART,,,en,1
+$30 billion,$30 billion,MONEY,,,en,1
+Seven years later,Seven years later,DATE,,,en,1
+"over 40,000 acres","over 40,000 acres",QUANTITY,,,en,1
+just days earlier,just days earlier,DATE,,,en,1
+53-Year-Old,53-Year-Old,DATE,,,en,1
+15-25%,15-25%,PERCENT,,,en,1
+several months,several months,DATE,,,en,1
+4:00 p.m.,4:00 p.m.,TIME,,,en,1
+Should Probably Be Conditions” To Federal Aid For Los Angeles Wildfires,Should Probably Be Conditions” To Federal Aid For Los Angeles Wildfires,WORK_OF_ART,,,en,1
+Sunset Boulevard,Sunset Boulevard,FAC,,,en,1
+early January 2025,early January 2025,DATE,,,en,1
+Five-day,Five-day,DATE,,,en,1
+50 to 8,50 to 8,CARDINAL,,,en,1
++5353,+5353,ORDINAL,,,en,1
 early 2024,early 2024,DATE,,,en,1
 early 2024a,early 2024a,DATE,,,en,1
+African,African,NORP,,,en,1
 the month,the month,DATE,,,en,1
+GoF—You,GoF—You,WORK_OF_ART,,,en,1
 the last three weeks,the last three weeks,DATE,,,en,1
 more than 20,more than 20,CARDINAL,,,en,1
 the last two terrifying weeks,the last two terrifying weeks,DATE,,,en,1
 $20 Million,$20 Million,MONEY,,,en,1
-40B,40B,MONEY,,,en,1
-16:42:00,16:42:00,TIME,,,en,1
-$40 billion,$40 billion,MONEY,,,en,1
-the past five fire seasons alone,the past five fire seasons alone,DATE,,,en,1
-67TH,67TH,ORDINAL,,,en,1
-Music's Biggest Night(R,Music's Biggest Night(R,WORK_OF_ART,,,en,1
-1.0.1,1.0.1,CARDINAL,,,en,1
-Chinese,Chinese,NORP,,,en,1
-California Fire Map Update,California Fire Map Update,FAC,,,en,1
-Trump Is Threatening to Hold Wildfire Aid Hostage,Trump Is Threatening to Hold Wildfire Aid Hostage,WORK_OF_ART,,,en,1
-January 28,January 28,DATE,,,en,1
-Over 11 lakh,Over 11 lakh,QUANTITY,,,en,1
-just five seasons,just five seasons,DATE,,,en,1
-"11,09,588","11,09,588",CARDINAL,,,en,1
-January 18 date,January 18 date,DATE,,,en,1
-November to June,November to June,DATE,,,en,1
-the last few weeks,the last few weeks,DATE,,,en,1
-30%,30%,PERCENT,,,en,1
-"93,000-Pound","93,000-Pound",QUANTITY,,,en,1
-"Friday, January 24, 2025:","Friday, January 24, 2025:",DATE,,,en,1
-"Friday, January 24, 2025","Friday, January 24, 2025",DATE,,,en,1
-more than,more than,CARDINAL,,,en,1
-60 square miles,60 square miles,QUANTITY,,,en,1
-New Date After Postponement Due To Wildfires,New Date After Postponement Due To Wildfires,EVENT,,,en,1
 $20 million,$20 million,MONEY,,,en,1
+8th,8th,ORDINAL,,,en,1
 weekend,weekend,DATE,,,en,1
-about 100 kilometres n,about 100 kilometres n,QUANTITY,,,en,1
+January 13,January 13,DATE,,,en,1
+Amazon‘s,Amazon‘s,DATE,,,en,1
 the Lungla adm… ITANAGAR,the Lungla adm… ITANAGAR,FAC,,,en,1
+$10M Gift,$10M Gift,MONEY,,,en,1
+next few days,next few days,DATE,,,en,1
+78,78,DATE,,,en,1
+18 months,18 months,DATE,,,en,1
+$100K,$100K,MONEY,,,en,1
+South Australian,South Australian,NORP,,,en,1
 the seventh day,the seventh day,DATE,,,en,1
-late last week,late last week,DATE,,,en,1
-Wildfire Recovery,Wildfire Recovery,FAC,,,en,1
-California Wildfire Assistance: Help,California Wildfire Assistance: Help,FAC,,,en,1
-Proposition 22,Proposition 22,LAW,,,en,1
-Wildfire Disaster Response Ad Hoc Task Force,Wildfire Disaster Response Ad Hoc Task Force,WORK_OF_ART,,,en,1
-Sunday (January 26,Sunday (January 26,DATE,,,en,1
-Over 90%,Over 90%,PERCENT,,,en,1
-10:30 a.m.,10:30 a.m.,TIME,,,en,1
-20 years ago,20 years ago,DATE,,,en,1
-Slowtide,Slowtide,NORP,0.0,0.0,en,1
-one night,one night,TIME,,,en,1
+"Aug. 30, 2024","Aug. 30, 2024",DATE,,,en,1
 Stars In A Tender Tale Of Wildfire Heartbreak,Stars In A Tender Tale Of Wildfire Heartbreak,WORK_OF_ART,,,en,1
+the period of Sept. 16,the period of Sept. 16,DATE,,,en,1
 Benefit and Auction for LA Wildfire,Benefit and Auction for LA Wildfire,WORK_OF_ART,,,en,1
+February Date,February Date,DATE,,,en,1
 "over 23,000 acres","over 23,000 acres",QUANTITY,,,en,1
 "over 12,000","over 12,000",CARDINAL,,,en,1
 75,75,CARDINAL,,,en,1
@@ -992,128 +1182,37 @@ the Golden State Warriors',the Golden State Warriors',FAC,,,en,1
 late night,late night,TIME,,,en,1
 late Monday,late Monday,DATE,,,en,1
 season,season,DATE,,,en,1
+wildfire season,wildfire season,DATE,,,en,1
+' wildfire seasons,' wildfire seasons,DATE,,,en,1
+Feb. 2nd,Feb. 2nd,DATE,,,en,1
+58 Billion-Dollar,58 Billion-Dollar,MONEY,,,en,1
+LA Wildfire Relief Benefit Concert,LA Wildfire Relief Benefit Concert,EVENT,,,en,1
+"LA Wildfire Relief Benefit Concert
+","LA Wildfire Relief Benefit Concert
+",EVENT,,,en,1
+one week’s,one week’s,DATE,,,en,1
+February 5th,February 5th,DATE,,,en,1
+one night,one night,TIME,,,en,1
+Slowtide,Slowtide,NORP,0.0,0.0,en,1
+this past week,this past week,DATE,,,en,1
+20 years ago,20 years ago,DATE,,,en,1
 at least 28,at least 28,CARDINAL,,,en,1
-South Australian,South Australian,NORP,,,en,1
-Sunset Boulevard,Sunset Boulevard,FAC,,,en,1
-4 p.m. to,4 p.m. to,TIME,,,en,1
-earlier this week,earlier this week,DATE,,,en,1
-78,78,DATE,,,en,1
-18 months,18 months,DATE,,,en,1
-+5353,+5353,ORDINAL,,,en,1
-50 to 8,50 to 8,CARDINAL,,,en,1
-Five-day,Five-day,DATE,,,en,1
-"1/24/25
- ","1/24/25
- ",QUANTITY,,,en,1
-2:36:42 AM,2:36:42 AM,TIME,,,en,1
-Last year,Last year,DATE,,,en,1
-Million Dollar Listing,Million Dollar Listing,MONEY,,,en,1
-4:00 p.m.,4:00 p.m.,TIME,,,en,1
-The Games,The Games,WORK_OF_ART,,,en,1
-1932,1932,DATE,,,en,1
-1984,1984,DATE,,,en,1
-The Cost Of Building Ones,The Cost Of Building Ones,WORK_OF_ART,,,en,1
-Seven years later,Seven years later,DATE,,,en,1
-just days earlier,just days earlier,DATE,,,en,1
-53-Year-Old,53-Year-Old,DATE,,,en,1
-15-25%,15-25%,PERCENT,,,en,1
-several months,several months,DATE,,,en,1
-Teddy Swims to Perform,Teddy Swims to Perform,WORK_OF_ART,,,en,1
-just before 1pm,just before 1pm,TIME,,,en,1
-"179 January 16, 2025","179 January 16, 2025",DATE,,,en,1
-as much as $250 billion,as much as $250 billion,MONEY,,,en,1
-43%,43%,PERCENT,,,en,1
-$21 Billion,$21 Billion,MONEY,,,en,1
-tomorrow,tomorrow,DATE,,,en,1
-another hottest year,another hottest year,DATE,,,en,1
-last week's,last week's,DATE,,,en,1
-16 years,16 years,DATE,,,en,1
-30,30,CARDINAL,,,en,1
-more than $19 billion,more than $19 billion,MONEY,,,en,1
-Over 50%,Over 50%,PERCENT,,,en,1
-59%,59%,PERCENT,,,en,1
-Some Of The Wealthiest & Most Powerful Individuals In Our Country,Some Of The Wealthiest & Most Powerful Individuals In Our Country,WORK_OF_ART,,,en,1
-later this week,later this week,DATE,,,en,1
-Brijean,Brijean,NORP,,,en,1
-January 20,January 20,DATE,,,en,1
-4x4,4x4,CARDINAL,,,en,1
-63%,63%,PERCENT,,,en,1
-The next day,The next day,DATE,,,en,1
-A Night Of Comedy To Benefit Victims Of L.A.,A Night Of Comedy To Benefit Victims Of L.A.,WORK_OF_ART,,,en,1
-Jan 13,Jan 13,DATE,,,en,1
-7:00:29 PM,7:00:29 PM,TIME,,,en,1
-late afternoon,late afternoon,TIME,,,en,1
-yearlong,yearlong,DATE,,,en,1
-The Weeknd Makes Huge 7-Figure Donation To,The Weeknd Makes Huge 7-Figure Donation To,WORK_OF_ART,,,en,1
-a year,a year,DATE,,,en,1
-Harry How,Harry How,WORK_OF_ART,,,en,1
-The Inside Story,The Inside Story,WORK_OF_ART,,,en,1
-The day,The day,DATE,,,en,1
-the summer of 2019-20,the summer of 2019-20,DATE,,,en,1
-Catholic,Catholic,NORP,,,en,1
-$15M,$15M,MONEY,,,en,1
-eight months,eight months,DATE,,,en,1
-January 08,January 08,DATE,,,en,1
-"January 08, 2025","January 08, 2025",DATE,,,en,1
-nearly $6.5 million,nearly $6.5 million,MONEY,,,en,1
-Jan. 17,Jan. 17,DATE,,,en,1
-more than a week,more than a week,DATE,,,en,1
-January 16,January 16,DATE,,,en,1
-Fire Weather,Fire Weather,WORK_OF_ART,,,en,1
-Fire Weather: On the Front Lines of a Burning World,Fire Weather: On the Front Lines of a Burning World,WORK_OF_ART,,,en,1
-only a few miles,only a few miles,QUANTITY,,,en,1
-31%,31%,PERCENT,,,en,1
-"Thursday, Jan. 30","Thursday, Jan. 30",DATE,,,en,1
-The Weeknd Joins Billionaires And Celebrities Donating,The Weeknd Joins Billionaires And Celebrities Donating,WORK_OF_ART,,,en,1
-the Moment,the Moment,WORK_OF_ART,,,en,1
-at least 27,at least 27,CARDINAL,,,en,1
-"January 21, 2025","January 21, 2025",DATE,,,en,1
-More than 65%,More than 65%,PERCENT,,,en,1
-Trump Considers Big Move On Disaster-Hit US States,Trump Considers Big Move On Disaster-Hit US States,WORK_OF_ART,,,en,1
-Over 800,Over 800,CARDINAL,,,en,1
-"More than 50,000","More than 50,000",CARDINAL,,,en,1
-405 Freeway,405 Freeway,FAC,,,en,1
-Hughes Fire,Hughes Fire,FAC,,,en,1
-nearly one week,nearly one week,DATE,,,en,1
-Oscar 2025,Oscar 2025,LAW,,,en,1
-97th,97th,ORDINAL,,,en,1
-Academy Awards,Academy Awards,EVENT,,,en,1
-a big day,a big day,DATE,,,en,1
-Going Into Hermit Mode',Going Into Hermit Mode',WORK_OF_ART,,,en,1
-Being Slammed for Trying to 'Cash-In' on,Being Slammed for Trying to 'Cash-In' on,WORK_OF_ART,,,en,1
-50,50,MONEY,,,en,1
-$325K,$325K,MONEY,,,en,1
-Jan. 23,Jan. 23,DATE,,,en,1
-11th,11th,ORDINAL,,,en,1
-as high as $40 billion,as high as $40 billion,MONEY,,,en,1
-PBS News Hour West,PBS News Hour West,PRODUCT,,,en,1
-Palisades Wildfire,Palisades Wildfire,FAC,,,en,1
-over 20,over 20,CARDINAL,,,en,1
-Into Sepia Tone,Into Sepia Tone,WORK_OF_ART,,,en,1
-69.95,69.95,MONEY,,,en,1
-the past weeks,the past weeks,DATE,,,en,1
-50 miles,50 miles,QUANTITY,,,en,1
-about 80 km,about 80 km,QUANTITY,,,en,1
-"9,266 acres","9,266 acres",QUANTITY,,,en,1
-12 million,12 million,CARDINAL,,,en,1
-+3627,+3627,CARDINAL,,,en,1
-February 22,February 22,DATE,,,en,1
-"About 19,000","About 19,000",CARDINAL,,,en,1
-"8,000 Acres","8,000 Acres",QUANTITY,,,en,1
-"over 8,000 acres","over 8,000 acres",QUANTITY,,,en,1
-the afternoon,the afternoon,TIME,,,en,1
-an estimated 21 square kilometres,an estimated 21 square kilometres,QUANTITY,,,en,1
-8.1 square miles,8.1 square miles,QUANTITY,,,en,1
-2.5 million,2.5 million,CARDINAL,,,en,1
-2021,2021,CARDINAL,,,en,1
-"3,750 hectares","3,750 hectares",QUANTITY,,,en,1
-"31,000","31,000",CARDINAL,,,en,1
-more than two weeks,more than two weeks,DATE,,,en,1
-Wednesday morning,Wednesday morning,TIME,,,en,1
-A Fire,A Fire,FAC,,,en,1
-Jewish,Jewish,NORP,,,en,1
-Californias troubled National Guard,Californias troubled National Guard,WORK_OF_ART,,,en,1
-a day earlier,a day earlier,DATE,,,en,1
-decades ago,decades ago,DATE,,,en,1
-Three Mile,Three Mile,QUANTITY,,,en,1
-the middle of the night,the middle of the night,DATE,,,en,1
+late last week,late last week,DATE,,,en,1
+Wildfire Recovery,Wildfire Recovery,FAC,,,en,1
+Sundance,Sundance,NORP,,,en,1
+"A Love Song""","A Love Song""",WORK_OF_ART,,,en,1
+California Wildfire Assistance: Help,California Wildfire Assistance: Help,FAC,,,en,1
+nearly 70 percent,nearly 70 percent,PERCENT,,,en,1
+Proposition 22,Proposition 22,LAW,,,en,1
+Wildfire Disaster Response Ad Hoc Task Force,Wildfire Disaster Response Ad Hoc Task Force,WORK_OF_ART,,,en,1
+Thousands of gallons,Thousands of gallons,QUANTITY,,,en,1
+Sunday (January 26,Sunday (January 26,DATE,,,en,1
+Camp Fire,Camp Fire,FAC,,,en,1
+Over 90%,Over 90%,PERCENT,,,en,1
+10:30 a.m.,10:30 a.m.,TIME,,,en,1
+2.5,2.5,MONEY,,,en,1
+"As many as 10,000","As many as 10,000",CARDINAL,,,en,1
+the Hollywood Palladium,the Hollywood Palladium,FAC,,,en,1
+The 67th,The 67th,EVENT,,,en,1
++670,+670,NORP,,,en,1
+51.76,51.76,MONEY,,,en,1
