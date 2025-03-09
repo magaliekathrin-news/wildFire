@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire residents',en,Impacts,#a89216,#87830f,3,0.36915119093958787
+'wildfire residents',en,Impacts,#a89216,#87830f,3,0.3691511909395878
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.3569504667532404
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.3438254222783962
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.3334383195919413
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.2929368570092064
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.2926629477607489
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.2898626612266303
-'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.2857505215207497
+'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.2773908832926372
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.258824132990897
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.2577307995538869
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.2380613262691953
