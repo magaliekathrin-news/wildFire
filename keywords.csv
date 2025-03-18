@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.2641625995689365
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.2629218031266772
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.2622557321350981
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.2577307995538869
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.253252153724827
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.236049959097612
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.22867862517635942
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.2011503010853894
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1884824902850454
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.1511079413825695
