@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.253252153724827
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.236049959097612
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.2286786251763594
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.2011503010853894
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.20732278806543813
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1884824902850454
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.1511079413825695
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0826944727387714
