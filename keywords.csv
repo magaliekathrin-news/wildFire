@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.3785214467402543
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.3064345362959412
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.3062817178611637
-'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.29998489704263576
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.2803843860985616
+'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.2785388124862403
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.278405838701128
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.2773908832926372
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.2743040426840054
