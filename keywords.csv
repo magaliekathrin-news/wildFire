@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1884824902850454
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.1588992752436867
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1585417873560591
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.10669864780600957
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0970904818279556
-'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0939981974188348
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0400472026162365
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.0335161079623259
