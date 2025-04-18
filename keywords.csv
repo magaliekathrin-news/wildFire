@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1956419380439456
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1946972592897402
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1904728401939397
-'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1893192653394406
+'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1864226805385245
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1845974281154436
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.180869763665051
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1639618717422885
