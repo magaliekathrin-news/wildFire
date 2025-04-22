@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1950550103886923
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1946972592897402
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.194211083404992
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1911328743425003
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1904728401939397
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1864226805385245
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1856096435742767
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1845974281154436
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.1798594185469228
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.17651714228203433
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1639618717422885
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1574930491152933
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.1567725847937593
