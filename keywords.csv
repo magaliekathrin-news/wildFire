@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.2907896233936646
+'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.261218238975524
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.2388361929366166
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.2039666967552699
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.1964028591648487
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.194211083404992
-'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.18379758080617042
+'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1837975808061704
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1822400379109463
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1804727323373537
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.1799719421439767
