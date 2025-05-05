@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1574930491152933
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1549441962706645
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1503410371648784
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.1500507232659668
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1488048633435593
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.13219458477607177
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.114965072082791
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0838782383441984
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0788993039562684
