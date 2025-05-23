@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1589091551572171
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1588696759809452
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.1574777108223801
-'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1571273972760753
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.1550061651339449
+'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.15383328625609258
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1523772267939201
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1517280436767694
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1490018638978389
