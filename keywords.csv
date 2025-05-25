@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1384688784483581
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1321945847760717
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1315285534808365
-'wildfire heat',en,Causes,#679e2c,#7db344,3,0.13099475865043428
+'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1309947586504342
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0743058268811026
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0681145133628281
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0539718419631742
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0515859756272833
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.020542416189227
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.0056086942222667
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.004767390088926695
