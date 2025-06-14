@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1978817248920339
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.18993700739955
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.184694747622005
-'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.18096104253344386
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1642236904535543
+'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1809610425334438
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.17327428495003727
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1639922916466104
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.1563740537293305
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.154086053314217
