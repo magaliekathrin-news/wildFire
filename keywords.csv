@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.1517398216207621
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1517280436767694
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.150848409852869
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1508278142729536
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1476756166149899
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.1404216498930113
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1391196928294616
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1331077800470309
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.13225541213201059
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.116151715458711
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1092293380131049
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0960526099502157
