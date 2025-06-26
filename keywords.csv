@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1692754410351821
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1639922916466104
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.1630603101185004
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.15683700389620905
 'wildfire donation',en,Mitigation,#9e3215,#802d16,3,0.1563740537293305
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1527631539050423
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.1517398216207621
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1517280436767694
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.150848409852869
