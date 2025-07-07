@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.1321048619174125
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.127966073346338
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1185372699554696
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.100317648002056
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0960526099502157
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0956550256394932
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.0900718908017476
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0242237056821976
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0235111368866474
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.0004899431039635
