@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1190321223021319
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.1069673986975543
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0960591210753944
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.09316565881394001
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.09316565881394
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0242237056821976
-'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0204671999006026
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.01934732991551221
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,0.0003539838926135
