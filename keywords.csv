@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.2474658688748018
+'wildfire hot',en,Causes,#679e2c,#7db344,3,0.2203623401891436
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.2151550698824322
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2054400758616431
-'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1993586188837795
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1907881041390625
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1805880058407679
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1776207845924291
