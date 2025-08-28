@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1864288549646527
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1776207845924291
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1727171482162306
-'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.1653369190887903
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1562428015957819
+'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.15546110693975748
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1549007181435906
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1478096746995544
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1458653708202232
