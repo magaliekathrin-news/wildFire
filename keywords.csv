@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1542454534946212
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1458653708202232
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1449503608452393
-'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.144014471582894
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.1383772703535502
+'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1373302015597456
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.1361563879140852
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1331077800470309
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1239249231821185
