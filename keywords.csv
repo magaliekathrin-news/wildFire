@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.1152142658062036
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1150255157045415
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.1141812531445965
-'wildfire dryness',en,Causes,#679e2c,#61b00c,2,0.0840632022700451
+'wildfire dryness',en,Causes,#679e2c,#61b00c,2,0.07385459192953833
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,2,0.0729656429703977
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0673689399803016
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,5.923681280366335e-05
