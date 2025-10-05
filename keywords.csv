@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1095193422816313
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0980424189272172
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0637833165124672
-'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.05974042549019795
+'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.0597404254901979
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0275071039684067
-'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0264256006463799
+'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.023511895549422915
 'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,2.2341135256070428e-05
