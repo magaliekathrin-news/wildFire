@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1129371949200056
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1095193422816313
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0879869260881346
-'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0637833165124672
+'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.054965894035597124
 'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.0458340114166679
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0275071039684067
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0235118955494229
