@@ -20,8 +20,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1077882635255935
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.1074322711640636
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1061340776853533
-'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.07302425659683803
-'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0683723278486772
+'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.073024256596838
+'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.06231742367137561
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0358355126121109
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0275071039684067
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0185025515344579
