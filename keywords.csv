@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1114381875115222
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1077882635255935
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.1074322711640636
-'wildfire house',en,Impacts,#a89216,#a89216,3,0.1061340776853533
+'wildfire house',en,Impacts,#a89216,#a89216,3,0.1043917260325503
 'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.073024256596838
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0623174236713756
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0315102907202942
