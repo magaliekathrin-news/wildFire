@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1839385157140009
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.1407477478114585
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1337462099418725
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.13286021748284968
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1282180649974366
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1266312498316077
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1258953102574471
