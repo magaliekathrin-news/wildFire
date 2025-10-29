@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1708490733569007
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.13694593857009957
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1369459385700995
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.1341400106397397
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1282180649974366
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1258627741948417
@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.1133098130211575
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.1125579836285069
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1119875373568665
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.1077882635255935
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.1074322711640636
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.10110887399675447
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0933854871276677
 'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.049491366107533
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0484009169613218
