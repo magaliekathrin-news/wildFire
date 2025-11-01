@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1098851193395434
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1094292268608854
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.1074322711640636
-'wildfire hot',en,Causes,#679e2c,#7db344,3,0.10635164884154752
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.0954314828972412
+'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1063516488415475
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0933854871276677
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.090605760462655
 'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.049491366107533
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0459416644171235
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0247311883731456
