@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.1098851193395434
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1089860683915467
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.1082546341258177
-'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.10758672207176785
+'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1075867220717678
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1029739597439692
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.102539641624856
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.1014901506368635
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.1005501108309785
-'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.0937347767363577
+'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.09385166022590405
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0933854871276677
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.0917500265153153
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0865050310706761
