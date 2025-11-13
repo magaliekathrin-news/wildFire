@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.14215844337262068
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.1315781688304275
+'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.13133761686672749
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1198757474185289
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1144667343289089
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.1099240147691489
