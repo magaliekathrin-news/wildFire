@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.0963140010679838
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.093851660225904
 'wildfire relief',en,Mitigation,#9e3215,#802d16,3,0.093067054006945
-'wildfire hot',en,Causes,#679e2c,#7db344,3,0.0917500265153153
-'wildfire house',en,Impacts,#a89216,#a89216,3,0.08454563633933937
+'wildfire house',en,Impacts,#a89216,#a89216,3,0.0845456363393393
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0806985220753819
+'wildfire hot',en,Causes,#679e2c,#7db344,2,0.07798849753801801
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0763805514100746
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0395097413335354
 'wildfire donation',en,Mitigation,#9e3215,#802d16,2,0.0390885515126925
