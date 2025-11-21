@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.114213228259887
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1075867220717678
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.1064371825537765
-'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1029739597439692
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.1024031779425838
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.1014901506368635
+'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.10088884820172865
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0984730358334861
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.0976636594333566
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0972975191795725
