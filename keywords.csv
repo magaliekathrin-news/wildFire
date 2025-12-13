@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.1118722017766824
-'bushfire',en,Hazard,#4287f5,#022f78,3,0.0922702550348395
-'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.08996233853806195
+'bushfire',en,Hazard,#4287f5,#022f78,3,0.10014014268870448
+'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.0899623385380619
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.0899606664203624
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.0887943261920184
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.0863400548838448
