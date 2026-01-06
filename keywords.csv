@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.0943598679018489
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.079118787626725
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.0791108875581973
-'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0774928131126864
-'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.07713444817304416
+'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.0771344481730441
+'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.07636075761637168
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0757125438508684
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.0755313142446206
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0753800362686011
