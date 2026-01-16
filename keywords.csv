@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1056966004252228
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0922037104865623
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.0889342853356787
-'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.08717326484452019
+'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0871732648445201
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.0791108875581973
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0771395243778284
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0757125438508684
@@ -25,4 +25,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0431614922313196
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0307566909274048
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0283876767089556
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,2.2959910872111463e-06
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,1.951592424129474e-06
