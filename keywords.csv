@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0727040182951796
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.0723262414468978
 'wildfire victims',en,Impacts,#a89216,#87830f,3,0.0717301229598094
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.07151496426293785
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0709644057483686
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0708715539712719
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.06928905462349713
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.0664723254705754
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.0643799505184971
 'wildfire hot',en,Causes,#679e2c,#7db344,2,0.0590256834712179
