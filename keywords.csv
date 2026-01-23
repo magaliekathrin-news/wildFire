@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.1083032485451251
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.1066832667707208
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.1054459522496141
-'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.0991913421776957
+'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.10223947085104135
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0771395243778284
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0770071275770845
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0757125438508684
