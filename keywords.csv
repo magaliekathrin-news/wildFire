@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'bushfire',en,Hazard,#4287f5,#022f78,3,0.320171216626707
-'wildfire',en,Hazard,#4287f5,#638ed4,3,0.14002914782385284
+'bushfire',en,Hazard,#4287f5,#022f78,3,0.31391686595088275
+'wildfire',en,Hazard,#4287f5,#638ed4,3,0.1400291478238528
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.1172792863185006
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0997049203265412
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.0977643425939901
