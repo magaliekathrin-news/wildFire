@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.2692565903520857
-'wildfire',en,Hazard,#4287f5,#638ed4,3,0.1167335951026706
+'wildfire',en,Hazard,#4287f5,#638ed4,3,0.10823895454694743
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.1059495765835829
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.0944869163551382
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.0892806083739661
