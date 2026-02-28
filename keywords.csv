@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0701876089153826
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0694318187749307
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.0670263748448666
-'wildfire death',en,Impacts,#a89216,#87830f,3,0.0632472414299725
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0624794606732429
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0598664838346098
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0595552387674631
-'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.04439062388074226
+'wildfire death',en,Impacts,#a89216,#87830f,3,0.05856179021547662
+'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0443906238807422
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0318945581201599
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0215052328627763
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0167042157606791
