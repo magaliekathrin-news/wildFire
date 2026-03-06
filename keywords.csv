@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0758284748148874
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.0730576754389966
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0727040182951796
-'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0713209024398334
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.0710567835685523
+'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.06962435707385839
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0686832061495037
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.0670263748448666
-'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.06670025932779795
+'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0667002593277979
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0624794606732429
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0595552387674631
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0578602566831551
