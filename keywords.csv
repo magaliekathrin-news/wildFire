@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0727040182951796
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0696243570738583
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0686832061495037
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.06775192157225646
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.0670263748448666
-'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.06372949293335986
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0624794606732429
+'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0637294929333598
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0595552387674631
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0578602566831551
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0568452354286282
