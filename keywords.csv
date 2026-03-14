@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,3,0.2284245225741469
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.1465128697999941
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.1070816315701071
-'wildfire residents',en,Impacts,#a89216,#87830f,3,0.09134184380857203
-'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.0900061669129135
+'wildfire residents',en,Impacts,#a89216,#87830f,3,0.091341843808572
+'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.08963958005779465
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0845629055012602
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0833450962038497
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.081474124293461
