@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.0765046024493723
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0763797896760711
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0758284748148874
-'wildfire health',en,Impacts,#a89216,#bfba22,3,0.07489544677327223
+'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0748954467732722
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0727040182951796
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.0702115986181366
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0696243570738583
@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.0674577169350418
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.0663011541231471
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0595552387674631
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0574043515859552
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0568452354286282
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0551825531806818
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0546201139933558
+'wildfire buildings',en,Impacts,#a89216,#a89216,2,0.04879422384806192
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.0418054054282606
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0398344068474296
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0223302806180431
