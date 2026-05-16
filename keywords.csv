@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.0641814638254161
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.057639993919665
 'wildfire buildings',en,Impacts,#a89216,#a89216,2,0.0460985847581789
-'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0345754985919096
+'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.03253998380312316
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0314859535564682
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0192654083271778
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0140696522684149
