@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.1095844682706228
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.1012139840022799
 'wildfire climate change',en,Causes,#679e2c,#477515,3,0.0994849943094384
-'wildfire health',en,Impacts,#a89216,#bfba22,3,0.09347071108327946
+'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0934707110832794
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.092912763485081
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.0923214600621428
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.0920030035030858
@@ -25,4 +25,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0314859535564682
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.0192654083271778
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0140696522684149
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,1.7047983221374908e-07
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,1.449078573816867e-07
