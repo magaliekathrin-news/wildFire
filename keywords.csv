@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.0896360421772269
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0882875935776728
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.0861086965711901
-'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.08285501297762292
+'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.0828550129776229
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0825701433644762
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0816886093281087
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.080665799788719
-'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0790313578236299
+'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.07986402187735814
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0785880274678374
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0763563738037561
 'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.062421330988928
