@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'forest fire',en,Hazard,#4287f5,#3b4a63,3,0.0798640218773581
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0785880274678374
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0763563738037561
-'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.062421330988928
 'wildfire buildings',en,Impacts,#a89216,#a89216,2,0.057109667044452
+'wildfire dryness',en,Causes,#679e2c,#61b00c,1,0.054108266340588795
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.0288999356945482
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0268914021403654
 'wildfire military',en,Mitigation,#9e3215,#d64118,2,0.0258556911926289
