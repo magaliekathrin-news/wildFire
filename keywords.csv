@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire residents',en,Impacts,#a89216,#87830f,3,0.0877428936163322
 'wildfire victims',en,Impacts,#a89216,#87830f,2,0.0861086965711901
 'wildfire death',en,Impacts,#a89216,#87830f,3,0.0857255176902356
+'bushfire',en,Hazard,#4287f5,#022f78,2,0.08524731826537445
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.0845071445856634
-'bushfire',en,Hazard,#4287f5,#022f78,1,0.0837610744298523
-'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.08365411208696594
+'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.0836541120869659
 'wildfire house',en,Impacts,#a89216,#a89216,3,0.0825701433644762
 'wildfire heat',en,Causes,#679e2c,#7db344,3,0.0807046210621391
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.080665799788719
