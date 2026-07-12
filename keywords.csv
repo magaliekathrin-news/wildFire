@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'bushfire',en,Hazard,#4287f5,#022f78,2,0.0852473182653744
 'wildfire health',en,Impacts,#a89216,#bfba22,3,0.0849442334504355
 'wildfire weather',en,Causes,#679e2c,#61d01c,3,0.0845071445856634
+'wildfire house',en,Impacts,#a89216,#a89216,3,0.0843247536553137
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.0836541120869659
-'wildfire house',en,Impacts,#a89216,#a89216,3,0.0788715578500648
-'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.07771557515391596
+'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.0777155751539159
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.0758067170573392
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0745727560377778
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0731643819636078
