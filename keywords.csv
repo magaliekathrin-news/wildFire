@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2596687969649174
+'wildfire',en,Hazard,#4287f5,#638ed4,3,0.28796869969290706
 'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.2005011864501887
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.1767256352406736
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1367127836729235
@@ -25,4 +25,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,1,0.0745727560377778
 'wildfire relief',en,Mitigation,#9e3215,#802d16,2,0.0731643819636078
 'wildfire solidarity',en,Mitigation,#9e3215,#b55035,1,0.0269327741046242
-'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,1.0759565814730875e-08
+'wildfire hectar',en,Hazard,#4287f5,#315fa8,1,1.0759565814730876e-08
