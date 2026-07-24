@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire dryness',en,Causes,#679e2c,#61b00c,2,0.139034828629513
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1383007745957361
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.1338341015726066
-'wildfire house',en,Impacts,#a89216,#a89216,3,0.1266819652953876
 'wildfire hot',en,Causes,#679e2c,#7db344,3,0.1212187216163559
+'wildfire house',en,Impacts,#a89216,#a89216,3,0.11990760277380673
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1189607632918417
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.1091728212941817
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,2,0.107596398541202
