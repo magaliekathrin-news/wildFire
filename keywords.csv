@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.31468170479391255
+'wildfire evacuation',en,Mitigation,#9e3215,#9e3215,3,0.3146817047939125
 'wildfire area',en,Hazard,#4287f5,#315fa8,3,0.3033194344556436
 'wildfire smoke',en,Impacts,#a89216,#bfba22,3,0.2921541816272177
 'wildfire',en,Hazard,#4287f5,#638ed4,3,0.2859277536945137
@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'wildfire disaster',en,Impacts,#a89216,#87830f,3,0.1672271166664833
 'wildfire wind',en,Causes,#679e2c,#679e2c,3,0.1636281093546037
 'wildfire military',en,Mitigation,#9e3215,#d64118,3,0.1589899733695054
-'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.1399183664417939
 'wildfire buildings',en,Impacts,#a89216,#a89216,3,0.1384792997297387
 'wildfire donation',en,Mitigation,#9e3215,#802d16,1,0.1338341015726066
+'wildfire dryness',en,Causes,#679e2c,#61b00c,3,0.1286814814755248
 'wildfire damage',en,Impacts,#a89216,#c4b03b,3,0.1189607632918417
 'wildfire brigade',en,Mitigation,#9e3215,#802d16,2,0.1165835349859615
 'wildfire insurance',en,Mitigation,#9e3215,#802d16,3,0.1145570720731209
