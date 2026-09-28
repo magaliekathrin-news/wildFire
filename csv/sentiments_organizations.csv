@@ -61,14 +61,14 @@ Xcel Energy,Xcel Energy,ORG,0.02020042194092827,0.6557401547116737,en,7.9
 Los Angeles Times,Los Angeles Times,ORG,0.066488603988604,0.5971628679962012,en,7.800000000000001
 RCMP,RCMP,ORG,0.06565656565656565,0.963203463203463,en,7.700000000000001
 Tongariro National Park,Tongariro National Park,ORG,0.08074162679425835,0.3349282296650717,en,7.600000000000001
-High Fens,High Fens,ORG,0.08264840182648402,0.5022831050228309,en,7.300000000000001
+High Fens,High Fens,ORG,0.08264840182648402,0.4899543378995433,en,7.300000000000001
 Dolphin Sands,Dolphin Sands,ORG,-0.11719939117199389,0.06164383561643835,en,7.300000000000001
 NYC,NYC,ORG,0.05725997746545691,0.5003439482891536,en,7.300000000000001
 AC,AC,ORG,0.02054794520547948,0.5134132420091324,en,7.300000000000001
 Dublin Fire Brigade,Dublin Fire Brigade,ORG,0.027052982532434586,0.10661738058998334,en,7.300000000000001
 AFFES,AFFES,ORG,0.1902283105022831,0.6997260273972602,en,7.300000000000001
 MLB,MLB,ORG,0.12629721876297217,0.3840805313408053,en,7.300000000000001
-Namaygoosisagagun First Nation,Namaygoosisagagun First Nation,ORG,0.19910578386605782,0.3230593607305936,en,7.300000000000001
+Namaygoosisagagun First Nation,Namaygoosisagagun First Nation,ORG,0.19910578386605782,0.33371385083713845,en,7.300000000000001
 NSW,NSW,ORG,0.029047418630751963,0.3396745230078563,en,7.200000000000001
 GOP,GOP,ORG,0.0230838477366255,0.9820473251028805,en,7.200000000000001
 Powerball,Powerball,ORG,0.1546734955185659,0.3892872385830131,en,7.100000000000001
@@ -145,7 +145,7 @@ NAHUNTA,NAHUNTA,ORG,0.0733225108225108,0.41747835497835495,en,4.4
 Heatwaves,Heatwaves,ORG,0.0984848484848485,0.2234848484848485,en,4.3999999999999995
 Manitoba First Nation,Manitoba First Nation,ORG,0.2518645759924829,1.1290374677002584,en,4.300000000000001
 the Pacific Palisades,the Pacific Palisades,ORG,0.33139534883720934,0.5910852713178295,en,4.3
-FEMA,FEMA,ORG,0.3761706209380627,2.5579790149557593,en,4.3
+FEMA,FEMA,ORG,0.3761706209380627,2.557979014955759,en,4.3
 The New York Times,The New York Times,ORG,0.37442723389567245,1.1510908803267605,en,4.3
 Yale Climate Connections,Yale Climate Connections,ORG,0.03875968992248063,0.26744186046511625,en,4.3
 "Getty Images
@@ -417,8 +417,8 @@ El Nino,El Nino,ORG,-0.022807017543859647,0.631578947368421,en,1.900000000000000
 Riviera Country Club,Riviera Country Club,ORG,0.20509607351712614,0.17543859649122806,en,1.9000000000000001
 Nea,Nea,ORG,0.0,0.0,en,1.9
 BFMTV,BFMTV,ORG,0.0,0.0,en,1.9
+Líl̓wat Nation,Líl̓wat Nation,ORG,0.00877192982456141,0.0,en,1.9
 the Government Accountability Office,the Government Accountability Office,ORG,-0.020633971291866032,0.3098086124401914,en,1.9
-Ontario Premier,Ontario Premier,ORG,0.21929824561403508,0.2368421052631579,en,1.9
 Fury,Fury,ORG,-0.1,0.2210526315789474,en,1.9
 Holser,Holser,ORG,0.10526315789473685,0.2105263157894737,en,1.9
 Nova Scotia Supreme Court,Nova Scotia Supreme Court,ORG,0.13157894736842105,0.2748538011695907,en,1.9
@@ -427,7 +427,7 @@ Indonesia&rsquo;s Forestry Ministry,Indonesia&rsquo;s Forestry Ministry,ORG,0.29
 Cliff Chapman,Cliff Chapman,ORG,0.09868421052631579,0.5263157894736842,en,1.9
 the California Tactical Academy,the California Tactical Academy,ORG,0.10526315789473685,0.2105263157894737,en,1.9
 California Legislature,California Legislature,ORG,-0.2631578947368421,0.2105263157894737,en,1.9
-Líl̓wat Nation,Líl̓wat Nation,ORG,0.00877192982456141,0.0,en,1.9
+Ontario Premier,Ontario Premier,ORG,0.21929824561403508,0.2368421052631579,en,1.9
 Govt,Govt,ORG,0.0,0.0,en,1.9
 Met Office,Met Office,ORG,0.10964912280701755,0.0,en,1.9
 Action Plans,Action Plans,ORG,0.07017543859649122,0.21052631578947367,en,1.9
@@ -774,7 +774,7 @@ Unprecedented Wildfire,Unprecedented Wildfire,ORG,0.36653297682709446,0.25802139
 the National Association of Insurance Commissioners,the National Association of Insurance Commissioners,ORG,0.106951871657754,0.17825311942959002,en,1.7
 Carrbridge,Carrbridge,ORG,-0.32668067226890757,0.5508870214752568,en,1.7
 Bend,Bend,ORG,0.4705882352941177,0.35294117647058826,en,1.7
-ResearchBuzz,ResearchBuzz,ORG,0.5882352941176471,0.29411764705882354,en,1.7
+Jupiter Platinum Home,Jupiter Platinum Home,ORG,0.29411764705882354,0.25,en,1.7
 Nature Communications,Nature Communications,ORG,0.12344028520499109,0.6859774212715389,en,1.7
 Eaton Fire,Eaton Fire,ORG,-0.05882352941176471,0.11764705882352942,en,1.7
 Baca Counties,Baca Counties,ORG,0.0,0.0,en,1.7
@@ -782,12 +782,12 @@ The London Fire Brigade,The London Fire Brigade,ORG,-0.017156862745098027,0.4754
 Dava,Dava,ORG,-0.32668067226890757,0.5508870214752568,en,1.7
 Social Media,Social Media,ORG,-0.08823529411764708,0.19607843137254902,en,1.7
 Trail Cam SD Card Survives Wildfire and Capture Images of the Blaze,Trail Cam SD Card Survives Wildfire and Capture Images of the Blaze,ORG,-0.11344537815126052,0.34873949579831937,en,1.7
-PeopleThe New York Times,PeopleThe New York Times,ORG,0.1626559714795009,0.19184491978609627,en,1.7
 ProPublica,ProPublica,ORG,0.34313725490196084,1.1372549019607843,en,1.7
+ResearchBuzz,ResearchBuzz,ORG,0.5882352941176471,0.29411764705882354,en,1.7
 U.S. Wildland Fire Service,U.S. Wildland Fire Service,ORG,0.22727272727272727,0.19607843137254902,en,1.7
 First 3D Printed Homes Mark Construction Breakthrough,First 3D Printed Homes Mark Construction Breakthrough,ORG,0.1691176470588235,0.24019607843137256,en,1.7
+PeopleThe New York Times,PeopleThe New York Times,ORG,0.1626559714795009,0.19184491978609627,en,1.7
 Iron Fire,Iron Fire,ORG,0.1626559714795009,0.19184491978609627,en,1.7
-Jupiter Platinum Home,Jupiter Platinum Home,ORG,0.29411764705882354,0.25,en,1.7
 Central Utah Prompts Evacuation Order,Central Utah Prompts Evacuation Order,ORG,0.1214349376114082,0.19184491978609627,en,1.7
 KFF Health News,KFF Health News,ORG,0.0,0.0392156862745098,en,1.7
 the Azrieli Foundation,the Azrieli Foundation,ORG,0.27058823529411763,0.2529411764705882,en,1.7
@@ -843,8 +843,8 @@ NCT,NCT,ORG,0.6145833333333334,0.5000000000000001,en,1.6
 NBA,NBA,ORG,0.29505997474747475,2.4820864898989896,en,1.6
 St James' Park,St James' Park,ORG,0.0,0.0,en,1.6
 Boston Bar,Boston Bar,ORG,-0.2724905303030303,0.5665246212121212,en,1.6
-Giants,Giants,ORG,0.1996527777777778,0.625,en,1.6
 Transportation,Transportation,ORG,-0.125,0.0625,en,1.6
+Giants,Giants,ORG,0.1996527777777778,0.625,en,1.6
 The Conservation Regulator Victoria,The Conservation Regulator Victoria,ORG,0.21874999999999997,0.0,en,1.6
 Super Scooper,Super Scooper,ORG,0.27473958333333326,3.3715277777777772,en,1.6
 Notable Small Press Books,Notable Small Press Books,ORG,0.29971590909090906,0.48863636363636365,en,1.6
@@ -889,9 +889,9 @@ ABC News',ABC News',ORG,0.0,0.0,en,1.3
 spre,spre,ORG,0.3356643356643356,0.6958041958041957,en,1.3
 Indigenous Services,Indigenous Services,ORG,0.3846153846153846,0.2564102564102564,en,1.3
 UFRI,UFRI,ORG,0.0,0.0,en,1.3
-Filothei & Anthoupoli,Filothei & Anthoupoli,ORG,-0.4262820512820512,0.23076923076923078,en,1.3
 Utah Forest Restoration Institute,Utah Forest Restoration Institute,ORG,0.0,0.0,en,1.3
 USU,USU,ORG,0.0,0.0,en,1.3
+Filothei & Anthoupoli,Filothei & Anthoupoli,ORG,-0.4262820512820512,0.23076923076923078,en,1.3
 Multiday,Multiday,ORG,0.0,0.7692307692307692,en,1.3
 the U.S. House,the U.S. House,ORG,-0.15384615384615385,0.3076923076923077,en,1.3
 Fight for Its Entertainment Future May Tilt a Tight City Election,Fight for Its Entertainment Future May Tilt a Tight City Election,ORG,0.021978021978021973,0.23923992673992672,en,1.3
@@ -1226,9 +1226,9 @@ The Oregon Department of Environmental Quality,The Oregon Department of Environm
 Yoshiki Foundation America,Yoshiki Foundation America,ORG,-0.3333333333333333,0.0,en,1.0
 YOSHIKI Foundation America,YOSHIKI Foundation America,ORG,-0.3333333333333333,0.0,en,1.0
 Oregon Air Quality Advisory Extended Through,Oregon Air Quality Advisory Extended Through,ORG,0.3,0.0,en,1.0
-Whitestand First Nation,Whitestand First Nation,ORG,0.25,0.0,en,1.0
-Arizona Study Group Issues Report,Arizona Study Group Issues Report,ORG,0.0,0.0,en,1.0
 Gallup,Gallup,ORG,0.16666666666666666,0.0,en,1.0
+Arizona Study Group Issues Report,Arizona Study Group Issues Report,ORG,0.0,0.0,en,1.0
+Whitestand First Nation,Whitestand First Nation,ORG,0.25,0.0,en,1.0
 The North Shore Volunteer Fire Department,The North Shore Volunteer Fire Department,ORG,0.0,0.0,en,1.0
 Co Tipperary Wicklow County Council,Co Tipperary Wicklow County Council,ORG,0.037500000000000006,0.0,en,1.0
 Lincoln Memorial,Lincoln Memorial,ORG,0.1,0.0,en,1.0
@@ -1559,8 +1559,8 @@ Lung Foundation,Lung Foundation,ORG,-0.2,0.0,en,1.0
 FBM Media,FBM Media,ORG,0.0,0.0,en,1.0
 recoveryThe Washington Post,recoveryThe Washington Post,ORG,0.0,0.0,en,1.0
 medit,medit,ORG,0.0,0.0,en,1.0
-Casa de los Suenos,Casa de los Suenos,ORG,0.0,0.0,en,1.0
 OPP,OPP,ORG,0.03333333333333333,0.0,en,1.0
+Casa de los Suenos,Casa de los Suenos,ORG,0.0,0.0,en,1.0
 The Fix,The Fix,ORG,0.0,0.0,en,1.0
 AWS,AWS,ORG,-0.08437500000000002,0.0,en,1.0
 Peter Ballantyne Cree Nation reserve,Peter Ballantyne Cree Nation reserve,ORG,0.25,0.0,en,1.0
@@ -2394,9 +2394,9 @@ Lílwat Nation,Lílwat Nation,ORG,0.0,0.0,en,1.0
 "Lakeland Industries, Inc.","Lakeland Industries, Inc.",ORG,0.2,0.0,en,1.0
 Kingstone Partners,Kingstone Partners,ORG,0.0,0.0,en,1.0
 California Entry,California Entry,ORG,0.0,0.0,en,1.0
-Northwestern Ontario,Northwestern Ontario,ORG,0.1,0.0,en,1.0
+Armstrong,Armstrong,ORG,0.0,0.0,en,1.0
 Sunland-Tujunga,Sunland-Tujunga,ORG,0.0,0.0,en,1.0
-Collins First Nation,Collins First Nation,ORG,0.25,0.0,en,1.0
+Ontarios Ministry of Natural Resources,Ontarios Ministry of Natural Resources,ORG,-0.016666666666666663,0.0,en,1.0
 The Oregon Court of Appeals,The Oregon Court of Appeals,ORG,0.0,0.0,en,1.0
 Spokane Area Fires,Spokane Area Fires,ORG,0.1388888888888889,0.0,en,1.0
 Berkshire-Owned,Berkshire-Owned,ORG,0.3,0.0,en,1.0
@@ -2404,7 +2404,7 @@ The Flatwater Free Press,The Flatwater Free Press,ORG,0.23106060606060605,0.0,en
 Nebraskas,Nebraskas,ORG,0.23106060606060605,0.0,en,1.0
 The New Yorker,The New Yorker,ORG,0.21103896103896103,0.0,en,1.0
 VictimsNew York Post,VictimsNew York Post,ORG,0.0,0.0,en,1.0
-Parks,Parks,ORG,0.0,0.0,en,1.0
+Lac des Mille Lacs,Lac des Mille Lacs,ORG,0.1,0.0,en,1.0
 Pacific Gas & Electric,Pacific Gas & Electric,ORG,-0.1534090909090909,0.0,en,1.0
 Berkshire electric utility's,Berkshire electric utility's,ORG,0.8,0.0,en,1.0
 firesKXLY.com Firefighters,firesKXLY.com Firefighters,ORG,0.1388888888888889,0.0,en,1.0
@@ -2412,11 +2412,11 @@ the Warren Buffett Watch,the Warren Buffett Watch,ORG,0.0,0.0,en,1.0
 PacifiCor,PacifiCor,ORG,0.0,0.0,en,1.0
 the National Disaster Risk Reduction and Management Authority,the National Disaster Risk Reduction and Management Authority,ORG,-0.03,0.0,en,1.0
 the National Disaster Risk Re,the National Disaster Risk Re,ORG,0.0,0.0,en,1.0
-Armstrong,Armstrong,ORG,0.0,0.0,en,1.0
-Lac des Mille Lacs,Lac des Mille Lacs,ORG,0.1,0.0,en,1.0
-Ontarios Ministry of Natural Resources,Ontarios Ministry of Natural Resources,ORG,-0.016666666666666663,0.0,en,1.0
+Northwestern Ontario,Northwestern Ontario,ORG,0.1,0.0,en,1.0
+2nd First Nation community,2nd First Nation community,ORG,0.02777777777777778,0.0,en,1.0
+Parks,Parks,ORG,0.0,0.0,en,1.0
 GAO,GAO,ORG,0.0,0.0,en,1.0
-Whitewater Lake Firs,Whitewater Lake Firs,ORG,0.0,0.0,en,1.0
+Collins First Nation,Collins First Nation,ORG,0.25,0.0,en,1.0
 The Squamish-Lillooet Regional D,The Squamish-Lillooet Regional D,ORG,0.0,0.0,en,1.0
 Area C,Area C,ORG,0.0,0.0,en,1.0
 Coillte mill,Coillte mill,ORG,0.0,0.0,en,1.0
@@ -2430,8 +2430,8 @@ Alberta Forestry,Alberta Forestry,ORG,0.0,0.0,en,1.0
 Oregon Wildfires,Oregon Wildfires,ORG,0.5,0.0,en,1.0
 Cal State San Marcos,Cal State San Marcos,ORG,-0.10000000000000002,0.0,en,1.0
 the Environmental Protection Agency,the Environmental Protection Agency,ORG,0.125,0.0,en,1.0
+Whitewater Lake Firs,Whitewater Lake Firs,ORG,0.0,0.0,en,1.0
 Whitewater Lake First Nation,Whitewater Lake First Nation,ORG,0.25,0.0,en,1.0
-2nd First Nation community,2nd First Nation community,ORG,0.02777777777777778,0.0,en,1.0
 Helicopter,Helicopter,ORG,0.0,0.0,en,1.0
 KOMO,KOMO,ORG,0.05555555555555555,0.0,en,1.0
 MGA,MGA,ORG,0.2215909090909091,0.0,en,1.0
@@ -3772,8 +3772,8 @@ RRA,RRA,ORG,0.0,0.0,en,1.0
 L.A. Wildfires Broke Record for Costliest Insured Fire Losses Ever,L.A. Wildfires Broke Record for Costliest Insured Fire Losses Ever,ORG,0.0,0.0,en,1.0
 L.A. Wildfires Broke Record for Costliest Insured Fi,L.A. Wildfires Broke Record for Costliest Insured Fi,ORG,0.13636363636363635,0.0,en,1.0
 Vox.com,Vox.com,ORG,0.375,0.0,en,1.0
-Musgrave Harbour,Musgrave Harbour,ORG,0.0,0.0,en,1.0
 "The Department of Fisheries, Forestry and Agriculture","The Department of Fisheries, Forestry and Agriculture",ORG,0.0,0.0,en,1.0
+Musgrave Harbour,Musgrave Harbour,ORG,0.0,0.0,en,1.0
 Rescue Department,Rescue Department,ORG,-0.1325,0.25000000000000006,en,1.0
 Gimli,Gimli,ORG,-0.30000000000000004,0.0,en,1.0
 STATE TIMES NEWS KISHTWAR,STATE TIMES NEWS KISHTWAR,ORG,0.0,0.0,en,1.0
@@ -4746,10 +4746,10 @@ Property Insurance Crisis And The Path to Reform,Property Insurance Crisis And T
 Peguis First Nation,Peguis First Nation,ORG,0.5,1.3333333333333333,en,1.0
 The First Nation,The First Nation,ORG,0.25,0.0,en,1.0
 Peguis Juniors,Peguis Juniors,ORG,0.25,0.0,en,1.0
-Maureen,Maureen,ORG,-0.34166666666666673,0.3,en,1.0
-Cliff Buettner,Cliff Buettner,ORG,0.0,0.0,en,1.0
-Sturgeon Landing,Sturgeon Landing,ORG,0.0,0.0,en,1.0
 the Saskatchewan Public Safe,the Saskatchewan Public Safe,ORG,0.0,0.0,en,1.0
+Cliff Buettner,Cliff Buettner,ORG,0.0,0.0,en,1.0
+Maureen,Maureen,ORG,-0.34166666666666673,0.3,en,1.0
+Sturgeon Landing,Sturgeon Landing,ORG,0.0,0.0,en,1.0
 Co-Founder of AiDash,Co-Founder of AiDash,ORG,0.0,0.0,en,1.0
 Forcing Provinces into State of Emergency,Forcing Provinces into State of Emergency,ORG,0.0,0.0,en,1.0
 LongformHeavier,LongformHeavier,ORG,-0.2,0.0,en,1.0
@@ -4786,7 +4786,7 @@ Jerusalem Forest,Jerusalem Forest,ORG,0.0,0.0,en,1.0
 Shlomo Tzemach Street,Shlomo Tzemach Street,ORG,0.1,0.0,en,1.0
 The Fire and Rescue Service,The Fire and Rescue Service,ORG,0.2,0.0,en,1.0
 Rou,Rou,ORG,0.0,0.0,en,1.0
-the Saskatchewan Public Safety Agency,the Saskatchewan Public Safety Agency,ORG,-0.16736111111111115,0.9326388888888888,en,1.0
+the Saskatchewan Public Safety Agency,the Saskatchewan Public Safety Agency,ORG,-0.16736111111111115,0.9326388888888889,en,1.0
 SPSA,SPSA,ORG,-0.044444444444444446,0.3,en,1.0
 Canadian Natural Resources Ltd.,Canadian Natural Resources Ltd.,ORG,0.44999999999999996,1.0999999999999999,en,1.0
 "USGS
