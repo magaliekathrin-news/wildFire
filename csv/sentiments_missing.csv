@@ -192,8 +192,8 @@ more than a dozen,more than a dozen,CARDINAL,,,en,7.800000000000002
 the FIFA World Cup,the FIFA World Cup,EVENT,,,en,7.800000000000001
 June,June,DATE,,,en,7.799999999999999
 around 1850,around 1850,DATE,,,en,7.799999999999999
-Twelve,Twelve,CARDINAL,,,en,7.700000000000001
 "Jan. 7, 2025","Jan. 7, 2025",DATE,,,en,7.700000000000001
+Twelve,Twelve,CARDINAL,,,en,7.700000000000001
 Summer,Summer,DATE,,,en,7.7
 "55,000","55,000",CARDINAL,,,en,7.600000000000001
 29,29,CARDINAL,,,en,7.500000000000001
@@ -201,140 +201,140 @@ this morning,this morning,TIME,,,en,7.400000000000001
 Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,7.400000000000001
 4,4,CARDINAL,,,en,7.400000000000001
 2016,2016,DATE,,,en,7.300000000000001
-July 2026,July 2026,DATE,,,en,7.300000000000001
-11 days,11 days,DATE,,,en,7.300000000000001
-31 square miles,31 square miles,QUANTITY,,,en,7.300000000000001
-Sandy Fire,Sandy Fire,FAC,,,en,7.300000000000001
 25,25,CARDINAL,,,en,7.300000000000001
+Sandy Fire,Sandy Fire,FAC,,,en,7.300000000000001
+31 square miles,31 square miles,QUANTITY,,,en,7.300000000000001
+July 2026,July 2026,DATE,,,en,7.300000000000001
 over 30 years,over 30 years,DATE,,,en,7.300000000000001
-eight,eight,CARDINAL,,,en,7.200000000000001
+11 days,11 days,DATE,,,en,7.300000000000001
 the Black Summer,the Black Summer,DATE,,,en,7.200000000000001
 the past decade,the past decade,DATE,,,en,7.200000000000001
+eight,eight,CARDINAL,,,en,7.200000000000001
 the 1980s,the 1980s,DATE,,,en,7.2
-21,21,CARDINAL,,,en,7.100000000000001
 Sunday night,Sunday night,TIME,,,en,7.100000000000001
+21,21,CARDINAL,,,en,7.100000000000001
 Hawaiian,Hawaiian,NORP,,,en,7.1000000000000005
 August,August,DATE,,,en,7.1000000000000005
+week,week,DATE,,,en,7.000000000000001
 MetLife Stadium,MetLife Stadium,FAC,,,en,7.000000000000001
 100,100,MONEY,,,en,7.000000000000001
-week,week,DATE,,,en,7.000000000000001
 The World Cup,The World Cup,EVENT,,,en,7.0
-July 25,July 25,DATE,,,en,6.9
 every year,every year,DATE,,,en,6.9
+July 25,July 25,DATE,,,en,6.9
 tonight,tonight,TIME,,,en,6.800000000000002
 Six,Six,CARDINAL,,,en,6.800000000000002
-September,September,DATE,,,en,6.700000000000001
 112,112,CARDINAL,,,en,6.700000000000001
+September,September,DATE,,,en,6.700000000000001
+30,30,CARDINAL,,,en,6.7
 9,9,CARDINAL,,,en,6.7
 $2 billion,$2 billion,MONEY,,,en,6.7
-30,30,CARDINAL,,,en,6.7
 Scottish,Scottish,NORP,,,en,6.6000000000000005
 Five,Five,CARDINAL,,,en,6.500000000000001
-Fort Hood,Fort Hood,FAC,,,en,6.4
+About 150,About 150,CARDINAL,,,en,6.4
+150,150,CARDINAL,,,en,6.4
+a century,a century,DATE,,,en,6.4
+Weeks,Weeks,DATE,,,en,6.4
 Fewer than a dozen,Fewer than a dozen,CARDINAL,,,en,6.4
 "50,000","50,000",MONEY,,,en,6.4
-more than 50,more than 50,CARDINAL,,,en,6.4
-Weeks,Weeks,DATE,,,en,6.4
-a century,a century,DATE,,,en,6.4
 more than a week,more than a week,DATE,,,en,6.4
-150,150,CARDINAL,,,en,6.4
-About 150,About 150,CARDINAL,,,en,6.4
+more than 50,more than 50,CARDINAL,,,en,6.4
+Fort Hood,Fort Hood,FAC,,,en,6.4
 "3,000","3,000",CARDINAL,,,en,6.4
-last summer,last summer,DATE,,,en,6.300000000000001
 Months,Months,DATE,,,en,6.300000000000001
-30%,30%,PERCENT,,,en,6.200000000000001
+last summer,last summer,DATE,,,en,6.300000000000001
 the Eaton Fire,the Eaton Fire,FAC,,,en,6.200000000000001
+30%,30%,PERCENT,,,en,6.200000000000001
 "1,200","1,200",CARDINAL,,,en,6.200000000000001
-spring,spring,DATE,,,en,6.2
 the last week,the last week,DATE,,,en,6.2
 249,249,CARDINAL,,,en,6.2
-Israeli,Israeli,NORP,,,en,6.1000000000000005
-at least two,at least two,CARDINAL,,,en,6.1000000000000005
+spring,spring,DATE,,,en,6.2
 "1,000","1,000",CARDINAL,,,en,6.1000000000000005
+at least two,at least two,CARDINAL,,,en,6.1000000000000005
+Israeli,Israeli,NORP,,,en,6.1000000000000005
 at least one,at least one,CARDINAL,,,en,6.000000000000001
 "300,000","300,000",MONEY,,,en,6.0
 a day,a day,DATE,,,en,6.0
 more than a year,more than a year,DATE,,,en,5.800000000000001
-"more than 10,000","more than 10,000",CARDINAL,,,en,5.800000000000001
 noon,noon,TIME,,,en,5.800000000000001
+"more than 10,000","more than 10,000",CARDINAL,,,en,5.800000000000001
+190,190,CARDINAL,,,en,5.8
 "more than 250,000","more than 250,000",CARDINAL,,,en,5.8
 fifth,fifth,ORDINAL,,,en,5.8
-millions of dollars,millions of dollars,MONEY,,,en,5.8
 50,50,MONEY,,,en,5.8
-190,190,CARDINAL,,,en,5.8
 Killarney National Park,Killarney National Park,FAC,,,en,5.8
+millions of dollars,millions of dollars,MONEY,,,en,5.8
 Wednesday evening,Wednesday evening,TIME,,,en,5.7
-41,41,CARDINAL,,,en,5.6000000000000005
-more than 200,more than 200,CARDINAL,,,en,5.6000000000000005
 "nearly 4,000","nearly 4,000",CARDINAL,,,en,5.6000000000000005
+more than 200,more than 200,CARDINAL,,,en,5.6000000000000005
+41,41,CARDINAL,,,en,5.6000000000000005
 a week,a week,DATE,,,en,5.6000000000000005
+Britons,Britons,NORP,,,en,5.5
+several days,several days,DATE,,,en,5.5
 47,47,CARDINAL,,,en,5.5
 the Pacific Palisades,the Pacific Palisades,FAC,-1.5271173271173273,2.3509906759906767,en,5.5
-tomorrow,tomorrow,DATE,,,en,5.5
-65,65,DATE,,,en,5.5
-$2 million,$2 million,MONEY,,,en,5.5
-a day earlier,a day earlier,DATE,,,en,5.5
-fewer than a dozen,fewer than a dozen,CARDINAL,,,en,5.5
-several days,several days,DATE,,,en,5.5
-Britons,Britons,NORP,,,en,5.5
 the coming days,the coming days,DATE,,,en,5.5
 last years,last years,DATE,,,en,5.5
+65,65,DATE,,,en,5.5
 122,122,CARDINAL,,,en,5.5
-Jan 27,Jan 27,DATE,,,en,5.5
-Southern Californians,Southern Californians,NORP,,,en,5.5
-Balkans,Balkans,NORP,0.1801470588235294,0.2882352941176471,en,5.5
-42,42,CARDINAL,,,en,5.5
 another day,another day,DATE,,,en,5.5
 a fifth day,a fifth day,DATE,,,en,5.5
+fewer than a dozen,fewer than a dozen,CARDINAL,,,en,5.5
 Croatian,Croatian,NORP,,,en,5.5
+a day earlier,a day earlier,DATE,,,en,5.5
 year-end,year-end,DATE,,,en,5.5
-"more than 16,000","more than 16,000",CARDINAL,,,en,5.4
+Balkans,Balkans,NORP,0.1801470588235294,0.2882352941176471,en,5.5
+Southern Californians,Southern Californians,NORP,,,en,5.5
+$2 million,$2 million,MONEY,,,en,5.5
+Jan 27,Jan 27,DATE,,,en,5.5
+42,42,CARDINAL,,,en,5.5
+tomorrow,tomorrow,DATE,,,en,5.5
 $100 million,$100 million,MONEY,,,en,5.4
-43,43,CARDINAL,,,en,5.300000000000001
-the past year,the past year,DATE,,,en,5.300000000000001
-six months,six months,DATE,,,en,5.300000000000001
-Aug. 13,Aug. 13,DATE,,,en,5.300000000000001
+"more than 16,000","more than 16,000",CARDINAL,,,en,5.4
 later into the night,later into the night,TIME,,,en,5.300000000000001
+the past year,the past year,DATE,,,en,5.300000000000001
+Aug. 13,Aug. 13,DATE,,,en,5.300000000000001
+43,43,CARDINAL,,,en,5.300000000000001
+six months,six months,DATE,,,en,5.300000000000001
 one-year anniversary,one-year anniversary,DATE,,,en,5.300000000000001
-one-year,one-year,DATE,,,en,5.3
 English,English,LANGUAGE,,,en,5.3
+one-year,one-year,DATE,,,en,5.3
 Fort Simpson,Fort Simpson,FAC,-0.006442080378250585,0.3078605200945625,en,5.2
 8,8,CARDINAL,,,en,5.2
 14,14,DATE,,,en,5.2
 hundreds of acres,hundreds of acres,QUANTITY,,,en,5.1000000000000005
 this month,this month,DATE,,,en,5.1
-22,22,CARDINAL,,,en,5.0
-Grand Canyon National Park,Grand Canyon National Park,FAC,,,en,5.0
-"100,000","100,000",MONEY,,,en,5.0
-28,28,CARDINAL,,,en,5.0
 two dozen,two dozen,CARDINAL,,,en,5.0
-the last decade,the last decade,DATE,,,en,4.9
-Last year,Last year,DATE,,,en,4.9
-202,202,CARDINAL,,,en,4.9
+28,28,CARDINAL,,,en,5.0
+"100,000","100,000",MONEY,,,en,5.0
+Grand Canyon National Park,Grand Canyon National Park,FAC,,,en,5.0
+22,22,CARDINAL,,,en,5.0
 85,85,CARDINAL,,,en,4.9
+202,202,CARDINAL,,,en,4.9
+Last year,Last year,DATE,,,en,4.9
+the last decade,the last decade,DATE,,,en,4.9
 Seven,Seven,CARDINAL,,,en,4.8999999999999995
-about $640 million,about $640 million,MONEY,,,en,4.8999999999999995
 two weeks,two weeks,DATE,,,en,4.8999999999999995
-two decades,two decades,DATE,,,en,4.8
+about $640 million,about $640 million,MONEY,,,en,4.8999999999999995
 This year,This year,DATE,,,en,4.8
+two decades,two decades,DATE,,,en,4.8
+Camp Fire,Camp Fire,FAC,,,en,4.7
 the night,the night,TIME,,,en,4.7
 around 10 a.m.,around 10 a.m.,TIME,,,en,4.7
 that days later,that days later,DATE,,,en,4.7
 Yosemite National Park,Yosemite National Park,FAC,0.40175438596491225,1.5546783625730993,en,4.7
 this spring,this spring,DATE,,,en,4.7
-Camp Fire,Camp Fire,FAC,,,en,4.7
-at least 20,at least 20,CARDINAL,,,en,4.6
 July 23,July 23,DATE,,,en,4.6
-2027,2027,DATE,,,en,4.6
-more than a decade,more than a decade,DATE,,,en,4.6
+At least six,At least six,CARDINAL,,,en,4.6
 August 2023,August 2023,DATE,,,en,4.6
+|,|,DATE,,,en,4.6
+at least 20,at least 20,CARDINAL,,,en,4.6
+40C.,40C.,CARDINAL,,,en,4.6
+more than a decade,more than a decade,DATE,,,en,4.6
 "more than 25,000 acres","more than 25,000 acres",QUANTITY,,,en,4.6
 last night,last night,TIME,,,en,4.6
-|,|,DATE,,,en,4.6
-40C.,40C.,CARDINAL,,,en,4.6
-At least six,At least six,CARDINAL,,,en,4.6
+2027,2027,DATE,,,en,4.6
 403,403,CARDINAL,,,en,4.6
-July 28,July 28,DATE,,,en,4.6
+about 150,about 150,CARDINAL,,,en,4.6
 a second day,a second day,DATE,,,en,4.6
 just days,just days,DATE,,,en,4.6
 38C,38C,QUANTITY,,,en,4.6
@@ -345,20 +345,20 @@ more than $1 billion,more than $1 billion,MONEY,,,en,4.6
 2006,2006,DATE,,,en,4.6
 Jan. 7,Jan. 7,DATE,,,en,4.6
 "around 2,700 hectares","around 2,700 hectares",QUANTITY,,,en,4.6
-about 150,about 150,CARDINAL,,,en,4.6
+July 28,July 28,DATE,,,en,4.6
+at least six,at least six,CARDINAL,,,en,4.6
 35C,35C,CARDINAL,,,en,4.6
 shire,shire,NORP,,,en,4.6
 Wednesday night,Wednesday night,TIME,,,en,4.6
 more than 300,more than 300,CARDINAL,,,en,4.6
-at least six,at least six,CARDINAL,,,en,4.6
 Every year,Every year,DATE,,,en,4.5
-Democrat,Democrat,NORP,,,en,4.5
 the same day,the same day,DATE,,,en,4.5
 two days,two days,DATE,,,en,4.5
 24,24,CARDINAL,,,en,4.5
-nearly 50,nearly 50,CARDINAL,,,en,4.5
 July 4,July 4,DATE,,,en,4.5
+Democrat,Democrat,NORP,,,en,4.5
 April,April,DATE,,,en,4.5
+nearly 50,nearly 50,CARDINAL,,,en,4.5
 "250,000","250,000",CARDINAL,,,en,4.4
 More than 500,More than 500,CARDINAL,,,en,4.4
 around 40,around 40,CARDINAL,,,en,4.4
@@ -488,9 +488,9 @@ at least 30,at least 30,CARDINAL,,,en,3.5
 1.4 million,1.4 million,CARDINAL,,,en,3.5
 40 per cent,40 per cent,MONEY,,,en,3.5
 140,140,CARDINAL,,,en,3.5
-"9,000","9,000",CARDINAL,,,en,3.5
-40 hectares,40 hectares,QUANTITY,,,en,3.5
 the end of June,the end of June,DATE,,,en,3.5
+40 hectares,40 hectares,QUANTITY,,,en,3.5
+"9,000","9,000",CARDINAL,,,en,3.5
 40%,40%,PERCENT,,,en,3.5
 0%,0%,PERCENT,,,en,3.5
 "more than 9,400","more than 9,400",CARDINAL,,,en,3.5
@@ -551,34 +551,33 @@ Week,Week,DATE,,,en,3.0
 Native,Native,NORP,,,en,3.0
 37,37,CARDINAL,,,en,3.0
 three months,three months,DATE,,,en,2.9000000000000004
-Indian,Indian,NORP,,,en,2.9
-Pacific Palisades,Pacific Palisades,FAC,0.044067062880622225,0.08318291877613916,en,2.9
-at least eight,at least eight,CARDINAL,,,en,2.9
-Italian,Italian,NORP,,,en,2.9
 South Korean,South Korean,NORP,,,en,2.9
+at least eight,at least eight,CARDINAL,,,en,2.9
+Pacific Palisades,Pacific Palisades,FAC,0.044067062880622225,0.08318291877613916,en,2.9
+Italian,Italian,NORP,,,en,2.9
+Indian,Indian,NORP,,,en,2.9
 Last week,Last week,DATE,,,en,2.9
-Nearly a year,Nearly a year,DATE,,,en,2.8000000000000003
 next year,next year,DATE,,,en,2.8000000000000003
+Nearly a year,Nearly a year,DATE,,,en,2.8000000000000003
 Christmas,Christmas,DATE,,,en,2.8
-Winter,Winter,DATE,,,en,2.8
-summer 2026,summer 2026,DATE,,,en,2.8
+"1,600 hectares","1,600 hectares",QUANTITY,,,en,2.8
 "over 20,000","over 20,000",CARDINAL,,,en,2.8
 Fourth,Fourth,ORDINAL,,,en,2.8
 45,45,CARDINAL,,,en,2.8
+Winter,Winter,DATE,,,en,2.8
 +3934,+3934,NORP,,,en,2.8
-$220 billion,$220 billion,MONEY,,,en,2.8
-Aug 15,Aug 15,DATE,,,en,2.8
 two months,two months,DATE,,,en,2.8
+Aug 15,Aug 15,DATE,,,en,2.8
+crucial hours,crucial hours,TIME,,,en,2.8
 "270,000","270,000",CARDINAL,,,en,2.8
-Jan. 11,Jan. 11,DATE,,,en,2.8
+$220 billion,$220 billion,MONEY,,,en,2.8
 a dozen,a dozen,CARDINAL,,,en,2.8
 $500 million,$500 million,MONEY,,,en,2.8
 1984,1984,DATE,,,en,2.8
-crucial hours,crucial hours,TIME,,,en,2.8
 Andalusian,Andalusian,NORP,,,en,2.8
 This summer,This summer,DATE,,,en,2.8
-July 24,July 24,DATE,,,en,2.8
-Earth Fire Alliance,Earth Fire Alliance,FAC,,,en,2.8
+Jan. 11,Jan. 11,DATE,,,en,2.8
+24 hours,24 hours,TIME,,,en,2.8
 Co Down,Co Down,FAC,-0.15893901420217216,0.6689640768588138,en,2.8
 each summer,each summer,DATE,,,en,2.8
 at least 40,at least 40,CARDINAL,,,en,2.8
@@ -586,14 +585,15 @@ at least 40,at least 40,CARDINAL,,,en,2.8
 the past 24 hours,the past 24 hours,TIME,,,en,2.8
 World War,World War,EVENT,,,en,2.8
 60,60,MONEY,,,en,2.8
-24 hours,24 hours,TIME,,,en,2.8
 "5,019","5,019",CARDINAL,,,en,2.8
+July 24,July 24,DATE,,,en,2.8
 Aug 13,Aug 13,DATE,,,en,2.8
 139,139,CARDINAL,,,en,2.8
-"1,600 hectares","1,600 hectares",QUANTITY,,,en,2.8
+summer 2026,summer 2026,DATE,,,en,2.8
 Aug. 5,Aug. 5,DATE,,,en,2.8
 84,84,CARDINAL,,,en,2.8
 "May 12, 2026 /PRNewswire/","May 12, 2026 /PRNewswire/",DATE,,,en,2.8
+Earth Fire Alliance,Earth Fire Alliance,FAC,,,en,2.8
 every summer,every summer,DATE,,,en,2.8
 Tuesday afternoon,Tuesday afternoon,TIME,,,en,2.8
 South Australian,South Australian,NORP,,,en,2.8
@@ -731,21 +731,21 @@ Maui,Maui,FAC,0.014847512038523272,0.11396468699839485,en,2.8
 Interstate 25,Interstate 25,FAC,,,en,2.8
 August 2025,August 2025,DATE,,,en,2.8
 last Thursday,last Thursday,DATE,,,en,2.8
-a devastating year,a devastating year,DATE,,,en,2.8
+"June 7, 2023","June 7, 2023",DATE,,,en,2.8
 "More than 1,000","More than 1,000",CARDINAL,,,en,2.8
 2014,2014,DATE,,,en,2.8
-"June 7, 2023","June 7, 2023",DATE,,,en,2.8
 Last year's,Last year's,DATE,,,en,2.8
+a devastating year,a devastating year,DATE,,,en,2.8
 "1,633 hectares","1,633 hectares",QUANTITY,,,en,2.8
 "80,000","80,000",CARDINAL,,,en,2.8
 Black Saturday,Black Saturday,EVENT,,,en,2.8
 "about 198,000","about 198,000",CARDINAL,,,en,2.8
 102,102,CARDINAL,,,en,2.8
-Nearly 100,Nearly 100,CARDINAL,,,en,2.8
 the NSW Mid North Coast,the NSW Mid North Coast,FAC,,,en,2.8
 previous years,previous years,DATE,,,en,2.8
 About 800,About 800,CARDINAL,,,en,2.8
 442,442,CARDINAL,,,en,2.8
+Nearly 100,Nearly 100,CARDINAL,,,en,2.8
 $305 million,$305 million,MONEY,,,en,2.8
 last spring,last spring,DATE,,,en,2.8
 thousands of years,thousands of years,DATE,,,en,2.7
@@ -761,8 +761,8 @@ Earlier this year,Earlier this year,DATE,,,en,2.7
 911,911,CARDINAL,,,en,2.6
 the last few years,the last few years,DATE,,,en,2.6
 more than 100 acres,more than 100 acres,QUANTITY,,,en,2.6
-"11,000","11,000",CARDINAL,,,en,2.6
 over millions,over millions,CARDINAL,,,en,2.6
+"11,000","11,000",CARDINAL,,,en,2.6
 last January,last January,DATE,,,en,2.6
 237,237,CARDINAL,,,en,2.6
 just before 7 p.m.,just before 7 p.m.,TIME,,,en,2.6
@@ -773,132 +773,132 @@ Galician,Galician,NORP,,,en,2.6
 88%,88%,PERCENT,,,en,2.6
 May,May,DATE,,,en,2.6
 +1885 chars,+1885 chars,WORK_OF_ART,,,en,2.6
-July 22,July 22,DATE,,,en,2.6
-44C,44C,CARDINAL,,,en,2.6
-more than 700,more than 700,CARDINAL,,,en,2.6
-+6410 chars,+6410 chars,WORK_OF_ART,,,en,2.6
 FIRST,FIRST,ORDINAL,,,en,2.6
 August 2021,August 2021,DATE,,,en,2.6
+44C,44C,CARDINAL,,,en,2.6
++6410 chars,+6410 chars,WORK_OF_ART,,,en,2.6
+more than 700,more than 700,CARDINAL,,,en,2.6
+July 22,July 22,DATE,,,en,2.6
 decades ago,decades ago,DATE,,,en,2.6
 the Oldfield Road,the Oldfield Road,FAC,,,en,2.6
-Late last month,Late last month,DATE,,,en,2.5999999999999996
+multimillion-dollar,multimillion-dollar,MONEY,,,en,2.5999999999999996
 five years,five years,DATE,,,en,2.5999999999999996
 251,251,CARDINAL,,,en,2.5999999999999996
-multimillion-dollar,multimillion-dollar,MONEY,,,en,2.5999999999999996
+June 8,June 8,DATE,,,en,2.5999999999999996
+"42,000 hectares","42,000 hectares",QUANTITY,,,en,2.5999999999999996
 WWII,WWII,EVENT,,,en,2.5999999999999996
 about 15km,about 15km,QUANTITY,,,en,2.5999999999999996
-Jan. 1,Jan. 1,DATE,,,en,2.5999999999999996
-"June 8, 2026 /PRNewswire/","June 8, 2026 /PRNewswire/",DATE,,,en,2.5999999999999996
-June 8,June 8,DATE,,,en,2.5999999999999996
 April 30,April 30,DATE,,,en,2.5999999999999996
-"42,000 hectares","42,000 hectares",QUANTITY,,,en,2.5999999999999996
-More than a year,More than a year,DATE,,,en,2.5999999999999996
-52,52,DATE,,,en,2.5999999999999996
-Nearly one year,Nearly one year,DATE,,,en,2.5999999999999996
 the Pacific Highway,the Pacific Highway,FAC,,,en,2.5999999999999996
-Ten,Ten,CARDINAL,,,en,2.5
+52,52,DATE,,,en,2.5999999999999996
+"June 8, 2026 /PRNewswire/","June 8, 2026 /PRNewswire/",DATE,,,en,2.5999999999999996
+More than a year,More than a year,DATE,,,en,2.5999999999999996
+Late last month,Late last month,DATE,,,en,2.5999999999999996
+Nearly one year,Nearly one year,DATE,,,en,2.5999999999999996
+Jan. 1,Jan. 1,DATE,,,en,2.5999999999999996
+10%,10%,PERCENT,,,en,2.5
+July 30,July 30,DATE,,,en,2.5
 Third,Third,ORDINAL,,,en,2.5
 Earlier this summer,Earlier this summer,DATE,,,en,2.5
-July 30,July 30,DATE,,,en,2.5
-the school year,the school year,DATE,,,en,2.5
-2011,2011,DATE,,,en,2.5
 the last month,the last month,DATE,,,en,2.5
+the end of September,the end of September,DATE,,,en,2.5
+2011,2011,DATE,,,en,2.5
+Ten,Ten,CARDINAL,,,en,2.5
+3rd,3rd,ORDINAL,,,en,2.5
+the school year,the school year,DATE,,,en,2.5
 "1,500","1,500",CARDINAL,,,en,2.5
 the last four decades,the last four decades,DATE,,,en,2.5
-10%,10%,PERCENT,,,en,2.5
-the end of September,the end of September,DATE,,,en,2.5
-3rd,3rd,ORDINAL,,,en,2.5
 1996,1996,DATE,,,en,2.5
-Rose Bowl,Rose Bowl,EVENT,,,en,2.4
 the San Gabriel Mountains,the San Gabriel Mountains,FAC,,,en,2.4
-Tomorrow,Tomorrow,DATE,,,en,2.4
-92%,92%,PERCENT,,,en,2.4
-the coming week,the coming week,DATE,,,en,2.4
-the coming years,the coming years,DATE,,,en,2.4
-January 16,January 16,DATE,,,en,2.4
-more than $4 billion,more than $4 billion,MONEY,,,en,2.4
+Rose Bowl,Rose Bowl,EVENT,,,en,2.4
+the 1970s,the 1970s,DATE,,,en,2.4
 "nearly 260,000","nearly 260,000",CARDINAL,,,en,2.4
 Kalamoir Regional Park,Kalamoir Regional Park,FAC,,,en,2.4
+January 16,January 16,DATE,,,en,2.4
+more than $4 billion,more than $4 billion,MONEY,,,en,2.4
+the coming week,the coming week,DATE,,,en,2.4
+the coming years,the coming years,DATE,,,en,2.4
+92%,92%,PERCENT,,,en,2.4
+Tomorrow,Tomorrow,DATE,,,en,2.4
 Aug 14,Aug 14,DATE,,,en,2.4
 New Years Day,New Years Day,EVENT,,,en,2.4
-$9 billion,$9 billion,MONEY,,,en,2.4
+February 3,February 3,DATE,,,en,2.4
 Apple TV+,Apple TV+,PRODUCT,,,en,2.4
-the 1970s,the 1970s,DATE,,,en,2.4
-Native American,Native American,NORP,,,en,2.4
-$3.46 billion,$3.46 billion,MONEY,,,en,2.4
 early August,early August,DATE,,,en,2.4
 nearly 20,nearly 20,CARDINAL,,,en,2.4
+Native American,Native American,NORP,,,en,2.4
+$3.46 billion,$3.46 billion,MONEY,,,en,2.4
+$9 billion,$9 billion,MONEY,,,en,2.4
 83%,83%,PERCENT,,,en,2.4
-February 3,February 3,DATE,,,en,2.4
 Tuesday morning,Tuesday morning,TIME,,,en,2.4
 at least 700,at least 700,CARDINAL,,,en,2.3
 the Week,the Week,DATE,,,en,2.3
-1980,1980,DATE,,,en,2.2
 100 million,100 million,CARDINAL,,,en,2.2
-"September 5, 2020","September 5, 2020",DATE,,,en,2.2
-NewsFeed,NewsFeed,NORP,,,en,2.2
-three-year-old,three-year-old,DATE,,,en,2.2
 Dems,Dems,NORP,,,en,2.2
+"September 5, 2020","September 5, 2020",DATE,,,en,2.2
+1980,1980,DATE,,,en,2.2
+three-year-old,three-year-old,DATE,,,en,2.2
+NewsFeed,NewsFeed,NORP,,,en,2.2
 the second half of the year,the second half of the year,DATE,,,en,2.2
 more than three weeks,more than three weeks,DATE,,,en,2.2
-2000,2000,DATE,,,en,2.1999999999999997
-July 4th,July 4th,DATE,,,en,2.1999999999999997
 50%,50%,PERCENT,,,en,2.1999999999999997
 62,62,CARDINAL,,,en,2.1999999999999997
-November,November,DATE,,,en,2.1999999999999997
+2000,2000,DATE,,,en,2.1999999999999997
+July 4th,July 4th,DATE,,,en,2.1999999999999997
 Thanksgiving,Thanksgiving,DATE,,,en,2.1999999999999997
+November,November,DATE,,,en,2.1999999999999997
+every day,every day,DATE,,,en,2.1
 The Lost Bus’ Review,The Lost Bus’ Review,WORK_OF_ART,,,en,2.1
 Tuesday night,Tuesday night,TIME,,,en,2.1
-every day,every day,DATE,,,en,2.1
-+4609,+4609,NORP,,,en,2.0
-The Clean Air Act Is Making Our Air Dirtier,The Clean Air Act Is Making Our Air Dirtier,LAW,,,en,2.0
-last month’s,last month’s,DATE,,,en,2.0
-Califor,Califor,FAC,,,en,2.0
-This week,This week,DATE,,,en,2.0
 "About 1,400","About 1,400",CARDINAL,,,en,2.0
-several dozen,several dozen,CARDINAL,,,en,2.0
+This week,This week,DATE,,,en,2.0
 34,34,CARDINAL,,,en,2.0
+Califor,Califor,FAC,,,en,2.0
++4609,+4609,NORP,,,en,2.0
+last month’s,last month’s,DATE,,,en,2.0
+The Clean Air Act Is Making Our Air Dirtier,The Clean Air Act Is Making Our Air Dirtier,LAW,,,en,2.0
+several dozen,several dozen,CARDINAL,,,en,2.0
 78,78,DATE,,,en,2.0
 one night,one night,TIME,,,en,2.0
 15 million,15 million,CARDINAL,,,en,2.0
 Nov. 03,Nov. 03,DATE,,,en,2.0
 A Knight of the Seven Kingdoms,A Knight of the Seven Kingdoms,WORK_OF_ART,,,en,1.9000000000000001
+Camp Pendleton,Camp Pendleton,FAC,,,en,1.9000000000000001
 Nigerians,Nigerians,NORP,,,en,1.9000000000000001
 Pride Night,Pride Night,WORK_OF_ART,,,en,1.9000000000000001
-Camp Pendleton,Camp Pendleton,FAC,,,en,1.9000000000000001
-More than 90,More than 90,CARDINAL,,,en,1.9
-midday Nov. 13,midday Nov. 13,DATE,,,en,1.9
-Blackbutt,Blackbutt,NORP,,,en,1.9
 "around 600,000 acres","around 600,000 acres",QUANTITY,,,en,1.9
+midday Nov. 13,midday Nov. 13,DATE,,,en,1.9
 59,59,DATE,,,en,1.9
+Blackbutt,Blackbutt,NORP,,,en,1.9
+More than 90,More than 90,CARDINAL,,,en,1.9
 "over 1,000 acres","over 1,000 acres",QUANTITY,,,en,1.9
 just hours,just hours,TIME,,,en,1.9
-thousands of years old,thousands of years old,DATE,,,en,1.9
+a few days ago,a few days ago,DATE,,,en,1.9
 more than 16 days,more than 16 days,DATE,,,en,1.9
 just two weeks,just two weeks,DATE,,,en,1.9
 Mana Road,Mana Road,FAC,,,en,1.9
-Feb 21,Feb 21,DATE,,,en,1.9
+thousands of years old,thousands of years old,DATE,,,en,1.9
 "17,000 acres","17,000 acres",QUANTITY,,,en,1.9
 +1724,+1724,NORP,,,en,1.9
 more than four weeks,more than four weeks,DATE,,,en,1.9
 May 28,May 28,DATE,,,en,1.9
 its fifth day,its fifth day,DATE,,,en,1.9
-6 p.m.,6 p.m.,TIME,,,en,1.9
+"Over 16,000","Over 16,000",CARDINAL,,,en,1.9
 +7124,+7124,NORP,,,en,1.9
 15%,15%,PERCENT,,,en,1.9
 three consecutive days,three consecutive days,DATE,,,en,1.9
 nearly two years,nearly two years,DATE,,,en,1.9
 More than half,More than half,CARDINAL,,,en,1.9
-summertime,summertime,DATE,,,en,1.9
+late Tuesday night,late Tuesday night,TIME,,,en,1.9
 Pack Fire Spreads,Pack Fire Spreads,PRODUCT,,,en,1.9
 about 4%,about 4%,PERCENT,,,en,1.9
 Wednesday (March 11,Wednesday (March 11,DATE,,,en,1.9
 "May 9, 1976","May 9, 1976",DATE,,,en,1.9
 1939,1939,DATE,,,en,1.9
 "more than 4,000","more than 4,000",CARDINAL,,,en,1.9
-late Tuesday night,late Tuesday night,TIME,,,en,1.9
+Feb 21,Feb 21,DATE,,,en,1.9
 "nearly 750,000 acres","nearly 750,000 acres",QUANTITY,,,en,1.9
-a few days ago,a few days ago,DATE,,,en,1.9
+summertime,summertime,DATE,,,en,1.9
 More than a year later,More than a year later,DATE,,,en,1.9
 nearly one-third,nearly one-third,CARDINAL,,,en,1.9
 111,111,CARDINAL,,,en,1.9
@@ -933,34 +933,34 @@ the summer of 2023,the summer of 2023,DATE,,,en,1.9
 13 million,13 million,CARDINAL,,,en,1.9
 $500M,$500M,MONEY,,,en,1.9
 "nearly 2,000","nearly 2,000",CARDINAL,,,en,1.9
-$2.2 million,$2.2 million,MONEY,,,en,1.9
+23.4 hectares,23.4 hectares,QUANTITY,,,en,1.9
 more than 20 years,more than 20 years,DATE,,,en,1.9
 more than three days,more than three days,DATE,,,en,1.9
 Jul 11,Jul 11,DATE,,,en,1.9
+Over 160,Over 160,CARDINAL,,,en,1.9
 $200 million,$200 million,MONEY,,,en,1.9
 10 acres,10 acres,QUANTITY,,,en,1.9
-23.4 hectares,23.4 hectares,QUANTITY,,,en,1.9
 3 years,3 years,DATE,,,en,1.9
 SUMO,SUMO,PRODUCT,,,en,1.9
 This month,This month,DATE,,,en,1.9
 Yesterday,Yesterday,DATE,,,en,1.9
-Feb. 5,Feb. 5,DATE,,,en,1.9
+$2.2 million,$2.2 million,MONEY,,,en,1.9
 the animated series,the animated series,EVENT,,,en,1.9
 June 3 for the Season 4,June 3 for the Season 4,DATE,,,en,1.9
 Al Mahabah Mosque,Al Mahabah Mosque,FAC,,,en,1.9
-This Summer,This Summer,DATE,,,en,1.9
+Feb. 5,Feb. 5,DATE,,,en,1.9
 the 4th of July,the 4th of July,DATE,,,en,1.9
-160,160,CARDINAL,,,en,1.9
+This Summer,This Summer,DATE,,,en,1.9
 four decades,four decades,DATE,,,en,1.9
 California Burning:,California Burning:,WORK_OF_ART,,,en,1.9
+160,160,CARDINAL,,,en,1.9
 49,49,CARDINAL,,,en,1.9
-almost a year,almost a year,DATE,,,en,1.9
 "3,500","3,500",CARDINAL,,,en,1.9
 less than a year,less than a year,DATE,,,en,1.9
 LA Architectural Awards,LA Architectural Awards,EVENT,,,en,1.9
-Cornish,Cornish,NORP,,,en,1.9
+almost a year,almost a year,DATE,,,en,1.9
 55th,55th,ORDINAL,,,en,1.9
-Over 160,Over 160,CARDINAL,,,en,1.9
+Cornish,Cornish,NORP,,,en,1.9
 Canadas,Canadas,NORP,-0.2571428571428572,0.5750000000000001,en,1.9
 "March 1, 2026","March 1, 2026",DATE,,,en,1.9
 Download,Download,WORK_OF_ART,,,en,1.9
@@ -969,7 +969,7 @@ More than 100,More than 100,CARDINAL,,,en,1.9
 hundreds of years,hundreds of years,DATE,,,en,1.9
 almost 80,almost 80,CARDINAL,,,en,1.9
 Smoke,Smoke,FAC,0.7201388888888889,2.0805555555555557,en,1.9
-"Over 16,000","Over 16,000",CARDINAL,,,en,1.9
+6 p.m.,6 p.m.,TIME,,,en,1.9
 79%,79%,PERCENT,,,en,1.9
 203,203,CARDINAL,,,en,1.9
 $220M,$220M,MONEY,,,en,1.9
@@ -1039,8 +1039,8 @@ Fatal Wildfire,Fatal Wildfire,FAC,,,en,1.9
 "350,000 hectares","350,000 hectares",QUANTITY,,,en,1.9
 More than $1 million,More than $1 million,MONEY,,,en,1.9
 19.5B,19.5B,MONEY,,,en,1.9
-"more than 5,500 hectares","more than 5,500 hectares",QUANTITY,,,en,1.9
 "up to $50,000","up to $50,000",MONEY,,,en,1.9
+"more than 5,500 hectares","more than 5,500 hectares",QUANTITY,,,en,1.9
 +2759 chars,+2759 chars,WORK_OF_ART,,,en,1.9
 "over 38,000 acres","over 38,000 acres",QUANTITY,,,en,1.9
 British Columbians,British Columbians,NORP,,,en,1.9
@@ -1214,8 +1214,8 @@ over half a million dollars,over half a million dollars,MONEY,,,en,1.9
 The Shore Fire,The Shore Fire,FAC,,,en,1.9
 second day,second day,DATE,,,en,1.9
 "2,600 acres","2,600 acres",QUANTITY,,,en,1.9
-20%,20%,PERCENT,,,en,1.9
 "June 16, 2026 /PRNewswire/","June 16, 2026 /PRNewswire/",DATE,,,en,1.9
+20%,20%,PERCENT,,,en,1.9
 "404,000 hectares","404,000 hectares",QUANTITY,,,en,1.9
 Six years,Six years,DATE,,,en,1.9
 more than 80,more than 80,CARDINAL,,,en,1.9
@@ -1349,10 +1349,10 @@ more than 150 square kilometres,more than 150 square kilometres,QUANTITY,,,en,1.
 coming days,coming days,DATE,,,en,1.9
 More than 50 million,More than 50 million,CARDINAL,,,en,1.9
 27C.,27C.,CARDINAL,,,en,1.9
+70 miles,70 miles,QUANTITY,,,en,1.9
 30C,30C,CARDINAL,,,en,1.9
 More than 950,More than 950,CARDINAL,,,en,1.9
 Roughly 241,Roughly 241,CARDINAL,,,en,1.9
-70 miles,70 miles,QUANTITY,,,en,1.9
 2 years,2 years,DATE,,,en,1.9
 July 27,July 27,DATE,,,en,1.9
 12 years,12 years,DATE,,,en,1.9
@@ -1378,8 +1378,8 @@ half a dozen,half a dozen,CARDINAL,,,en,1.9
 $116 million,$116 million,MONEY,,,en,1.9
 Calgarians,Calgarians,NORP,,,en,1.9
 "nearly 200,000","nearly 200,000",CARDINAL,,,en,1.9
-"around 3,000 hectares","around 3,000 hectares",QUANTITY,,,en,1.9
 Less than a week,Less than a week,DATE,,,en,1.9
+"around 3,000 hectares","around 3,000 hectares",QUANTITY,,,en,1.9
 50km/h,50km/h,QUANTITY,,,en,1.9
 less than 24 hours,less than 24 hours,TIME,,,en,1.9
 "more than 7,000 acres","more than 7,000 acres",QUANTITY,,,en,1.9
@@ -1470,8 +1470,8 @@ the coming decades,the coming decades,DATE,,,en,1.9
 "Aug. 6, 2026 /PRNewswire/","Aug. 6, 2026 /PRNewswire/",DATE,,,en,1.9
 "Aug. 12, 2026 /PRNewswire/","Aug. 12, 2026 /PRNewswire/",DATE,,,en,1.9
 Okanagan Indian,Okanagan Indian,NORP,,,en,1.9
-long weekend,long weekend,DATE,,,en,1.9
 windy day,windy day,DATE,,,en,1.9
+long weekend,long weekend,DATE,,,en,1.9
 Emigrant Fire,Emigrant Fire,FAC,,,en,1.9
 the beginning of this year,the beginning of this year,DATE,,,en,1.9
 Jul 17,Jul 17,DATE,,,en,1.9
@@ -1540,8 +1540,8 @@ San Francisco Civil Grand Jury,San Francisco Civil Grand Jury,EVENT,,,en,1.7
 early Sunday,early Sunday,DATE,,,en,1.7
 Monday night,Monday night,TIME,,,en,1.7
 76%,76%,PERCENT,,,en,1.7
-last month's,last month's,DATE,,,en,1.7
 the spring of 2025,the spring of 2025,DATE,,,en,1.7
+last month's,last month's,DATE,,,en,1.7
 +3175,+3175,NORP,,,en,1.7
 Eaton Canyon Park,Eaton Canyon Park,FAC,,,en,1.7
 Around 6:10 PM,Around 6:10 PM,TIME,,,en,1.7
@@ -1617,8 +1617,8 @@ Almost half,Almost half,CARDINAL,,,en,1.7
 Prowers,Prowers,NORP,,,en,1.7
 Hourly Wildfire Potential Index,Hourly Wildfire Potential Index,WORK_OF_ART,,,en,1.7
 the end of its winter months,the end of its winter months,DATE,,,en,1.7
-"July 29, 2026 /PRNewswire/","July 29, 2026 /PRNewswire/",DATE,,,en,1.7
 Jan. 27,Jan. 27,DATE,,,en,1.7
+"July 29, 2026 /PRNewswire/","July 29, 2026 /PRNewswire/",DATE,,,en,1.7
 36,36,CARDINAL,,,en,1.7
 nine miles,nine miles,QUANTITY,,,en,1.7
 this Summer,this Summer,DATE,,,en,1.7
@@ -1643,8 +1643,8 @@ Apathetic Americans,Apathetic Americans,NORP,,,en,1.7
 "Aug. 7, 2026 /PRNewswire/","Aug. 7, 2026 /PRNewswire/",DATE,,,en,1.7
 the Gann Fire,the Gann Fire,FAC,,,en,1.7
 The TNR Blue Book,The TNR Blue Book,WORK_OF_ART,,,en,1.7
-"40,000","40,000",CARDINAL,,,en,1.7
 238,238,CARDINAL,,,en,1.7
+"40,000","40,000",CARDINAL,,,en,1.7
 the first day,the first day,DATE,,,en,1.7
 about a third,about a third,CARDINAL,,,en,1.7
 Oct. 23,Oct. 23,DATE,,,en,1.7
@@ -1653,73 +1653,73 @@ this Melbourne Cup,this Melbourne Cup,EVENT,,,en,1.7
 "July 21, 2026 /PRNewswire/","July 21, 2026 /PRNewswire/",DATE,,,en,1.7
 43%,43%,PERCENT,,,en,1.6
 +1069,+1069,NORP,,,en,1.6
-a month,a month,DATE,,,en,1.6
+"8,500 hectares","8,500 hectares",QUANTITY,,,en,1.6
 nearly a month,nearly a month,DATE,,,en,1.6
 15 years ago,15 years ago,DATE,,,en,1.6
-"8,500 hectares","8,500 hectares",QUANTITY,,,en,1.6
+a month,a month,DATE,,,en,1.6
 "Friday, September 5","Friday, September 5",DATE,,,en,1.6
 the summer bushfire season,the summer bushfire season,DATE,,,en,1.6
 85%,85%,PERCENT,,,en,1.6
 Europeans,Europeans,NORP,,,en,1.6
 the Toronto International Film Festival,the Toronto International Film Festival,EVENT,,,en,1.6
 five-acre,five-acre,QUANTITY,,,en,1.6
-Vitis,Vitis,NORP,,,en,1.6
-Wales Theatre,Wales Theatre,FAC,,,en,1.6
-$10M,$10M,MONEY,,,en,1.6
-"October 17, 2025","October 17, 2025",DATE,,,en,1.6
-71,71,DATE,,,en,1.6
 Wrigley,Wrigley,PRODUCT,-0.2727272727272728,0.18181818181818185,en,1.6
+Wales Theatre,Wales Theatre,FAC,,,en,1.6
+"October 17, 2025","October 17, 2025",DATE,,,en,1.6
+Vitis,Vitis,NORP,,,en,1.6
+$10M,$10M,MONEY,,,en,1.6
+71,71,DATE,,,en,1.6
 Iraqi,Iraqi,NORP,,,en,1.6
 half of the year,half of the year,DATE,,,en,1.6
 "25,000","25,000",CARDINAL,,,en,1.6
 Swedish,Swedish,NORP,,,en,1.5999999999999999
 At least 17,At least 17,CARDINAL,,,en,1.5999999999999999
 Halloween,Halloween,DATE,,,en,1.5000000000000002
-23%,23%,PERCENT,,,en,1.4000000000000001
-10 years ago,10 years ago,DATE,,,en,1.4000000000000001
 Southern,Southern,NORP,0.7577209595959595,3.9896969696969697,en,1.4000000000000001
+10 years ago,10 years ago,DATE,,,en,1.4000000000000001
+23%,23%,PERCENT,,,en,1.4000000000000001
 "November 8, 2018","November 8, 2018",DATE,,,en,1.4
-seconds,seconds,TIME,,,en,1.4
 Iranian,Iranian,NORP,,,en,1.4
 October 26,October 26,DATE,,,en,1.4
-Joint Base Lewis-McChord,Joint Base Lewis-McChord,FAC,,,en,1.4
 a few years,a few years,DATE,,,en,1.4
+Joint Base Lewis-McChord,Joint Base Lewis-McChord,FAC,,,en,1.4
+seconds,seconds,TIME,,,en,1.4
 Oct. 15,Oct. 15,DATE,,,en,1.3000000000000003
+two-thirds,two-thirds,CARDINAL,,,en,1.3
+81-60,81-60,CARDINAL,,,en,1.3
++1323 chars,+1323 chars,WORK_OF_ART,,,en,1.3
 IAEA,IAEA,NORP,,,en,1.3
 January 22,January 22,DATE,,,en,1.3
-81-60,81-60,CARDINAL,,,en,1.3
-two-thirds,two-thirds,CARDINAL,,,en,1.3
-the Zaporizhzhya Nuclear Power Plant,the Zaporizhzhya Nuclear Power Plant,FAC,,,en,1.3
+mid-August,mid-August,DATE,,,en,1.3
 this weeks,this weeks,DATE,,,en,1.3
+A decade ago,A decade ago,DATE,,,en,1.3
+Coromandel,Coromandel,WORK_OF_ART,,,en,1.3
+the Zaporizhzhya Nuclear Power Plant,the Zaporizhzhya Nuclear Power Plant,FAC,,,en,1.3
 "Monday, Feb. 2, 2026","Monday, Feb. 2, 2026",DATE,,,en,1.3
 a single day,a single day,DATE,,,en,1.3
-four months,four months,DATE,,,en,1.3
 up to three hours,up to three hours,TIME,,,en,1.3
 three-week,three-week,DATE,,,en,1.3
-Coromandel,Coromandel,WORK_OF_ART,,,en,1.3
-mid-August,mid-August,DATE,,,en,1.3
-A decade ago,A decade ago,DATE,,,en,1.3
-+1323 chars,+1323 chars,WORK_OF_ART,,,en,1.3
+four months,four months,DATE,,,en,1.3
 between 8 and 13,between 8 and 13,DATE,,,en,1.3
 million-dollar,million-dollar,MONEY,,,en,1.3
-40 years old,40 years old,DATE,,,en,1.3
+Japanese,Japanese,NORP,,,en,1.3
 Grand Theft Auto 6,Grand Theft Auto 6,WORK_OF_ART,,,en,1.3
-late July,late July,DATE,,,en,1.3
-800,800,CARDINAL,,,en,1.3
-Wimmera,Wimmera,NORP,,,en,1.3
 "Sept. 1, 2026 /PRNewswire/","Sept. 1, 2026 /PRNewswire/",DATE,,,en,1.3
+late July,late July,DATE,,,en,1.3
+Wimmera,Wimmera,NORP,,,en,1.3
+800,800,CARDINAL,,,en,1.3
 eighty-two,eighty-two,CARDINAL,,,en,1.3
 +2702,+2702,NORP,,,en,1.3
 November 2024,November 2024,DATE,,,en,1.3
+40 years old,40 years old,DATE,,,en,1.3
 97%,97%,PERCENT,,,en,1.3
-Japanese,Japanese,NORP,,,en,1.3
 "at least 2,025","at least 2,025",CARDINAL,,,en,1.3
-38,38,CARDINAL,,,en,1.3
 $165 million,$165 million,MONEY,,,en,1.3
 68,68,DATE,,,en,1.3
-Lebanese,Lebanese,NORP,,,en,1.3
+38,38,CARDINAL,,,en,1.3
 The Tales of Dunk and Egg and Game of Thrones,The Tales of Dunk and Egg and Game of Thrones,WORK_OF_ART,,,en,1.3
 last Monday,last Monday,DATE,,,en,1.3
+Lebanese,Lebanese,NORP,,,en,1.3
 $26 million,$26 million,MONEY,,,en,1.3
 several weeks,several weeks,DATE,,,en,1.3
 +1300 chars,+1300 chars,WORK_OF_ART,,,en,1.3
@@ -1735,6 +1735,7 @@ nearly 50%,nearly 50%,PERCENT,,,en,1.3
 Kincade Fire,Kincade Fire,FAC,,,en,1.3
 Hughes Fire,Hughes Fire,FAC,,,en,1.3
 Feburary 5,Feburary 5,DATE,,,en,1.3
+250 million won,250 million won,MONEY,,,en,1.3
 100 percent,100 percent,PERCENT,,,en,1.3
 about a year,about a year,DATE,,,en,1.3
 the past 45 years,the past 45 years,DATE,,,en,1.3
@@ -1743,7 +1744,6 @@ Russias,Russias,NORP,,,en,1.3
 Nigerian,Nigerian,NORP,,,en,1.3
 "As many as 500,000","As many as 500,000",CARDINAL,,,en,1.3
 38%,38%,PERCENT,,,en,1.3
-250 million won,250 million won,MONEY,,,en,1.3
 seventh,seventh,ORDINAL,,,en,1.3
 six weeks,six weeks,DATE,,,en,1.3
 Norwegian,Norwegian,NORP,,,en,1.3
@@ -1751,79 +1751,79 @@ just over one year ago,just over one year ago,DATE,,,en,1.3
 the Iran War,the Iran War,EVENT,,,en,1.3
 "1,625","1,625",CARDINAL,,,en,1.3
 "2,617 acres","2,617 acres",QUANTITY,,,en,1.3
-the middle of the night,the middle of the night,TIME,,,en,1.3
+the Year,the Year,DATE,,,en,1.3
 at least 27,at least 27,CARDINAL,,,en,1.3
 +4902 chars,+4902 chars,WORK_OF_ART,,,en,1.3
+40 degrees,40 degrees,QUANTITY,,,en,1.3
 the middle of the winter season,the middle of the winter season,DATE,,,en,1.3
 Heritage Conservation Act,Heritage Conservation Act,LAW,,,en,1.3
-the Year,the Year,DATE,,,en,1.3
 Chinese American,Chinese American,NORP,,,en,1.3
-40 degrees,40 degrees,QUANTITY,,,en,1.3
-the hottest day,the hottest day,DATE,,,en,1.3
-+4206,+4206,NORP,,,en,1.3
 more than 800,more than 800,CARDINAL,,,en,1.3
-nearly half,nearly half,CARDINAL,,,en,1.3
-Havat Gilad,Havat Gilad,FAC,,,en,1.3
 "approximately $170,700","approximately $170,700",MONEY,,,en,1.3
+the hottest day,the hottest day,DATE,,,en,1.3
+the middle of the night,the middle of the night,TIME,,,en,1.3
+nearly half,nearly half,CARDINAL,,,en,1.3
++4206,+4206,NORP,,,en,1.3
 +6647,+6647,NORP,,,en,1.3
+Havat Gilad,Havat Gilad,FAC,,,en,1.3
 Hudbay,Hudbay,WORK_OF_ART,0.46022727272727265,1.1420454545454546,en,1.2000000000000002
-1991,1991,DATE,,,en,1.2000000000000002
+Nov. 12,Nov. 12,DATE,,,en,1.2000000000000002
+its third quarter 2025,its third quarter 2025,DATE,,,en,1.2000000000000002
+The FAIR Plan,The FAIR Plan,LAW,,,en,1.2000000000000002
 the hottest year,the hottest year,DATE,,,en,1.2000000000000002
 Six Seven,Six Seven,EVENT,,,en,1.2000000000000002
-its third quarter 2025,its third quarter 2025,DATE,,,en,1.2000000000000002
-Nov. 12,Nov. 12,DATE,,,en,1.2000000000000002
-The FAIR Plan,The FAIR Plan,LAW,,,en,1.2000000000000002
-Where Death Meets the Devil (Unabridged,Where Death Meets the Devil (Unabridged,WORK_OF_ART,,,en,1.2
+1991,1991,DATE,,,en,1.2000000000000002
+March 13,March 13,DATE,,,en,1.2
 May 15,May 15,DATE,,,en,1.2
 Game of Thrones,Game of Thrones,EVENT,,,en,1.2
-March 13,March 13,DATE,,,en,1.2
+Where Death Meets the Devil (Unabridged,Where Death Meets the Devil (Unabridged,WORK_OF_ART,,,en,1.2
 Seven feet,Seven feet,QUANTITY,,,en,1.2
-$5 billion,$5 billion,MONEY,,,en,1.2
-March 31,March 31,DATE,,,en,1.2
-Neanderthal,Neanderthal,NORP,,,en,1.2
-$8.6 billion,$8.6 billion,MONEY,,,en,1.2
-"more than 1,000","more than 1,000",CARDINAL,,,en,1.2
 "May 25, 2026 /PRNewswire/","May 25, 2026 /PRNewswire/",DATE,,,en,1.2
-7 million,7 million,CARDINAL,,,en,1.2
+March 31,March 31,DATE,,,en,1.2
+$5 billion,$5 billion,MONEY,,,en,1.2
+Neanderthal,Neanderthal,NORP,,,en,1.2
+"more than 1,000","more than 1,000",CARDINAL,,,en,1.2
 this years,this years,DATE,,,en,1.2
 4%,4%,PERCENT,,,en,1.2
+$8.6 billion,$8.6 billion,MONEY,,,en,1.2
+7 million,7 million,CARDINAL,,,en,1.2
+65%,65%,PERCENT,,,en,1.1
+50 years,50 years,DATE,,,en,1.1
+the last five years,the last five years,DATE,,,en,1.1
 Dime Store Horses,Dime Store Horses,WORK_OF_ART,,,en,1.1
+2.5,2.5,MONEY,,,en,1.1
+Hurricane Helene,Hurricane Helene,EVENT,,,en,1.1
 an evening,an evening,TIME,,,en,1.1
-up to 15 years,up to 15 years,DATE,,,en,1.1
+this season,this season,DATE,,,en,1.1
 Late night,Late night,TIME,,,en,1.1
 A few years,A few years,DATE,,,en,1.1
-65%,65%,PERCENT,,,en,1.1
 Oct. 16,Oct. 16,DATE,,,en,1.1
-50 years,50 years,DATE,,,en,1.1
-2.5,2.5,MONEY,,,en,1.1
-Third Quarter 2025,Third Quarter 2025,DATE,,,en,1.1
 The Life of a Showgirl,The Life of a Showgirl,WORK_OF_ART,,,en,1.1
+up to 15 years,up to 15 years,DATE,,,en,1.1
 65 Percent,65 Percent,PERCENT,,,en,1.1
-Hurricane Helene,Hurricane Helene,EVENT,,,en,1.1
-12th,12th,ORDINAL,,,en,1.1
-the last five years,the last five years,DATE,,,en,1.1
-around eight days,around eight days,DATE,,,en,1.1
-"546,000","546,000",CARDINAL,,,en,1.1
-+3323 chars,+3323 chars,WORK_OF_ART,,,en,1.1
-"about 3,000","about 3,000",CARDINAL,,,en,1.1
+Third Quarter 2025,Third Quarter 2025,DATE,,,en,1.1
 JoBlo,JoBlo,PRODUCT,,,en,1.1
-around 20 million acres,around 20 million acres,QUANTITY,,,en,1.1
-Oct 30,Oct 30,DATE,,,en,1.1
-the end of this decade,the end of this decade,DATE,,,en,1.1
+'The Lost Bus','The Lost Bus',WORK_OF_ART,,,en,1.1
 A week,A week,DATE,,,en,1.1
 americana,americana,NORP,,,en,1.1
-'The Lost Bus','The Lost Bus',WORK_OF_ART,,,en,1.1
-this season,this season,DATE,,,en,1.1
-Train Dreams,Train Dreams,WORK_OF_ART,,,en,1.0
-Jasper National Park,Jasper National Park,FAC,0.02728675645342312,0.16631593714927048,en,1.0
-This Is Not a Job,This Is Not a Job,WORK_OF_ART,,,en,1.0
+Oct 30,Oct 30,DATE,,,en,1.1
+12th,12th,ORDINAL,,,en,1.1
+around 20 million acres,around 20 million acres,QUANTITY,,,en,1.1
+the end of this decade,the end of this decade,DATE,,,en,1.1
++3323 chars,+3323 chars,WORK_OF_ART,,,en,1.1
+"546,000","546,000",CARDINAL,,,en,1.1
+around eight days,around eight days,DATE,,,en,1.1
+"about 3,000","about 3,000",CARDINAL,,,en,1.1
 "Jan. 16, 2026 (GLOBE NEWSWIRE) --","Jan. 16, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
 Patagonian,Patagonian,NORP,,,en,1.0
-Jan.  16,Jan.  16,DATE,,,en,1.0
+Jasper National Park,Jasper National Park,FAC,0.02728675645342312,0.16631593714927048,en,1.0
 Lavender Scare,Lavender Scare,PRODUCT,,,en,1.0
+This Is Not a Job,This Is Not a Job,WORK_OF_ART,,,en,1.0
+Train Dreams,Train Dreams,WORK_OF_ART,,,en,1.0
+Jan.  16,Jan.  16,DATE,,,en,1.0
 Boulder Canyon,Boulder Canyon,FAC,0.0,0.0,en,1.0
 0.2.9,0.2.9,CARDINAL,,,en,1.0
-second year,second year,DATE,,,en,1.0
+"Jan. 16, 2026","Jan. 16, 2026",DATE,,,en,1.0
 52k,52k,MONEY,,,en,1.0
 Dec. 16 2025,Dec. 16 2025,DATE,,,en,1.0
 ' summer,' summer,DATE,,,en,1.0
@@ -1844,7 +1844,7 @@ rainy season,rainy season,DATE,,,en,1.0
 the following day,the following day,DATE,,,en,1.0
 Camp Wildfire,Camp Wildfire,FAC,,,en,1.0
 more than £11m,more than £11m,MONEY,,,en,1.0
-"Jan. 16, 2026","Jan. 16, 2026",DATE,,,en,1.0
+second year,second year,DATE,,,en,1.0
 "Power On, Not Burn Out:","Power On, Not Burn Out:",WORK_OF_ART,,,en,1.0
 the last several years,the last several years,DATE,,,en,1.0
 Cup weekend,Cup weekend,DATE,,,en,1.0
@@ -1888,22 +1888,22 @@ $640M,$640M,MONEY,,,en,1.0
 2025-11-20,2025-11-20,DATE,,,en,1.0
 Nov.,Nov.,DATE,,,en,1.0
 6 months,6 months,DATE,,,en,1.0
-Forbes Newsroom,Forbes Newsroom,WORK_OF_ART,,,en,1.0
-"up to $52,250","up to $52,250",MONEY,,,en,1.0
+thousands acres,thousands acres,QUANTITY,,,en,1.0
 "Nearly 1,500","Nearly 1,500",CARDINAL,,,en,1.0
 +5141,+5141,NORP,,,en,1.0
 more than $22 billion,more than $22 billion,MONEY,,,en,1.0
 Late last year,Late last year,DATE,,,en,1.0
-Etosha National Park - BBC,Etosha National Park - BBC,FAC,,,en,1.0
+"up to $52,250","up to $52,250",MONEY,,,en,1.0
 3minutesIts,3minutesIts,CARDINAL,,,en,1.0
-thousands acres,thousands acres,QUANTITY,,,en,1.0
-late Tuesday,late Tuesday,DATE,,,en,1.0
+Forbes Newsroom,Forbes Newsroom,WORK_OF_ART,,,en,1.0
 "8,0","8,0",TIME,,,en,1.0
+late Tuesday,late Tuesday,DATE,,,en,1.0
 tens of billions of dollars,tens of billions of dollars,MONEY,,,en,1.0
 "nearly 8,500 hectares","nearly 8,500 hectares",QUANTITY,,,en,1.0
 nearly five million,nearly five million,CARDINAL,,,en,1.0
 +3789,+3789,CARDINAL,,,en,1.0
 Cedar Fire,Cedar Fire,FAC,,,en,1.0
+Etosha National Park - BBC,Etosha National Park - BBC,FAC,,,en,1.0
 2003,2003,DATE,,,en,1.0
 New Year,New Year,EVENT,,,en,1.0
 "More than 400,000 hectares","More than 400,000 hectares",QUANTITY,,,en,1.0
@@ -1933,10 +1933,10 @@ the final months,the final months,DATE,,,en,1.0
 "50,000 tonnes","50,000 tonnes",QUANTITY,,,en,1.0
 Climate Change Is NOT Resulting,Climate Change Is NOT Resulting,PRODUCT,,,en,1.0
 1600 hectares,1600 hectares,QUANTITY,,,en,1.0
-the Waihohonu Hut,the Waihohonu Hut,FAC,,,en,1.0
 Colorados,Colorados,NORP,,,en,1.0
 more than 450sq km,more than 450sq km,QUANTITY,,,en,1.0
 "Feb 03, 2026","Feb 03, 2026",DATE,,,en,1.0
+the Waihohonu Hut,the Waihohonu Hut,FAC,,,en,1.0
 … Nearly seven years,… Nearly seven years,DATE,,,en,1.0
 2:00 PM,2:00 PM,TIME,,,en,1.0
 Trump Speed,Trump Speed,PRODUCT,,,en,1.0
@@ -1989,9 +1989,9 @@ about $100 million,about $100 million,MONEY,,,en,1.0
 2019-20,2019-20,DATE,,,en,1.0
 almost seven,almost seven,CARDINAL,,,en,1.0
 Eyes Wide Shut,Eyes Wide Shut,WORK_OF_ART,,,en,1.0
+more than $1 million,more than $1 million,MONEY,,,en,1.0
 Sound Body Sound Mind,Sound Body Sound Mind,WORK_OF_ART,,,en,1.0
 $2.2M,$2.2M,MONEY,,,en,1.0
-more than $1 million,more than $1 million,MONEY,,,en,1.0
 $100M,$100M,MONEY,,,en,1.0
 "about 2,200 kilometres","about 2,200 kilometres",QUANTITY,,,en,1.0
 +2462,+2462,NORP,,,en,1.0
@@ -2016,8 +2016,8 @@ When Calls The Heart Season 13 Episode,When Calls The Heart Season 13 Episode,WO
 more than 350 million,more than 350 million,CARDINAL,,,en,1.0
 Per Year,Per Year,DATE,,,en,1.0
 tens of th,tens of th,DATE,,,en,1.0
-Penang Hill,Penang Hill,FAC,,,en,1.0
 +11895 chars,+11895 chars,WORK_OF_ART,,,en,1.0
+Penang Hill,Penang Hill,FAC,,,en,1.0
 This year’s…,This year’s…,DATE,,,en,1.0
 $18 Billion,$18 Billion,MONEY,,,en,1.0
 International Holocaust Remembrance Day,International Holocaust Remembrance Day,EVENT,,,en,1.0
@@ -2378,10 +2378,10 @@ Billions,Billions,CARDINAL,,,en,1.0
 around 6 p.m.,around 6 p.m.,TIME,,,en,1.0
 Indian Himalayan,Indian Himalayan,NORP,,,en,1.0
 4 tonnes,4 tonnes,QUANTITY,,,en,1.0
-OCTOBER 26,OCTOBER 26,DATE,,,en,1.0
 up to 278 kilometres per hour,up to 278 kilometres per hour,QUANTITY,,,en,1.0
 Parikino,Parikino,NORP,-0.008333333333333331,0.25833333333333336,en,1.0
 Whanganui,Whanganui,PRODUCT,0.0,0.5,en,1.0
+OCTOBER 26,OCTOBER 26,DATE,,,en,1.0
 4km,4km,QUANTITY,,,en,1.0
 a Christmas Day,a Christmas Day,DATE,,,en,1.0
 70 percent,70 percent,PERCENT,,,en,1.0
@@ -2535,9 +2535,9 @@ Los Angeles Palisades Fire,Los Angeles Palisades Fire,FAC,,,en,1.0
 +2031,+2031,NORP,,,en,1.0
 a mile,a mile,QUANTITY,,,en,1.0
 2012.Shelby,2012.Shelby,CARDINAL,,,en,1.0
-1 year later,1 year later,DATE,,,en,1.0
-October 30,October 30,DATE,,,en,1.0
 +7859 chars,+7859 chars,WORK_OF_ART,,,en,1.0
+October 30,October 30,DATE,,,en,1.0
+1 year later,1 year later,DATE,,,en,1.0
 10/30/2025,10/30/2025,CARDINAL,,,en,1.0
 the first six months of this year,the first six months of this year,DATE,,,en,1.0
 Rose Bowl Parade Float Demanding Answers,Rose Bowl Parade Float Demanding Answers,EVENT,,,en,1.0
@@ -2548,8 +2548,8 @@ October 29,October 29,DATE,,,en,1.0
 Wildfire Victims,Wildfire Victims,WORK_OF_ART,,,en,1.0
 five-foot,five-foot,QUANTITY,,,en,1.0
 +2969 chars,+2969 chars,WORK_OF_ART,,,en,1.0
-the Rancho Fi,the Rancho Fi,FAC,,,en,1.0
 "December 29, 2025","December 29, 2025",DATE,,,en,1.0
+the Rancho Fi,the Rancho Fi,FAC,,,en,1.0
 +2132,+2132,NORP,,,en,1.0
 "more than 32,000","more than 32,000",CARDINAL,,,en,1.0
 1/4/2026,1/4/2026,CARDINAL,,,en,1.0
@@ -2958,9 +2958,9 @@ more than 830,more than 830,CARDINAL,,,en,1.0
 close to 100 degrees,close to 100 degrees,QUANTITY,,,en,1.0
 around 11:30 p.m. PT,around 11:30 p.m. PT,TIME,,,en,1.0
 Collins Road,Collins Road,FAC,,,en,1.0
-"Tuesday, July 21","Tuesday, July 21",DATE,,,en,1.0
 the Fort France,the Fort France,FAC,,,en,1.0
 Lac des Mille Lacs,Lac des Mille Lacs,FAC,,,en,1.0
+"Tuesday, July 21","Tuesday, July 21",DATE,,,en,1.0
 12 p.m. PT,12 p.m. PT,TIME,,,en,1.0
 340 miles,340 miles,QUANTITY,,,en,1.0
 550km,550km,QUANTITY,,,en,1.0
@@ -4905,8 +4905,8 @@ just last week,just last week,DATE,,,en,1.0
 TMZ Live,TMZ Live,WORK_OF_ART,,,en,1.0
 the past weeks,the past weeks,DATE,,,en,1.0
 about 10km,about 10km,QUANTITY,,,en,1.0
-"nearly 40,000 acres","nearly 40,000 acres",QUANTITY,,,en,1.0
 <ul><li>,<ul><li>,WORK_OF_ART,,,en,1.0
+"nearly 40,000 acres","nearly 40,000 acres",QUANTITY,,,en,1.0
 Music's Biggest,Music's Biggest,WORK_OF_ART,,,en,1.0
 67TH,67TH,ORDINAL,,,en,1.0
 SHAKIRA,SHAKIRA,EVENT,,,en,1.0
@@ -5386,7 +5386,7 @@ more than $60 million,more than $60 million,MONEY,,,en,1.0
 Los Angeles Intuit Dom,Los Angeles Intuit Dom,FAC,,,en,1.0
 FireAid concert,FireAid concert,FAC,,,en,1.0
 Bike,Bike,PRODUCT,,,en,1.0
-the seventh day,the seventh day,DATE,,,en,1.0
+the Rose Bowl,the Rose Bowl,FAC,,,en,1.0
 850,850,CARDINAL,,,en,1.0
 Wildfire Disaster Response Ad Hoc Task Force,Wildfire Disaster Response Ad Hoc Task Force,LAW,,,en,1.0
 Proposition 22,Proposition 22,LAW,,,en,1.0
@@ -5394,9 +5394,9 @@ nearly 70 percent,nearly 70 percent,PERCENT,,,en,1.0
 A Love Song,A Love Song,WORK_OF_ART,,,en,1.0
 +3295 chars,+3295 chars,WORK_OF_ART,,,en,1.0
 Eart,Eart,WORK_OF_ART,,,en,1.0
-at least 28,at least 28,CARDINAL,,,en,1.0
-the Rose Bowl,the Rose Bowl,FAC,,,en,1.0
 The Fix Our Forests Act,The Fix Our Forests Act,LAW,,,en,1.0
+at least 28,at least 28,CARDINAL,,,en,1.0
+the seventh day,the seventh day,DATE,,,en,1.0
 Freaky Thursday,Freaky Thursday,WORK_OF_ART,,,en,1.0
 "11,000 hectares","11,000 hectares",QUANTITY,,,en,1.0
 Sunset Boulevard,Sunset Boulevard,FAC,,,en,1.0
@@ -5936,9 +5936,9 @@ July 15,July 15,DATE,,,en,1.0
 Tekirdağ,Tekirdağ,NORP,,,en,1.0
 17 July 2025,17 July 2025,DATE,,,en,1.0
 June 2025.I,June 2025.I,DATE,,,en,1.0
-Musgrave Harbour,Musgrave Harbour,FAC,0.024999999999999967,5.025,en,1.0
-only 1 kilometre,only 1 kilometre,QUANTITY,,,en,1.0
-+3800 chars,+3800 chars,WORK_OF_ART,,,en,1.0
+2 km,2 km,QUANTITY,,,en,1.0
+all day Sunday,all day Sunday,DATE,,,en,1.0
+2 kilometres,2 kilometres,QUANTITY,,,en,1.0
 Slave Lake,Slave Lake,FAC,0.1,0.4,en,1.0
 a few weeks,a few weeks,DATE,,,en,1.0
 Prairies,Prairies,FAC,0.07894736842105264,0.13157894736842105,en,1.0
@@ -5952,17 +5952,17 @@ Fancy Women Ride,Fancy Women Ride,FAC,,,en,1.0
 +1534,+1534,NORP,,,en,1.0
 this year's dry season,this year's dry season,DATE,,,en,1.0
 422 hectares,422 hectares,QUANTITY,,,en,1.0
-two kilometres,two kilometres,QUANTITY,,,en,1.0
-2 kilometres,2 kilometres,QUANTITY,,,en,1.0
-all day Sunday,all day Sunday,DATE,,,en,1.0
-2 km,2 km,QUANTITY,,,en,1.0
 Banting Memorial Park Campground,Banting Memorial Park Campground,FAC,,,en,1.0
 only 2 kilometers,only 2 kilometers,QUANTITY,,,en,1.0
++3800 chars,+3800 chars,WORK_OF_ART,,,en,1.0
+only 1 kilometre,only 1 kilometre,QUANTITY,,,en,1.0
+Musgrave Harbour,Musgrave Harbour,FAC,0.024999999999999967,5.025,en,1.0
+two kilometres,two kilometres,QUANTITY,,,en,1.0
 +1834 chars,+1834 chars,WORK_OF_ART,,,en,1.0
 "Around 14,000","Around 14,000",CARDINAL,,,en,1.0
 the Bay de Verde Peninsula,the Bay de Verde Peninsula,FAC,-1.0,1.0,en,1.0
 above 40 degrees Celsius,above 40 degrees Celsius,QUANTITY,,,en,1.0
-nearly eight million hectares,nearly eight million hectares,QUANTITY,,,en,1.0
+more than 16 million hectares,more than 16 million hectares,QUANTITY,,,en,1.0
 earlier this summer,earlier this summer,DATE,,,en,1.0
 Eighty-four percent,Eighty-four percent,PERCENT,,,en,1.0
 A record one million hectares,A record one million hectares,QUANTITY,,,en,1.0
@@ -5982,7 +5982,7 @@ less than two weeks,less than two weeks,DATE,,,en,1.0
 "6,000","6,000",CARDINAL,,,en,1.0
 roughly 27.3 million hectares,roughly 27.3 million hectares,QUANTITY,,,en,1.0
 about seven per cent,about seven per cent,MONEY,,,en,1.0
-more than 16 million hectares,more than 16 million hectares,QUANTITY,,,en,1.0
+nearly eight million hectares,nearly eight million hectares,QUANTITY,,,en,1.0
 Aug. 28,Aug. 28,DATE,,,en,1.0
 the Labour Day long weekend,the Labour Day long weekend,DATE,,,en,1.0
 several years,several years,DATE,,,en,1.0
@@ -6519,11 +6519,11 @@ More than 166,More than 166,CARDINAL,,,en,1.0
 05/30/2025 8:25:35 AM PDT,05/30/2025 8:25:35 AM PDT,TIME,,,en,1.0
 "21,000","21,000",CARDINAL,,,en,1.0
 about 5%,about 5%,PERCENT,,,en,1.0
+1 p.m. CST,1 p.m. CST,TIME,,,en,1.0
 my 40 years,my 40 years,DATE,,,en,1.0
 only two days,only two days,DATE,,,en,1.0
 the Saskatchewan Public Safet… Wildfires,the Saskatchewan Public Safet… Wildfires,EVENT,,,en,1.0
 these days,these days,DATE,,,en,1.0
-1 p.m. CST,1 p.m. CST,TIME,,,en,1.0
 the span of one day,the span of one day,DATE,,,en,1.0
 +5638,+5638,NORP,,,en,1.0
 May 29,May 29,DATE,,,en,1.0
@@ -6545,9 +6545,9 @@ one afternoon,one afternoon,TIME,,,en,1.0
 72%,72%,PERCENT,,,en,1.0
 "over 15,300 acres","over 15,300 acres",QUANTITY,,,en,1.0
 21.5,21.5,CARDINAL,,,en,1.0
-"nearly 1,000 acres","nearly 1,000 acres",QUANTITY,,,en,1.0
 the Michaux State Forest,the Michaux State Forest,FAC,,,en,1.0
 "more than 1,350 acres","more than 1,350 acres",QUANTITY,,,en,1.0
+"nearly 1,000 acres","nearly 1,000 acres",QUANTITY,,,en,1.0
 seven to nine million acres,seven to nine million acres,QUANTITY,,,en,1.0
 "more than 83,600 square kilometres","more than 83,600 square kilometres",QUANTITY,,,en,1.0
 Four months,Four months,DATE,,,en,1.0
@@ -6651,17 +6651,17 @@ $11.22 billion,$11.22 billion,MONEY,,,en,1.0
 Air Quality Week,Air Quality Week,EVENT,,,en,1.0
 The Wake of Devastating LA Fires,The Wake of Devastating LA Fires,WORK_OF_ART,,,en,1.0
 71%,71%,PERCENT,,,en,1.0
-+1858,+1858,CARDINAL,,,en,1.0
+Range Road,Range Road,FAC,,,en,1.0
 First Quarter 2025,First Quarter 2025,DATE,,,en,1.0
 2020.About 35%,2020.About 35%,PERCENT,,,en,1.0
 "15,000","15,000",CARDINAL,,,en,1.0
 L.A. Recovers,L.A. Recovers,WORK_OF_ART,,,en,1.0
 as many as thousands,as many as thousands,CARDINAL,,,en,1.0
++1858,+1858,CARDINAL,,,en,1.0
+10:50 p.m.,10:50 p.m.,TIME,,,en,1.0
 5:46 p.m.,5:46 p.m.,TIME,,,en,1.0
 Township 644,Township 644,FAC,,,en,1.0
-Range Road,Range Road,FAC,,,en,1.0
 Highway 831,Highway 831,FAC,,,en,1.0
-10:50 p.m.,10:50 p.m.,TIME,,,en,1.0
 Lisdoonvarna Fire,Lisdoonvarna Fire,FAC,,,en,1.0
 next summer,next summer,DATE,,,en,1.0
 early this summer,early this summer,DATE,,,en,1.0
@@ -6898,12 +6898,12 @@ four weeks,four weeks,DATE,,,en,1.0
 at least seven,at least seven,CARDINAL,,,en,1.0
 12:45 p.m,12:45 p.m,TIME,,,en,1.0
 90%,90%,PERCENT,,,en,1.0
-almost every week,almost every week,DATE,,,en,1.0
 "about in the hours, days","about in the hours, days",TIME,,,en,1.0
+almost every week,almost every week,DATE,,,en,1.0
 5:52 p.m.,5:52 p.m.,TIME,,,en,1.0
+about nine kilometres,about nine kilometres,QUANTITY,,,en,1.0
 late Sunday,late Sunday,DATE,,,en,1.0
 Kelowna International Airport,Kelowna International Airport,FAC,,,en,1.0
-about nine kilometres,about nine kilometres,QUANTITY,,,en,1.0
 midweek,midweek,DATE,,,en,1.0
 July 6,July 6,DATE,,,en,1.0
 "nearly 80,000 acres","nearly 80,000 acres",QUANTITY,,,en,1.0
@@ -6924,9 +6924,9 @@ May 19,May 19,DATE,,,en,1.0
 315,315,CARDINAL,,,en,1.0
 "Some 10,000","Some 10,000",CARDINAL,,,en,1.0
 6 Years,6 Years,DATE,,,en,1.0
+"between 10,000 to 15,000","between 10,000 to 15,000",CARDINAL,,,en,1.0
 La Ronge,La Ronge,FAC,0.0,0.29166666666666663,en,1.0
 One week,One week,DATE,,,en,1.0
-"between 10,000 to 15,000","between 10,000 to 15,000",CARDINAL,,,en,1.0
 Two years later,Two years later,DATE,,,en,1.0
 +2418,+2418,NORP,,,en,1.0
 "June 3, 2025","June 3, 2025",DATE,,,en,1.0
